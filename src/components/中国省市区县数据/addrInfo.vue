@@ -22,8888 +22,8888 @@ export default {
     return {
       area: [],
       options: [{
-        value: 'beijing',
+        value: '北京市',
         label: '北京市',
         children: [{
-          value: 'beijing',
+          value: '北京市',
           label: '北京市',
           children: [{
-            value: 'dongcheng',
+            value: '东城区',
             label: '东城区'
           }, {
-            value: 'xicheng',
+            value: '西城区',
             label: '西城区'
           }, {
-            value: 'chaoyang',
+            value: '朝阳区',
             label: '朝阳区'
           }, {
-            value: 'fengtai',
+            value: '丰台区',
             label: '丰台区'
           }, {
-            value: 'shijingshan',
+            value: '石景山区',
             label: '石景山区'
           }, {
-            value: 'haiding',
+            value: '海定区',
             label: '海定区'
           }, {
-            value: 'mentougou',
+            value: '门头沟区',
             label: '门头沟区'
           }, {
-            value: 'fangshan',
+            value: '房山区',
             label: '房山区'
           }, {
-            value: 'tongzhou',
+            value: '通州区',
             label: '通州区'
           }, {
-            value: 'shunyi',
+            value: '顺义区',
             label: '顺义区'
           }, {
-            value: 'changping',
+            value: '昌平区',
             label: '昌平区'
           }, {
-            value: 'daxing',
+            value: '大兴区',
             label: '大兴区'
           }, {
-            value: 'huairou',
+            value: '怀柔区',
             label: '怀柔区'
           }, {
-            value: 'pinggu',
+            value: '平谷区',
             label: '平谷区'
           }, {
-            value: 'miyun',
+            value: '密云区',
             label: '密云区'
           }, {
-            value: 'yanqing',
+            value: '延庆区',
             label: '延庆区'
           }]
         }]
       }, {
-        value: 'tianjin',
+        value: '天津市',
         label: '天津市',
         children: [{
-          value: 'tianjin',
+          value: '天津市',
           label: '天津市',
           children: [{
-            value: 'heping',
+            value: '和平区',
             label: '和平区'
           }, {
-            value: 'hedong',
+            value: '河东区',
             label: '河东区'
           }, {
-            value: 'hexi',
+            value: '河西区',
             label: '河西区'
           }, {
-            value: 'nankai',
+            value: '南开区',
             label: '南开区'
           }, {
-            value: 'hebei',
+            value: '河北区',
             label: '河北区'
           }, {
-            value: 'hongqiao',
+            value: '红桥区',
             label: '红桥区'
           }, {
-            value: 'dongli',
+            value: '东丽区',
             label: '东丽区'
           }, {
-            value: 'xiqing',
+            value: '西青区',
             label: '西青区'
           }, {
-            value: 'jinnan',
+            value: '津南区',
             label: '津南区'
           }, {
-            value: 'beichen',
+            value: '北辰区',
             label: '北辰区'
           }, {
-            value: 'wuqing',
+            value: '武清区',
             label: '武清区'
           }, {
-            value: 'baodi',
+            value: '宝坻区',
             label: '宝坻区'
           }, {
-            value: 'haibingxin',
+            value: '滨海新区',
             label: '滨海新区'
           }, {
-            value: 'ninghe',
+            value: '宁河区',
             label: '宁河区'
           }, {
-            value: 'jinghai',
+            value: '静海区',
             label: '静海区'
           }, {
-            value: 'jizhou',
+            value: '蓟州区',
             label: '蓟州区'
           }]
         }]
       }, {
-        value: 'hebei',
+        value: '河北省',
         label: '河北省',
         children: [{
-          value: 'shijiazhuang',
+          value: '石家庄市',
           label: '石家庄市',
           children: [{
-            value: 'changan',
+            value: '长安区',
             label: '长安区'
           }, {
-            value: 'qiaoxi',
+            value: '桥西区',
             label: '桥西区'
           }, {
-            value: 'xinhua',
+            value: '新华区',
             label: '新华区'
           }, {
-            value: 'jingxingkuang',
+            value: '井陉矿区',
             label: '井陉矿区'
           }, {
-            value: 'yuhua',
+            value: '裕华区',
             label: '裕华区'
           }, {
-            value: 'gaocheng',
+            value: '藁城区',
             label: '藁城区'
           }, {
-            value: 'luquan',
+            value: '鹿泉区',
             label: '鹿泉区'
           }, {
-            value: 'luancheng',
+            value: '栾城区',
             label: '栾城区'
           }, {
-            value: 'jingxing',
+            value: '井陉县',
             label: '井陉县'
           }, {
-            value: 'zhengding',
+            value: '正定县',
             label: '正定县'
           }, {
-            value: 'xingtang',
+            value: '行唐县',
             label: '行唐县'
           }, {
-            value: 'lingshou',
+            value: '灵寿县',
             label: '灵寿县'
           }, {
-            value: 'gaoyi',
+            value: '高邑县',
             label: '高邑县'
           }, {
-            value: 'shenze',
+            value: '深泽县',
             label: '深泽县'
           }, {
-            value: 'zanhuang',
+            value: '赞皇县',
             label: '赞皇县'
           }, {
-            value: 'wuji',
+            value: '无极县',
             label: '无极县'
           }, {
-            value: 'pingshan',
+            value: '平山县',
             label: '平山县'
           }, {
-            value: 'yuanshi',
+            value: '元氏县',
             label: '元氏县'
           }, {
-            value: 'zhaoxian',
+            value: '赵县',
             label: '赵县'
           }, {
-            value: 'chanyekaifa',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'huagongyuan',
+            value: '循环化工园区',
             label: '循环化工园区'
           }, {
-            value: 'xinji',
+            value: '辛集市',
             label: '辛集市'
           }, {
-            value: 'jingzhou',
+            value: '晋州市',
             label: '晋州市'
           }, {
-            value: 'xinle',
+            value: '新乐市',
             label: '新乐市'
           }]
         }, {
-          value: 'tangshan',
+          value: '唐山市',
           label: '唐山市',
           children: [{
-            value: 'lunan',
+            value: '路南区',
             label: '路南区'
           }, {
-            value: 'lubei',
+            value: '路北区',
             label: '路北区'
           }, {
-            value: 'guye',
+            value: '古冶区',
             label: '古冶区'
           }, {
-            value: 'kaipin',
+            value: '开平区',
             label: '开平区'
           }, {
-            value: 'fengnan',
+            value: '丰南区',
             label: '丰南区'
           }, {
-            value: 'fengren',
+            value: '丰润区',
             label: '丰润区'
           }, {
-            value: 'caofeidian',
+            value: '曹妃甸区',
             label: '曹妃甸区'
           }, {
-            value: 'luannan',
+            value: '滦南县',
             label: '滦南县'
           }, {
-            value: 'leting',
+            value: '乐亭县',
             label: '乐亭县'
           }, {
-            value: 'qianxi',
+            value: '迁西县',
             label: '迁西县'
           }, {
-            value: 'yutian',
+            value: '玉田县',
             label: '玉田县'
           }, {
-            value: 'lutaijingjikaifa',
+            value: '芦台经济技术开发区',
             label: '芦台经济技术开发区'
           }, {
-            value: 'hanguguanli',
+            value: '汉沽管理区',
             label: '汉沽管理区'
           }, {
-            value: 'gaoxinjishu',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'haigangjingji',
+            value: '海港经济开发区',
             label: '海港经济开发区'
           }, {
-            value: 'zunhua',
+            value: '遵化市',
             label: '遵化市'
           }, {
-            value: 'qianan',
+            value: '迁安市',
             label: '迁安市'
           }, {
-            value: 'luanzhou',
+            value: '滦州市',
             label: '滦州市'
           }]
         }, {
-          value: 'qinhuangdao',
+          value: '秦皇岛市',
           label: '秦皇岛市',
           children: [{
-            value: 'haigang',
+            value: '海港区',
             label: '海港区'
           }, {
-            value: 'shanhaiguan',
+            value: '山海关区',
             label: '山海关区'
           }, {
-            value: 'beidaihe',
+            value: '北戴河区',
             label: '北戴河区'
           }, {
-            value: 'funing',
+            value: '抚宁区',
             label: '抚宁区'
           }, {
-            value: 'qinglong',
+            value: '青龙县',
             label: '青龙县'
           }, {
-            value: 'changli',
+            value: '昌黎县',
             label: '昌黎县'
           }, {
-            value: 'lulong',
+            value: '卢龙县',
             label: '卢龙县'
           }, {
-            value: 'jingjikaifa',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'beidaihexin',
+            value: '北戴河新区',
             label: '北戴河新区'
           }]
         }, {
-          value: 'handan',
+          value: '邯郸市',
           label: '邯郸市',
           children: [{
-            value: 'hanshan',
+            value: '邯山区',
             label: '邯山区'
           }, {
-            value: 'congtai',
+            value: '丛台区',
             label: '丛台区'
           }, {
-            value: 'fuxing',
+            value: '复兴区',
             label: '复兴区'
           }, {
-            value: 'fengfengkuang',
+            value: '峰峰矿区',
             label: '峰峰矿区'
           }, {
-            value: 'feixiang',
+            value: '肥乡区',
             label: '肥乡区'
           }, {
-            value: 'yongnian',
+            value: '永年区',
             label: '永年区'
           }, {
-            value: 'linzhang',
+            value: '临漳县',
             label: '临漳县'
           }, {
-            value: 'chengan',
+            value: '成安县',
             label: '成安县'
           }, {
-            value: 'daming',
+            value: '大名县',
             label: '大名县'
           }, {
-            value: 'she',
+            value: '涉县',
             label: '涉县'
           }, {
-            value: 'ci',
+            value: '磁县',
             label: '磁县'
           }, {
-            value: 'qiu',
+            value: '邱县',
             label: '邱县'
           }, {
-            value: 'jize',
+            value: '鸡泽县',
             label: '鸡泽县'
           }, {
-            value: 'guangping',
+            value: '广平县',
             label: '广平县'
           }, {
-            value: 'guantao',
+            value: '馆陶县',
             label: '馆陶县'
           }, {
-            value: 'wei',
+            value: '魏县',
             label: '魏县'
           }, {
-            value: 'quzhou',
+            value: '曲周县',
             label: '曲周县'
           }, {
-            value: 'jingjikaifa',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'jinanxin',
+            value: '冀南新区',
             label: '冀南新区'
           }, {
-            value: 'wuan',
+            value: '武安区',
             label: '武安区'
           }]
         }, {
-          value: 'xingtai',
+          value: '邢台市',
           label: '邢台市',
           children: [{
-            value: 'xiangdu',
+            value: '襄都区',
             label: '襄都区'
           }, {
-            value: 'xindu',
+            value: '信都区',
             label: '信都区'
           }, {
-            value: 'renze',
+            value: '任泽区',
             label: '任泽区'
           }, {
-            value: 'nanhe',
+            value: '南和区',
             label: '南和区'
           }, {
-            value: 'linxian',
+            value: '临城县',
             label: '临城县'
           }, {
-            value: 'neiqiu',
+            value: '内丘县',
             label: '内丘县'
           }, {
-            value: 'baixiang',
+            value: '柏乡县',
             label: '柏乡县'
           }, {
-            value: 'longyao',
+            value: '隆尧县',
             label: '隆尧县'
           }, {
-            value: 'ningjin',
+            value: '宁晋县',
             label: '宁晋县'
           }, {
-            value: 'julu',
+            value: '巨鹿县',
             label: '巨鹿县'
           }, {
-            value: 'xinhe',
+            value: '新河县',
             label: '新河县'
           }, {
-            value: 'guangzong',
+            value: '广宗县',
             label: '广宗县'
           }, {
-            value: 'pingxiang',
+            value: '平乡县',
             label: '平乡县'
           }, {
-            value: 'wei',
+            value: '威县',
             label: '威县'
           }, {
-            value: 'qinghe',
+            value: '清河县',
             label: '清河县'
           }, {
-            value: 'linxi',
+            value: '临西县',
             label: '临西县'
           }, {
-            value: 'xingtaijingji',
+            value: '邢台经济开发区',
             label: '邢台经济开发区'
           }, {
-            value: 'nangong',
+            value: '南宫市',
             label: '南宫市'
           }, {
-            value: 'shahe',
+            value: '沙河市',
             label: '沙河市'
           }]
         }, {
-          value: 'xionganxin',
+          value: '雄安新区',
           label: '雄安新区',
           children: [{
-            value: 'rongcheng',
+            value: '容城县',
             label: '容城县'
           }, {
-            value: 'anxin',
+            value: '安新县',
             label: '安新县'
           }, {
-            value: 'xiong',
+            value: '雄县',
             label: '雄县'
           }]
         }, {
-          value: 'baoding',
+          value: '保定市',
           label: '保定市',
           children: [{
-            value: 'jingxiu',
+            value: '竞秀区',
             label: '竞秀区'
           }, {
-            value: 'lianchi',
+            value: '莲池区',
             label: '莲池区'
           }, {
-            value: 'mancheng',
+            value: '满城区',
             label: '满城区'
           }, {
-            value: 'qingyuan',
+            value: '清苑区',
             label: '清苑区'
           }, {
-            value: 'xushui',
+            value: '徐水区',
             label: '徐水区'
           }, {
-            value: 'laishui',
+            value: '涞水县',
             label: '涞水县'
           }, {
-            value: 'fuping',
+            value: '阜平县',
             label: '阜平县'
           }, {
-            value: 'dingxing',
+            value: '定兴县',
             label: '定兴县'
           }, {
-            value: 'tang',
+            value: '唐县',
             label: '唐县'
           }, {
-            value: 'gaoyang',
+            value: '高阳县',
             label: '高阳县'
           }, {
-            value: 'laiyuan',
+            value: '涞源县',
             label: '涞源县'
           }, {
-            value: 'wangdu',
+            value: '望都县',
             label: '望都县'
           }, {
-            value: 'yi',
+            value: '易县',
             label: '易县'
           }, {
-            value: 'quyang',
+            value: '曲阳县',
             label: '曲阳县'
           }, {
-            value: 'li',
+            value: '蠡县',
             label: '蠡县'
           }, {
-            value: 'shunping',
+            value: '顺平县',
             label: '顺平县'
           }, {
-            value: 'boye',
+            value: '博野县',
             label: '博野县'
           }, {
-            value: 'gaoxinjishu',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'baigoucheng',
+            value: '白沟新城',
             label: '白沟新城'
           }, {
-            value: 'zhuzhou',
+            value: '涿州市',
             label: '涿州市'
           }, {
-            value: 'dingzhou',
+            value: '定州市',
             label: '定州市'
           }, {
-            value: 'anguo',
+            value: '安国市',
             label: '安国市'
           }, {
-            value: 'gaobeidian',
+            value: '高碑店市',
             label: '高碑店市'
           }]
         }, {
-          value: 'zhangjiakou',
+          value: '张家口市',
           label: '张家口市',
           children: [{
-            value: 'qiaodong',
+            value: '桥东区',
             label: '桥东区'
           }, {
-            value: 'qiaoxi',
+            value: '桥西区',
             label: '桥西区'
           }, {
-            value: 'xuanhua',
+            value: '宣化区',
             label: '宣化区'
           }, {
-            value: 'xiahuayuan',
+            value: '下花园区',
             label: '下花园区'
           }, {
-            value: 'wanquan',
+            value: '万全区',
             label: '万全区'
           }, {
-            value: 'chongli',
+            value: '崇礼区',
             label: '崇礼区'
           }, {
-            value: 'zhangbei',
+            value: '张北县',
             label: '张北县'
           }, {
-            value: 'kangbao',
+            value: '康保县',
             label: '康保县'
           }, {
-            value: 'guyuan',
+            value: '沽源县',
             label: '沽源县'
           }, {
-            value: 'shangyi',
+            value: '尚义县',
             label: '尚义县'
           }, {
-            value: 'wei',
+            value: '蔚县',
             label: '蔚县'
           }, {
-            value: 'yangyuan',
+            value: '阳原县',
             label: '阳原县'
           }, {
-            value: 'huaian',
+            value: '怀安县',
             label: '怀安县'
           }, {
-            value: 'huailai',
+            value: '怀来县',
             label: '怀来县'
           }, {
-            value: 'zhuolu',
+            value: '涿鹿县',
             label: '涿鹿县'
           }, {
-            value: 'chicheng',
+            value: '赤城县',
             label: '赤城县'
           }, {
-            value: 'gaoxinkeji',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'nangong',
+            value: '南宫市',
             label: '南宫市'
           }, {
-            value: 'cabeiguanli',
+            value: '察北管理区',
             label: '察北管理区'
           }, {
-            value: 'saibeiguanli',
+            value: '塞北管理区',
             label: '塞北管理区'
           }]
         }, {
-          value: 'chengde',
+          value: '承德市',
           label: '承德市',
           children: [{
-            value: 'shuangqiao',
+            value: '双桥区',
             label: '双桥区'
           }, {
-            value: 'shuangluan',
+            value: '双滦区',
             label: '双滦区'
           }, {
-            value: 'yingshouyingzi',
+            value: '鹰手营子矿区',
             label: '鹰手营子矿区'
           }, {
-            value: 'chengde',
+            value: '承德县',
             label: '承德县'
           }, {
-            value: 'xinglong',
+            value: '兴隆县',
             label: '兴隆县'
           }, {
-            value: 'luanping',
+            value: '滦平县',
             label: '滦平县'
           }, {
-            value: 'longhua',
+            value: '隆化县',
             label: '隆化县'
           }, {
-            value: 'fengningmanzu',
+            value: '丰宁满族自治区',
             label: '丰宁满族自治区'
           }, {
-            value: 'kuancheng',
+            value: '宽城县',
             label: '宽城县'
           }, {
-            value: 'weichang',
+            value: '围场县',
             label: '围场县'
           }, {
-            value: 'gaoxinkeji',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'pingquan',
+            value: '平泉县',
             label: '平泉县'
           }]
         }, {
-          value: 'cangzhou',
+          value: '沧州市',
           label: '沧州市',
           children: [{
-            value: 'xinhua',
+            value: '新华区',
             label: '新华区'
           }, {
-            value: 'yunhe',
+            value: '运河区',
             label: '运河区'
           }, {
-            value: 'cang',
+            value: '沧县',
             label: '沧县'
           }, {
-            value: 'qing',
+            value: '青县',
             label: '青县'
           }, {
-            value: 'dongguang',
+            value: '东光县',
             label: '东光县'
           }, {
-            value: 'haixing',
+            value: '海兴县',
             label: '海兴县'
           }, {
-            value: 'yanshan',
+            value: '盐山县',
             label: '盐山县'
           }, {
-            value: 'suning',
+            value: '肃宁县',
             label: '肃宁县'
           }, {
-            value: 'nanpi',
+            value: '南皮县',
             label: '南皮县'
           }, {
-            value: 'wuqiao',
+            value: '吴桥县',
             label: '吴桥县'
           }, {
-            value: 'xian',
+            value: '献县',
             label: '献县'
           }, {
-            value: 'mengcunhuizuzizhi',
+            value: '孟村回族自治区',
             label: '孟村回族自治区'
           }, {
-            value: 'jingjikaifa',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'botou',
+            value: '泊头市',
             label: '泊头市'
           }, {
-            value: 'renqiu',
+            value: '任丘市',
             label: '任丘市'
           }, {
-            value: 'huanghua',
+            value: '黄骅市',
             label: '黄骅市'
           }, {
-            value: 'hejian',
+            value: '河间市',
             label: '河间市'
           }]
         }, {
-          value: 'langfang',
+          value: '廊坊市',
           label: '廊坊市',
           children: [{
-            value: 'anci',
+            value: '安次区',
             label: '安次区'
           }, {
-            value: 'guangyang',
+            value: '广阳区',
             label: '广阳区'
           }, {
-            value: 'guan',
+            value: '固安县',
             label: '固安县'
           }, {
-            value: 'yongqing',
+            value: '永清县',
             label: '永清县'
           }, {
-            value: 'xianghe',
+            value: '香河县',
             label: '香河县'
           }, {
-            value: 'dacheng',
+            value: '大城县',
             label: '大城县'
           }, {
-            value: 'wenan',
+            value: '文安县',
             label: '文安县'
           }, {
-            value: 'dachanghuizu',
+            value: '大厂回族自治区',
             label: '大厂回族自治区'
           }, {
-            value: 'jingjijishu',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'bazhou',
+            value: '霸州市',
             label: '霸州市'
           }, {
-            value: 'sanhe',
+            value: '三河市',
             label: '三河市'
           }]
         }, {
-          value: 'hengshui',
+          value: '衡水市',
           label: '衡水市',
           children: [{
-            value: 'taocheng',
+            value: '桃城区',
             label: '桃城区'
           }, {
-            value: 'jizhou',
+            value: '冀州市',
             label: '冀州市'
           }, {
-            value: 'zaoqiang',
+            value: '枣强县',
             label: '枣强县'
           }, {
-            value: 'wuyi',
+            value: '武邑县',
             label: '武邑县'
           }, {
-            value: 'wuqiang',
+            value: '武强县',
             label: '武强县'
           }, {
-            value: 'raoyang',
+            value: '饶阳县',
             label: '饶阳县'
           }, {
-            value: 'anping',
+            value: '安平县',
             label: '安平县'
           }, {
-            value: 'gucheng',
+            value: '故城县',
             label: '故城县'
           }, {
-            value: 'jing',
+            value: '景县',
             label: '景县'
           }, {
-            value: 'fucheng',
+            value: '阜城县',
             label: '阜城县'
           }, {
-            value: 'henshuigaoxin',
+            value: '衡水高新技术产业开发区',
             label: '衡水高新技术产业开发区'
           }, {
-            value: 'binhuxin',
+            value: '滨湖新区',
             label: '滨湖新区'
           }, {
-            value: 'shenzhou',
+            value: '深州市',
             label: '深州市'
           }]
         }]
       }, {
-        value: 'shanxi',
+        value: '山西省',
         label: '山西省',
         children: [{
-          value: 'taiyuan',
+          value: '太原市',
           label: '太原市',
           children: [{
-            value: 'xiaodian',
+            value: '小店区',
             label: '小店区'
           }, {
-            value: 'yingze',
+            value: '迎泽区',
             label: '迎泽区'
           }, {
-            value: 'xinghualing',
+            value: '杏花岭区',
             label: '杏花岭区'
           }, {
-            value: 'jiancaopin',
+            value: '尖草坪区',
             label: '尖草坪区'
           }, {
-            value: 'wanbailing',
+            value: '万柏林区',
             label: '万柏林区'
           }, {
-            value: 'jinyuan',
+            value: '晋源区',
             label: '晋源区'
           }, {
-            value: 'qingxu',
+            value: '清徐县',
             label: '清徐县'
           }, {
-            value: 'yangqu',
+            value: '阳曲县',
             label: '阳曲县'
           }, {
-            value: 'loufan',
+            value: '娄烦县',
             label: '娄烦县'
           }, {
-            value: 'shanxizhuanxing',
+            value: '山西转型综合改革示范区',
             label: '山西转型综合改革示范区'
           }, {
-            value: 'gujiao',
+            value: '古交市',
             label: '古交市'
           }]
         }, {
-          value: 'datong',
+          value: '大同市',
           label: '大同市',
           children: [{
-            value: 'xinrong',
+            value: '新荣区',
             label: '新荣区'
           }, {
-            value: 'pingcheng',
+            value: '平城区',
             label: '平城区'
           }, {
-            value: 'yungang',
+            value: '云冈区',
             label: '云冈区'
           }, {
-            value: 'yunzhou',
+            value: '云州区',
             label: '云州区'
           }, {
-            value: 'gaoyang',
+            value: '高阳县',
             label: '高阳县'
           }, {
-            value: 'tianzhen',
+            value: '天镇县',
             label: '天镇县'
           }, {
-            value: 'guangling',
+            value: '广灵县',
             label: '广灵县'
           }, {
-            value: 'lingqiu',
+            value: '灵丘县',
             label: '灵丘县'
           }, {
-            value: 'hunyuan',
+            value: '浑源县',
             label: '浑源县'
           }, {
-            value: 'zuoyun',
+            value: '左云县',
             label: '左云县'
           }]
         }, {
-          value: 'yangquan',
+          value: '阳泉市',
           label: '阳泉市',
           children: [{
-            value: 'chengqu',
+            value: '城区',
             label: '城区'
           }, {
-            value: 'kuangqu',
+            value: '矿区',
             label: '矿区'
           }, {
-            value: 'jiaoqu',
+            value: '郊区',
             label: '郊区'
           }, {
-            value: 'pingding',
+            value: '平定县',
             label: '平定县'
           }, {
-            value: 'yuxian',
+            value: '盂县',
             label: '盂县'
           }]
         }, {
-          value: 'chagnzhi',
+          value: '长治市',
           label: '长治市',
           children: [{
-            value: 'luzhou',
+            value: '潞州区',
             label: '潞州区'
           }, {
-            value: 'shangdang',
+            value: '上党区',
             label: '上党区'
           }, {
-            value: 'tunliu',
+            value: '屯留区',
             label: '屯留区'
           }, {
-            value: 'lucheng',
+            value: '潞城区',
             label: '潞城区'
           }, {
-            value: 'xiangyuan',
+            value: '襄垣县',
             label: '襄垣县'
           }, {
-            value: 'pingshun',
+            value: '平顺县',
             label: '平顺县'
           }, {
-            value: 'licheng',
+            value: '黎城县',
             label: '黎城县'
           }, {
-            value: 'huguan',
+            value: '壶关县',
             label: '壶关县'
           }, {
-            value: 'zhangzi',
+            value: '长子县',
             label: '长子县'
           }, {
-            value: 'wuxiang',
+            value: '武乡县',
             label: '武乡县'
           }, {
-            value: 'qin',
+            value: '沁县',
             label: '沁县'
           }, {
-            value: 'qinyuan',
+            value: '沁源县',
             label: '沁源县'
           }]
         }, {
-          value: 'jincheng',
+          value: '晋城市',
           label: '晋城市',
           children: [{
-            value: 'chengqu',
+            value: '城区',
             label: '城区'
           }, {
-            value: 'qinshui',
+            value: '沁水县',
             label: '沁水县'
           }, {
-            value: 'yangcheng',
+            value: '阳城县',
             label: '阳城县'
           }, {
-            value: 'lingchuan',
+            value: '陵川县',
             label: '陵川县'
           }, {
-            value: 'zezhou',
+            value: '泽州县',
             label: '泽州县'
           }, {
-            value: 'gaoping',
+            value: '高平市',
             label: '高平市'
           }]
         }, {
-          value: 'shuozhou',
+          value: '朔州市',
           label: '朔州市',
           children: [{
-            value: 'suocheng',
+            value: '朔城区',
             label: '朔城区'
           }, {
-            value: 'pinglu',
+            value: '平鲁区',
             label: '平鲁区'
           }, {
-            value: 'shanyin',
+            value: '山阴县',
             label: '山阴县'
           }, {
-            value: 'ying',
+            value: '应县',
             label: '应县'
           }, {
-            value: 'youyu',
+            value: '右玉县',
             label: '右玉县'
           }, {
-            value: 'huairen',
+            value: '怀仁市',
             label: '怀仁市'
           }]
         }, {
-          value: 'gujiao',
+          value: '晋中市',
           label: '晋中市',
           children: [{
-            value: 'yuci',
+            value: '榆次区',
             label: '榆次区'
           }, {
-            value: 'yushe',
+            value: '榆社县',
             label: '榆社县'
           }, {
-            value: 'zuoquan',
+            value: '左权县',
             label: '左权县'
           }, {
-            value: 'heshun',
+            value: '和顺县',
             label: '和顺县'
           }, {
-            value: 'xiyang',
+            value: '昔阳县',
             label: '昔阳县'
           }, {
-            value: 'shouyang',
+            value: '寿阳县',
             label: '寿阳县'
           }, {
-            value: 'taigu',
+            value: '太谷县',
             label: '太谷县'
           }, {
-            value: 'qixian',
+            value: '祁县',
             label: '祁县'
           }, {
-            value: 'pingyao',
+            value: '平遥县',
             label: '平遥县'
           }, {
-            value: 'lingshi',
+            value: '灵石县',
             label: '灵石县'
           }, {
-            value: 'jiexiu',
+            value: '介休市',
             label: '介休市'
           }]
         }, {
-          value: 'yuncheng',
+          value: '运城市',
           label: '运城市',
           children: [{
-            value: 'yanhu',
+            value: '盐湖区',
             label: '盐湖区'
           }, {
-            value: 'lin',
+            value: '临猗县',
             label: '临猗县'
           }, {
-            value: 'wanrong',
+            value: '万荣县',
             label: '万荣县'
           }, {
-            value: 'wenxi',
+            value: '闻喜县',
             label: '闻喜县'
           }, {
-            value: 'jishan',
+            value: '稷山县',
             label: '稷山县'
           }, {
-            value: 'xinjang',
+            value: '新绛县',
             label: '新绛县'
           }, {
-            value: 'jiang',
+            value: '绛县',
             label: '绛县'
           }, {
-            value: 'yaunqu',
+            value: '垣曲县',
             label: '垣曲县'
           }, {
-            value: 'xia',
+            value: '夏县',
             label: '夏县'
           }, {
-            value: 'pinglu',
+            value: '平陆县',
             label: '平陆县'
           }, {
-            value: 'ruicheng',
+            value: '芮城县',
             label: '芮城县'
           }, {
-            value: 'yongji',
+            value: '永济市',
             label: '永济市'
           }, {
-            value: 'hejing',
+            value: '河津市',
             label: '河津市'
           }]
         }, {
-          value: 'xinzhou',
+          value: '忻州市',
           label: '忻州市',
           children: [{
-            value: 'xinfu',
+            value: '忻府区',
             label: '忻府区'
           }, {
-            value: 'dingxiang',
+            value: '定襄县',
             label: '定襄县'
           }, {
-            value: 'wutai',
+            value: '五台县',
             label: '五台县'
           }, {
-            value: 'dai',
+            value: '代县',
             label: '代县'
           }, {
-            value: 'fangshi',
+            value: '繁峙县',
             label: '繁峙县'
           }, {
-            value: 'ningwu',
+            value: '宁武县',
             label: '宁武县'
           }, {
-            value: 'jinle',
+            value: '静乐县',
             label: '静乐县'
           }, {
-            value: 'shenchi',
+            value: '神池县',
             label: '神池县'
           }, {
-            value: 'wuzhai',
+            value: '五寨县',
             label: '五寨县'
           }, {
-            value: 'kelan',
+            value: '岢岚县',
             label: '岢岚县'
           }, {
-            value: 'jiangqu',
+            value: '河曲县',
             label: '河曲县'
           }, {
-            value: 'baode',
+            value: '保德县',
             label: '保德县'
           }, {
-            value: 'pianguan',
+            value: '偏关县',
             label: '偏关县'
           }, {
-            value: 'wutaishan',
+            value: '五台山风景名胜区',
             label: '五台山风景名胜区'
           }, {
-            value: 'yaunping',
+            value: '原平市',
             label: '原平市'
           }]
         }, {
-          value: 'linfeng',
+          value: '临汾市',
           label: '临汾市',
           children: [{
-            value: 'xiaodu',
+            value: '尧都区',
             label: '尧都区'
           }, {
-            value: 'quwo',
+            value: '曲沃县',
             label: '曲沃县'
           }, {
-            value: 'yicheng',
+            value: '翼城县',
             label: '翼城县'
           }, {
-            value: 'xiangfen',
+            value: '襄汾县',
             label: '襄汾县'
           }, {
-            value: 'hongdong',
+            value: '洪洞县',
             label: '洪洞县'
           }, {
-            value: 'gu',
+            value: '古县',
             label: '古县'
           }, {
-            value: 'anze',
+            value: '安泽县',
             label: '安泽县'
           }, {
-            value: 'fushan',
+            value: '浮山县',
             label: '浮山县'
           }, {
-            value: 'ji',
+            value: '吉县',
             label: '吉县'
           }, {
-            value: 'xiangning',
+            value: '乡宁县',
             label: '乡宁县'
           }, {
-            value: 'daning',
+            value: '大宁县',
             label: '大宁县'
           }, {
-            value: 'xi',
+            value: '隰县',
             label: '隰县'
           }, {
-            value: 'yonghe',
+            value: '永和县',
             label: '永和县'
           }, {
-            value: 'pu',
+            value: '蒲县',
             label: '蒲县'
           }, {
-            value: 'fenxi',
+            value: '汾西县',
             label: '汾西县'
           }, {
-            value: 'houma',
+            value: '侯马市',
             label: '侯马市'
           }, {
-            value: 'huozhou',
+            value: '霍州市',
             label: '霍州市'
           }]
         }, {
-          value: 'lvliang',
+          value: '吕梁市',
           label: '吕梁市',
           children: [{
-            value: 'lishi',
+            value: '离石区',
             label: '离石区'
           }, {
-            value: 'wenshui',
+            value: '文水县',
             label: '文水县'
           }, {
-            value: 'jiaocheng',
+            value: '交城县',
             label: '交城县'
           }, {
-            value: 'xing',
+            value: '兴县',
             label: '兴县'
           }, {
-            value: 'lin',
+            value: '临县',
             label: '临县'
           }, {
-            value: 'liulin',
+            value: '柳林县',
             label: '柳林县'
           }, {
-            value: 'shilou',
+            value: '石楼县',
             label: '石楼县'
           }, {
-            value: 'lan',
+            value: '岚县',
             label: '岚县'
           }, {
-            value: 'fangshan',
+            value: '方山县',
             label: '方山县'
           }, {
-            value: 'zhongyang',
+            value: '中阳县',
             label: '中阳县'
           }, {
-            value: 'jiaokou',
+            value: '交口县',
             label: '交口县'
           }, {
-            value: 'xiaoyi',
+            value: '孝义市',
             label: '孝义市'
           }, {
-            value: 'fenyang',
+            value: '汾阳市',
             label: '汾阳市'
           }]
         }]
       }, {
-        value: 'neimeng',
+        value: '内蒙',
         label: '内蒙',
         children: [{
-          value: 'huhehaote',
+          value: '呼和浩特市',
           label: '呼和浩特市',
           children: [{
-            value: 'xingcheng',
+            value: '新城区',
             label: '新城区'
           }, {
-            value: 'huiming',
+            value: '回民区',
             label: '回民区'
           }, {
-            value: 'yuquan',
+            value: '玉泉区',
             label: '玉泉区'
           }, {
-            value: 'saihan',
+            value: '赛罕区',
             label: '赛罕区'
           }, {
-            value: 'tumotezuoqi',
+            value: '土默特左旗',
             label: '土默特左旗'
           }, {
-            value: 'tuoketuo',
+            value: '托克托县',
             label: '托克托县'
           }, {
-            value: 'helingeer',
+            value: '和林格尔县',
             label: '和林格尔县'
           }, {
-            value: 'qingshui',
+            value: '清水河县',
             label: '清水河县'
           }, {
-            value: 'wuchuan',
+            value: '武川县',
             label: '武川县'
           }]
         }, {
-          value: 'baotou',
+          value: '包头市',
           label: '包头市',
           children: [{
-            value: 'donghe',
+            value: '东河区',
             label: '东河区'
           }, {
-            value: 'kundulun',
+            value: '昆都仑区',
             label: '昆都仑区'
           }, {
-            value: 'qingshan',
+            value: '青山区',
             label: '青山区'
           }, {
-            value: 'shiguai',
+            value: '石拐区',
             label: '石拐区'
           }, {
-            value: 'baiyunebo',
+            value: '白云鄂博矿区',
             label: '白云鄂博矿区'
           }, {
-            value: 'jiuyuan',
+            value: '九原区',
             label: '九原区'
           }, {
-            value: 'tumote',
+            value: '土默特右旗',
             label: '土默特右旗'
           }, {
-            value: 'guyang',
+            value: '固阳县',
             label: '固阳县'
           }, {
-            value: 'damao',
+            value: '达茂旗',
             label: '达茂旗'
           }]
         }, {
-          value: 'wuhai',
+          value: '乌海市',
           label: '乌海市',
           children: [{
-            value: 'haibowan',
+            value: '海勃湾区',
             label: '海勃湾区'
           }, {
-            value: 'hainan',
+            value: '海南区',
             label: '海南区'
           }, {
-            value: 'wuda',
+            value: '乌达区',
             label: '乌达区'
           }]
         }, {
-          value: 'chifeng',
+          value: '赤峰市',
           label: '赤峰市',
           children: [{
-            value: 'hongshan',
+            value: '红山区',
             label: '红山区'
           }, {
-            value: 'yuanbaoshan',
+            value: '元宝山区',
             label: '元宝山区'
           }, {
-            value: 'songshan',
+            value: '松山区',
             label: '松山区'
           }, {
-            value: 'alu',
+            value: '阿鲁旗',
             label: '阿鲁旗'
           }, {
-            value: 'balinzuo',
+            value: '巴林左旗',
             label: '巴林左旗'
           }, {
-            value: 'balinyou',
+            value: '巴林右旗',
             label: '巴林右旗'
           }, {
-            value: 'linxi',
+            value: '林西县',
             label: '林西县'
           }, {
-            value: 'keshenketeng',
+            value: '克什克腾旗',
             label: '克什克腾旗'
           }, {
-            value: 'wenniute',
+            value: '翁牛特旗',
             label: '翁牛特旗'
           }, {
-            value: 'kalaqin',
+            value: '喀喇沁旗',
             label: '喀喇沁旗'
           }, {
-            value: 'ningcheng',
+            value: '宁城县',
             label: '宁城县'
           }, {
-            value: 'aohan',
+            value: '敖汉旗',
             label: '敖汉旗'
           }]
         }, {
-          value: 'tongliao',
+          value: '通辽市',
           label: '通辽市',
           children: [{
-            value: 'keerqin',
+            value: '科尔沁区',
             label: '科尔沁区'
           }, {
-            value: 'keerqinzhong',
+            value: '科尔沁左翼中旗',
             label: '科尔沁左翼中旗'
           }, {
-            value: 'keerqinhou',
+            value: '科尔沁左翼后旗',
             label: '科尔沁左翼后旗'
           }, {
-            value: 'kailu',
+            value: '开鲁县',
             label: '开鲁县'
           }, {
-            value: 'kulun',
+            value: '库伦旗',
             label: '库伦旗'
           }, {
-            value: 'naiman',
+            value: '奈曼旗',
             label: '奈曼旗'
           }, {
-            value: 'zalute',
+            value: '扎鲁特旗',
             label: '扎鲁特旗'
           }, {
-            value: 'jingjijishu',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'huolinguole',
+            value: '霍林郭勒市',
             label: '霍林郭勒市'
           }]
         }, {
-          value: 'eerduosi',
+          value: '鄂尔多斯市',
           label: '鄂尔多斯市',
           children: [{
-            value: 'dongsheng',
+            value: '东胜区',
             label: '东胜区'
           }, {
-            value: 'kangbashi',
+            value: '康巴什区',
             label: '康巴什区'
           }, {
-            value: 'dalate',
+            value: '达拉特旗',
             label: '达拉特旗'
           }, {
-            value: 'zhungeer',
+            value: '准格尔旗',
             label: '准格尔旗'
           }, {
-            value: 'etuokeqian',
+            value: '鄂托克前旗',
             label: '鄂托克前旗'
           }, {
-            value: 'etuoke',
+            value: '鄂托克旗',
             label: '鄂托克旗'
           }, {
-            value: 'hangjing',
+            value: '杭锦旗',
             label: '杭锦旗'
           }, {
-            value: 'wushen',
+            value: '乌审旗',
             label: '乌审旗'
           }, {
-            value: 'yijinhuoluo',
+            value: '伊金霍洛旗',
             label: '伊金霍洛旗'
           }]
         }, {
-          value: 'hulunbeier',
+          value: '呼伦贝尔市',
           label: '呼伦贝尔市',
           children: [{
-            value: 'hailaer',
+            value: '海拉尔区',
             label: '海拉尔区'
           }, {
-            value: 'zhanuoer',
+            value: '扎赉诺尔区',
             label: '扎赉诺尔区'
           }, {
-            value: 'arong',
+            value: '阿荣旗',
             label: '阿荣旗'
           }, {
-            value: 'elunchun',
+            value: '鄂伦春自治旗',
             label: '鄂伦春自治旗'
           }, {
-            value: 'ewenke',
+            value: '鄂温克族自治旗',
             label: '鄂温克族自治旗'
           }, {
-            value: 'chengbaer',
+            value: '陈巴尔虎旗',
             label: '陈巴尔虎旗'
           }, {
-            value: 'xinbaerhuzuo',
+            value: '新巴尔虎左旗',
             label: '新巴尔虎左旗'
           }, {
-            value: 'xinbaerhuyou',
+            value: '新巴尔虎右旗',
             label: '新巴尔虎右旗'
           }, {
-            value: 'manzhouli',
+            value: '满洲里市',
             label: '满洲里市'
           }, {
-            value: 'yekeshi',
+            value: '牙克石市',
             label: '牙克石市'
           }, {
-            value: 'zhalantun',
+            value: '扎兰屯市',
             label: '扎兰屯市'
           }, {
-            value: 'eerguna',
+            value: '额尔古纳市',
             label: '额尔古纳市'
           }, {
-            value: 'genhe',
+            value: '根河市',
             label: '根河市'
           }]
         }, {
-          value: 'bayanzuoer',
+          value: '巴彦淖尔市',
           label: '巴彦淖尔市',
           children: [{
-            value: 'linhe',
+            value: '临河区',
             label: '临河区'
           }, {
-            value: 'wuyuan',
+            value: '五原县',
             label: '五原县'
           }, {
-            value: 'dengkou',
+            value: '磴口县',
             label: '磴口县'
           }, {
-            value: 'wulateqian',
+            value: '乌拉特前旗',
             label: '乌拉特前旗'
           }, {
-            value: 'wulatezhong',
+            value: '乌拉特中旗',
             label: '乌拉特中旗'
           }, {
-            value: 'wulatehou',
+            value: '乌拉特后旗',
             label: '乌拉特后旗'
           }, {
-            value: 'hangjinhou',
+            value: '杭锦后旗',
             label: '杭锦后旗'
           }]
         }, {
-          value: 'wulanchabu',
+          value: '乌兰察布市',
           label: '乌兰察布市',
           children: [{
-            value: 'jining',
+            value: '集宁区',
             label: '集宁区'
           }, {
-            value: 'zhuozi',
+            value: '卓资县',
             label: '卓资县'
           }, {
-            value: 'huade',
+            value: '化德县',
             label: '化德县'
           }, {
-            value: 'shangdu',
+            value: '商都县',
             label: '商都县'
           }, {
-            value: 'xinghe',
+            value: '兴和县',
             label: '兴和县'
           }, {
-            value: 'liangcheng',
+            value: '凉城县',
             label: '凉城县'
           }, {
-            value: 'cahaerqian',
+            value: '察哈尔右翼前旗',
             label: '察哈尔右翼前旗'
           }, {
-            value: 'cahaerzhong',
+            value: '察哈尔右翼中旗',
             label: '察哈尔右翼中旗'
           }, {
-            value: 'cahaerhou',
+            value: '察哈尔右翼后旗',
             label: '察哈尔右翼后旗'
           }, {
-            value: 'siziwang',
+            value: '四子王旗',
             label: '四子王旗'
           }, {
-            value: 'fengzheng',
+            value: '丰镇市',
             label: '丰镇市'
           }]
         }, {
-          value: 'xingan',
+          value: '兴安盟',
           label: '兴安盟',
           children: [{
-            value: 'wulanhaote',
+            value: '乌兰浩特市',
             label: '乌兰浩特市'
           }, {
-            value: 'aershan',
+            value: '阿尔山市',
             label: '阿尔山市'
           }, {
-            value: 'keerqinqian',
+            value: '科尔沁右翼前旗',
             label: '科尔沁右翼前旗'
           }, {
-            value: 'keerqinzhong',
+            value: '科尔沁右翼中旗',
             label: '科尔沁右翼中旗'
           }, {
-            value: 'zhawente',
+            value: '扎赉特旗',
             label: '扎赉特旗'
           }, {
-            value: 'tuquan',
+            value: '突泉县',
             label: '突泉县'
           }]
         }, {
-          value: 'xilinguole',
+          value: '锡林郭勒盟',
           label: '锡林郭勒盟',
           children: [{
-            value: 'erlianhaote',
+            value: '二连浩特市',
             label: '二连浩特市'
           }, {
-            value: 'xilinhaote',
+            value: '锡林浩特市',
             label: '锡林浩特市'
           }, {
-            value: 'abaga',
+            value: '阿巴嘎旗',
             label: '阿巴嘎旗'
           }, {
-            value: 'sunitezuo',
+            value: '苏尼特左旗',
             label: '苏尼特左旗'
           }, {
-            value: 'suniteyou',
+            value: '苏尼特右旗',
             label: '苏尼特右旗'
           }, {
-            value: 'dongwuzhu',
+            value: '东乌珠穆沁旗',
             label: '东乌珠穆沁旗'
           }, {
-            value: 'xiwuzhu',
+            value: '西乌珠穆沁旗',
             label: '西乌珠穆沁旗'
           }, {
-            value: 'taibusi',
+            value: '太仆寺旗',
             label: '太仆寺旗'
           }, {
-            value: 'xianghang',
+            value: '镶黄旗',
             label: '镶黄旗'
           }, {
-            value: 'zhengxiangbai',
+            value: '正镶白旗',
             label: '正镶白旗'
           }, {
-            value: 'zhenglan',
+            value: '正蓝旗',
             label: '正蓝旗'
           }, {
-            value: 'duolun',
+            value: '多伦县',
             label: '多伦县'
           }, {
-            value: 'wulagai',
+            value: '乌拉盖管委会',
             label: '乌拉盖管委会'
           }]
         }, {
           value: 'alashan',
           label: '阿拉善盟',
           children: [{
-            value: 'alashanzuo',
+            value: '阿拉善左旗',
             label: '阿拉善左旗'
           }, {
-            value: 'alashanyou',
+            value: '阿拉善右旗',
             label: '阿拉善右旗'
           }, {
-            value: 'ejina',
+            value: '额济纳旗',
             label: '额济纳旗'
           }, {
-            value: 'jingjikaifa',
+            value: '经济开发区',
             label: '经济开发区'
           }]
         }]
       }, {
-        value: 'liaoning',
+        value: '辽宁省',
         label: '辽宁省',
         children: [{
-          value: 'shenyang',
+          value: '沈阳市',
           label: '沈阳市',
           children: [{
-            value: 'heping',
+            value: '和平区',
             label: '和平区'
           }, {
-            value: 'shenghe',
+            value: '沈河区',
             label: '沈河区'
           }, {
-            value: 'dadong',
+            value: '大东区',
             label: '大东区'
           }, {
-            value: 'huanggu',
+            value: '皇姑区',
             label: '皇姑区'
           }, {
-            value: 'tiexi',
+            value: '铁西区',
             label: '铁西区'
           }, {
-            value: 'sujiatun',
+            value: '苏家屯区',
             label: '苏家屯区'
           }, {
-            value: 'hunnan',
+            value: '浑南区',
             label: '浑南区'
           }, {
-            value: 'shengbei',
+            value: '沈北新区',
             label: '沈北新区'
           }, {
-            value: 'yuhong',
+            value: '于洪区',
             label: '于洪区'
           }, {
-            value: 'liaozhong',
+            value: '辽中区',
             label: '辽中区'
           }, {
-            value: 'kangping',
+            value: '康平县',
             label: '康平县'
           }, {
-            value: 'faku',
+            value: '法库县',
             label: '法库县'
           }, {
-            value: 'xinming',
+            value: '新民市',
             label: '新民市'
           }]
         }, {
-          value: 'dalian',
+          value: '大连市',
           label: '大连市',
           children: [{
-            value: 'zhongshan',
+            value: '中山区',
             label: '中山区'
           }, {
-            value: 'xigang',
+            value: '西岗区',
             label: '西岗区'
           }, {
-            value: 'shahekou',
+            value: '沙河口区',
             label: '沙河口区'
           }, {
-            value: 'ganjinzi',
+            value: '甘井子区',
             label: '甘井子区'
           }, {
-            value: 'lvshunkou',
+            value: '旅顺口区',
             label: '旅顺口区'
           }, {
-            value: 'jinpuxin',
+            value: '金普新区（金州区）',
             label: '金普新区（金州区）'
           }, {
-            value: 'pulandian',
+            value: '普兰店区',
             label: '普兰店区'
           }, {
-            value: 'changhai',
+            value: '长海县',
             label: '长海县'
           }, {
-            value: 'wafangdian',
+            value: '瓦房店市',
             label: '瓦房店市'
           }, {
-            value: 'zhuanghe',
+            value: '庄河市',
             label: '庄河市'
           }]
         }, {
-          value: 'anshan',
+          value: '鞍山市',
           label: '鞍山市',
           children: [{
-            value: 'tiedong',
+            value: '铁东区',
             label: '铁东区'
           }, {
-            value: 'tiexi',
+            value: '铁西区',
             label: '铁西区'
           }, {
-            value: 'lishan',
+            value: '立山区',
             label: '立山区'
           }, {
-            value: 'qianshan',
+            value: '千山区',
             label: '千山区'
           }, {
-            value: 'taian',
+            value: '台安县',
             label: '台安县'
           }, {
-            value: 'youyan',
+            value: '岫岩满族自治县',
             label: '岫岩满族自治县'
           }, {
-            value: 'haicheng',
+            value: '海城市',
             label: '海城市'
           }]
         }, {
-          value: 'wushun',
+          value: '抚顺市',
           label: '抚顺市',
           children: [{
-            value: 'xinfu',
+            value: '新抚区',
             label: '新抚区'
           }, {
-            value: 'dongzhou',
+            value: '东洲区',
             label: '东洲区'
           }, {
-            value: 'wanghua',
+            value: '望花区',
             label: '望花区'
           }, {
-            value: 'shuncheng',
+            value: '顺城区',
             label: '顺城区'
           }, {
-            value: 'wushun',
+            value: '抚顺县',
             label: '抚顺县'
           }, {
-            value: 'xinbing',
+            value: '新宾县',
             label: '新宾县'
           }, {
-            value: 'qingyuan',
+            value: '清原满族自治县',
             label: '清原满族自治县'
           }]
         }, {
-          value: 'benxi',
+          value: '本溪市',
           label: '本溪市',
           children: [{
-            value: 'pingshan',
+            value: '平山区',
             label: '平山区'
           }, {
-            value: 'xihu',
+            value: '溪湖区',
             label: '溪湖区'
           }, {
-            value: 'mingshan',
+            value: '明山区',
             label: '明山区'
           }, {
-            value: 'nanfeng',
+            value: '南芬区',
             label: '南芬区'
           }, {
-            value: 'benxi',
+            value: '本溪满族自治县',
             label: '本溪满族自治县'
           }, {
-            value: 'hengren',
+            value: '桓仁满族自治县',
             label: '桓仁满族自治县'
           }]
         }, {
-          value: 'dongdan',
+          value: '丹东市',
           label: '丹东市',
           children: [{
-            value: 'yuanbao',
+            value: '元宝区',
             label: '元宝区'
           }, {
-            value: 'zhengxin',
+            value: '振兴区',
             label: '振兴区'
           }, {
-            value: 'zhengan',
+            value: '振安区',
             label: '振安区'
           }, {
-            value: 'kuandian',
+            value: '宽甸满族自治县',
             label: '宽甸满族自治县'
           }, {
-            value: 'donggang',
+            value: '东港市',
             label: '东港市'
           }, {
-            value: 'fongcheng',
+            value: '凤城市',
             label: '凤城市'
           }]
         }, {
-          value: 'jinzhou',
+          value: '锦州市',
           label: '锦州市',
           children: [{
-            value: 'guta',
+            value: '古塔区',
             label: '古塔区'
           }, {
-            value: 'linhe',
+            value: '凌河区',
             label: '凌河区'
           }, {
-            value: 'taihe',
+            value: '太和区',
             label: '太和区'
           }, {
-            value: 'heishan',
+            value: '黑山县',
             label: '黑山县'
           }, {
-            value: 'yi',
+            value: '义县',
             label: '义县'
           }, {
-            value: 'linhai',
+            value: '凌海市',
             label: '凌海市'
           }, {
-            value: 'beizhen',
+            value: '北镇市',
             label: '北镇市'
           }]
         }, {
-          value: 'yingkou',
+          value: '营口市',
           label: '营口市',
           children: [{
-            value: 'zhanqian',
+            value: '站前区',
             label: '站前区'
           }, {
-            value: 'xishi',
+            value: '西市区',
             label: '西市区'
           }, {
-            value: 'yuquan',
+            value: '鲅鱼圈区',
             label: '鲅鱼圈区'
           }, {
-            value: 'laobian',
+            value: '老边区',
             label: '老边区'
           }, {
-            value: 'gaizhou',
+            value: '盖州市',
             label: '盖州市'
           }, {
-            value: 'dashiqiao',
+            value: '大石桥市',
             label: '大石桥市'
           }]
         }, {
-          value: 'fuxin',
+          value: '阜新市',
           label: '阜新市',
           children: [{
-            value: 'haizhou',
+            value: '海州区',
             label: '海州区'
           }, {
-            value: 'xinqiu',
+            value: '新邱区',
             label: '新邱区'
           }, {
-            value: 'taiping',
+            value: '太平区',
             label: '太平区'
           }, {
-            value: 'qinghemen',
+            value: '清河门区',
             label: '清河门区'
           }, {
-            value: 'xihe',
+            value: '细河区',
             label: '细河区'
           }, {
-            value: 'fuxin',
+            value: '阜新蒙古族自治县',
             label: '阜新蒙古族自治县'
           }, {
-            value: 'zhangwu',
+            value: '彰武县',
             label: '彰武县'
           }]
         }, {
-          value: 'liaoyang',
+          value: '辽阳市',
           label: '辽阳市',
           children: [{
-            value: 'baita',
+            value: '白塔区',
             label: '白塔区'
           }, {
-            value: 'wenshen',
+            value: '文圣区',
             label: '文圣区'
           }, {
-            value: 'hongwei',
+            value: '宏伟区',
             label: '宏伟区'
           }, {
-            value: 'gongzhanglin',
+            value: '弓长岭区',
             label: '弓长岭区'
           }, {
-            value: 'taizihe',
+            value: '太子河区',
             label: '太子河区'
           }, {
-            value: 'liaoyang',
+            value: '辽阳县',
             label: '辽阳县'
           }, {
-            value: 'dengta',
+            value: '灯塔市',
             label: '灯塔市'
           }]
         }, {
-          value: 'panjing',
+          value: '盘锦市',
           label: '盘锦市',
           children: [{
-            value: 'shuangtaizi',
+            value: '双台子区',
             label: '双台子区'
           }, {
-            value: 'xinglongtai',
+            value: '兴隆台区',
             label: '兴隆台区'
           }, {
-            value: 'dawa',
+            value: '大洼区',
             label: '大洼区'
           }, {
-            value: 'panshan',
+            value: '盘山县',
             label: '盘山县'
           }]
         }, {
-          value: 'tieling',
+          value: '铁岭市',
           label: '铁岭市',
           children: [{
-            value: 'yinzhou',
+            value: '银州区',
             label: '银州区'
           }, {
-            value: 'qinghe',
+            value: '清河区',
             label: '清河区'
           }, {
-            value: 'tieling',
+            value: '铁岭县',
             label: '铁岭县'
           }, {
-            value: 'xifeng',
+            value: '西丰县',
             label: '西丰县'
           }, {
-            value: 'changtu',
+            value: '昌图县',
             label: '昌图县'
           }, {
-            value: 'tiaobingshan',
+            value: '调兵山市',
             label: '调兵山市'
           }, {
-            value: 'kaiyuan',
+            value: '开原市',
             label: '开原市'
           }]
         }, {
-          value: 'zhaoyang',
+          value: '朝阳市',
           label: '朝阳市',
           children: [{
-            value: 'shuangta',
+            value: '双塔区',
             label: '双塔区'
           }, {
-            value: 'longcheng',
+            value: '龙城区',
             label: '龙城区'
           }, {
-            value: 'zhaoyang',
+            value: '朝阳县',
             label: '朝阳县'
           }, {
-            value: 'jianping',
+            value: '建平县',
             label: '建平县'
           }, {
-            value: 'kazuo',
+            value: '喀左县',
             label: '喀左县'
           }, {
-            value: 'beipiao',
+            value: '北票市',
             label: '北票市'
           }, {
-            value: 'linyuan',
+            value: '凌源市',
             label: '凌源市'
           }]
         }, {
-          value: 'huludao',
+          value: '葫芦岛市',
           label: '葫芦岛市',
           children: [{
-            value: 'lianshan',
+            value: '连山区',
             label: '连山区'
           }, {
-            value: 'longgang',
+            value: '龙港区',
             label: '龙港区'
           }, {
-            value: 'nanpiao',
+            value: '南票区',
             label: '南票区'
           }, {
-            value: 'suizhong',
+            value: '绥中县',
             label: '绥中县'
           }, {
-            value: 'jianchang',
+            value: '建昌县',
             label: '建昌县'
           }, {
-            value: 'xingcheng',
+            value: '兴城市',
             label: '兴城市'
           }]
         }]
       }, {
-        value: 'jilin',
+        value: '吉林省',
         label: '吉林省',
         children: [{
-          value: 'changchun',
+          value: '长春市',
           label: '长春市',
           children: [{
-            value: 'nanguan',
+            value: '南关区',
             label: '南关区'
           }, {
-            value: 'kuancheng',
+            value: '宽城区',
             label: '宽城区'
           }, {
-            value: 'chaoyang',
+            value: '朝阳区',
             label: '朝阳区'
           }, {
-            value: 'erdao',
+            value: '二道区',
             label: '二道区'
           }, {
-            value: 'lvyuan',
+            value: '绿园区',
             label: '绿园区'
           }, {
-            value: 'shuangyang',
+            value: '双阳区',
             label: '双阳区'
           }, {
-            value: 'jiutai',
+            value: '九台区',
             label: '九台区'
           }, {
-            value: 'nongan',
+            value: '农安县',
             label: '农安县'
           }, {
-            value: 'jingjijishu',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'jingyue',
+            value: '净月高新技术产业开发区',
             label: '净月高新技术产业开发区'
           }, {
-            value: 'gaoxin',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'qichejingji',
+            value: '汽车经济技术开发区',
             label: '汽车经济技术开发区'
           }, {
-            value: 'lianhuashan',
+            value: '莲花山旅游区',
             label: '莲花山旅游区'
           }, {
-            value: 'yushu',
+            value: '榆树市',
             label: '榆树市'
           }, {
-            value: 'dehui',
+            value: '德惠市',
             label: '德惠市'
           }, {
-            value: 'gonzhuling',
+            value: '公主岭市',
             label: '公主岭市'
           }]
         }, {
-          value: 'jilin',
+          value: '吉林市',
           label: '吉林市',
           children: [{
-            value: 'changyi',
+            value: '昌邑区',
             label: '昌邑区'
           }, {
-            value: 'longtan',
+            value: '龙潭区',
             label: '龙潭区'
           }, {
-            value: 'chuanying',
+            value: '船营区',
             label: '船营区'
           }, {
-            value: 'fengman',
+            value: '丰满区',
             label: '丰满区'
           }, {
-            value: 'yongji',
+            value: '永吉县',
             label: '永吉县'
           }, {
-            value: 'jingji',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'gaoxin',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'xinjiaposhipin',
+            value: '中国新加坡食品区',
             label: '中国新加坡食品区'
           }, {
-            value: 'jiaohe',
+            value: '蛟河市',
             label: '蛟河市'
           }, {
-            value: 'yedian',
+            value: '桦甸市',
             label: '桦甸市'
           }, {
-            value: 'shulan',
+            value: '舒兰市',
             label: '舒兰市'
           }, {
-            value: 'panshi',
+            value: '磐石市',
             label: '磐石市'
           }]
         }, {
-          value: 'siping',
+          value: '四平市',
           label: '四平市',
           children: [{
-            value: 'tiexi',
+            value: '铁西区',
             label: '铁西区'
           }, {
-            value: 'tiedong',
+            value: '铁东区',
             label: '铁东区'
           }, {
-            value: 'lishu',
+            value: '梨树县',
             label: '梨树县'
           }, {
-            value: 'yingtong',
+            value: '伊通县',
             label: '伊通县'
           }, {
-            value: 'shuangliao',
+            value: '双辽市',
             label: '双辽市'
           }]
         }, {
-          value: 'liaoyuan',
+          value: '辽源市',
           label: '辽源市',
           children: [{
-            value: 'longshan',
+            value: '龙山区',
             label: '龙山区'
           }, {
-            value: 'xian',
+            value: '西安区',
             label: '西安区'
           }, {
-            value: 'dongfeng',
+            value: '东丰县',
             label: '东丰县'
           }, {
-            value: 'dongliao',
+            value: '东辽县',
             label: '东辽县'
           }]
         }, {
-          value: 'tonghua',
+          value: '通化市',
           label: '通化市',
           children: [{
-            value: 'dongchang',
+            value: '东昌区',
             label: '东昌区'
           }, {
-            value: 'erdaojiang',
+            value: '二道江区',
             label: '二道江区'
           }, {
-            value: 'tonghua',
+            value: '通化县',
             label: '通化县'
           }, {
-            value: 'huinan',
+            value: '辉南县',
             label: '辉南县'
           }, {
-            value: 'liuhe',
+            value: '柳河县',
             label: '柳河县'
           }, {
-            value: 'meihekou',
+            value: '梅河口市',
             label: '梅河口市'
           }, {
-            value: 'jian',
+            value: '集安市',
             label: '集安市'
           }]
         }, {
-          value: 'baishan',
+          value: '白山市',
           label: '白山市',
           children: [{
-            value: 'hunjiang',
+            value: '浑江区',
             label: '浑江区'
           }, {
-            value: 'jiangyuan',
+            value: '江源区',
             label: '江源区'
           }, {
-            value: 'fusong',
+            value: '抚松县',
             label: '抚松县'
           }, {
-            value: 'jingyu',
+            value: '靖宇县',
             label: '靖宇县'
           }, {
-            value: 'changbai',
+            value: '长白县',
             label: '长白县'
           }, {
-            value: 'linjiang',
+            value: '临江市',
             label: '临江市'
           }]
         }, {
-          value: 'songyuan',
+          value: '松原市',
           label: '松原市',
           children: [{
-            value: 'ningjiang',
+            value: '宁江区',
             label: '宁江区'
           }, {
-            value: 'qianguo',
+            value: '前郭县',
             label: '前郭县'
           }, {
-            value: 'changling',
+            value: '长岭县',
             label: '长岭县'
           }, {
-            value: 'qianan',
+            value: '乾安县',
             label: '乾安县'
           }, {
-            value: 'jingji',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'fuyu',
+            value: '扶余市',
             label: '扶余市'
           }]
         }, {
-          value: 'baicheng',
+          value: '白城市',
           label: '白城市',
           children: [{
-            value: 'rubei',
+            value: '洮北区',
             label: '洮北区'
           }, {
-            value: 'zhengpeng',
+            value: '镇赉县',
             label: '镇赉县'
           }, {
-            value: 'tongyu',
+            value: '通榆县',
             label: '通榆县'
           }, {
-            value: 'jingji',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'runan',
+            value: '洮南市',
             label: '洮南市'
           }, {
-            value: 'daan',
+            value: '大安市',
             label: '大安市'
           }]
         }, {
-          value: 'yanbian',
+          value: '延边州',
           label: '延边州',
           children: [{
-            value: 'yanji',
+            value: '延吉市',
             label: '延吉市'
           }, {
-            value: 'tumen',
+            value: '图们市',
             label: '图们市'
           }, {
-            value: 'dunhua',
+            value: '敦化市',
             label: '敦化市'
           }, {
-            value: 'huichun',
+            value: '珲春市',
             label: '珲春市'
           }, {
-            value: 'longjing',
+            value: '龙井市',
             label: '龙井市'
           }, {
-            value: 'helong',
+            value: '和龙市',
             label: '和龙市'
           }, {
-            value: 'wangqing',
+            value: '汪清县',
             label: '汪清县'
           }, {
-            value: 'antu',
+            value: '安图县',
             label: '安图县'
           }]
         }]
       }, {
-        value: 'heilongjiang',
+        value: '黑龙江省',
         label: '黑龙江省',
         children: [{
-          value: 'haerbing',
+          value: '哈尔滨市',
           label: '哈尔滨市',
           children: [{
-            value: 'daoli',
+            value: '道里区',
             label: '道里区'
           }, {
-            value: 'nangang',
+            value: '南岗区',
             label: '南岗区'
           }, {
-            value: 'daowai',
+            value: '道外区',
             label: '道外区'
           }, {
-            value: 'pingfang',
+            value: '平房区',
             label: '平房区'
           }, {
-            value: 'songbei',
+            value: '松北区',
             label: '松北区'
           }, {
-            value: 'xiangfang',
+            value: '香坊区',
             label: '香坊区'
           }, {
-            value: 'hulan',
+            value: '呼兰区',
             label: '呼兰区'
           }, {
-            value: 'acheng',
+            value: '阿城区',
             label: '阿城区'
           }, {
-            value: 'shuangcheng',
+            value: '双城区',
             label: '双城区'
           }, {
-            value: 'yilan',
+            value: '依兰县',
             label: '依兰县'
           }, {
-            value: 'fagnzheng',
+            value: '方正县',
             label: '方正县'
           }, {
-            value: 'bing',
+            value: '宾县',
             label: '宾县'
           }, {
-            value: 'bayan',
+            value: '巴彦县',
             label: '巴彦县'
           }, {
-            value: 'mulan',
+            value: '木兰县',
             label: '木兰县'
           }, {
-            value: 'tonghe',
+            value: '通河县',
             label: '通河县'
           }, {
-            value: 'yanshou',
+            value: '延寿县',
             label: '延寿县'
           }, {
-            value: 'shangzhi',
+            value: '尚志市',
             label: '尚志市'
           }, {
-            value: 'wuchang',
+            value: '五常市',
             label: '五常市'
           }]
         }, {
-          value: 'qiqihaer',
+          value: '齐齐哈尔市',
           label: '齐齐哈尔市',
           children: [{
-            value: 'longsha',
+            value: '龙沙区',
             label: '龙沙区'
           }, {
-            value: 'jianhua',
+            value: '建华区',
             label: '建华区'
           }, {
-            value: 'tiefeng',
+            value: '铁锋区',
             label: '铁锋区'
           }, {
-            value: 'angangxi',
+            value: '昂昂溪区',
             label: '昂昂溪区'
           }, {
-            value: 'fulaer',
+            value: '富拉尔基区',
             label: '富拉尔基区'
           }, {
-            value: 'nianzishan',
+            value: '碾子山区',
             label: '碾子山区'
           }, {
-            value: 'meilisi',
+            value: '梅里斯达斡尔族区',
             label: '梅里斯达斡尔族区'
           }, {
-            value: 'longjiang',
+            value: '龙江县',
             label: '龙江县'
           }, {
-            value: 'yian',
+            value: '依安县',
             label: '依安县'
           }, {
-            value: 'tailai',
+            value: '泰来县',
             label: '泰来县'
           }, {
-            value: 'gannan',
+            value: '甘南县',
             label: '甘南县'
           }, {
-            value: 'fuyu',
+            value: '富裕县',
             label: '富裕县'
           }, {
-            value: 'keshan',
+            value: '克山县',
             label: '克山县'
           }, {
-            value: 'kedong',
+            value: '克东县',
             label: '克东县'
           }, {
-            value: 'baiquan',
+            value: '拜泉县',
             label: '拜泉县'
           }, {
-            value: 'nahe',
+            value: '讷河市',
             label: '讷河市'
           }]
         }, {
-          value: 'jixi',
+          value: '鸡西市',
           label: '鸡西市',
           children: [{
-            value: 'jiguan',
+            value: '鸡冠区',
             label: '鸡冠区'
           }, {
-            value: 'hengshan',
+            value: '恒山市',
             label: '恒山市'
           }, {
-            value: 'didao',
+            value: '滴道区',
             label: '滴道区'
           }, {
-            value: 'lishu',
+            value: '梨树区',
             label: '梨树区'
           }, {
-            value: 'chengzihe',
+            value: '城子河区',
             label: '城子河区'
           }, {
-            value: 'mashan',
+            value: '麻山区',
             label: '麻山区'
           }, {
-            value: 'jidong',
+            value: '鸡东县',
             label: '鸡东县'
           }, {
-            value: 'hulin',
+            value: '虎林市',
             label: '虎林市'
           }, {
-            value: 'mishan',
+            value: '密山市',
             label: '密山市'
           }]
         }, {
-          value: 'hegang',
+          value: '鹤岗市',
           label: '鹤岗市',
           children: [{
-            value: 'xiangyang',
+            value: '向阳区',
             label: '向阳区'
           }, {
-            value: 'gongnong',
+            value: '工农区',
             label: '工农区'
           }, {
-            value: 'nanshan',
+            value: '南山区',
             label: '南山区'
           }, {
-            value: 'xingan',
+            value: '兴安区',
             label: '兴安区'
           }, {
-            value: 'dongshan',
+            value: '东山区',
             label: '东山区'
           }, {
-            value: 'xingshan',
+            value: '兴山区',
             label: '兴山区'
           }, {
-            value: 'luobei',
+            value: '萝北县',
             label: '萝北县'
           }, {
-            value: 'suibing',
+            value: '绥滨县',
             label: '绥滨县'
           }]
         }, {
-          value: 'shuangyashan',
+          value: '双鸭山市',
           label: '双鸭山市',
           children: [{
-            value: 'jianshan',
+            value: '尖山区',
             label: '尖山区'
           }, {
-            value: 'lingdong',
+            value: '岭东区',
             label: '岭东区'
           }, {
-            value: 'sifangtai',
+            value: '四方台区',
             label: '四方台区'
           }, {
-            value: 'baoshan',
+            value: '宝山区',
             label: '宝山区'
           }, {
-            value: 'jixian',
+            value: '集贤县',
             label: '集贤县'
           }, {
-            value: 'youyi',
+            value: '友谊县',
             label: '友谊县'
           }, {
-            value: 'baoqing',
+            value: '宝清县',
             label: '宝清县'
           }, {
-            value: 'raohe',
+            value: '饶河县',
             label: '饶河县'
           }]
         }, {
-          value: 'daqing',
+          value: '大庆市',
           label: '大庆市',
           children: [{
-            value: 'saertu',
+            value: '萨尔图区',
             label: '萨尔图区'
           }, {
-            value: 'longfeng',
+            value: '龙凤区',
             label: '龙凤区'
           }, {
-            value: 'ranghulu',
+            value: '让胡路区',
             label: '让胡路区'
           }, {
-            value: 'honggang',
+            value: '红岗区',
             label: '红岗区'
           }, {
-            value: 'datong',
+            value: '大同区',
             label: '大同区'
           }, {
-            value: 'zhaozhou',
+            value: '肇州县',
             label: '肇州县'
           }, {
-            value: 'zhaoyuan',
+            value: '肇源县',
             label: '肇源县'
           }, {
-            value: 'lindian',
+            value: '林甸县',
             label: '林甸县'
           }, {
-            value: 'duerbote',
+            value: '杜尔伯特蒙县',
             label: '杜尔伯特蒙县'
           }, {
-            value: 'gaoxin',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }]
         }, {
-          value: 'yinchun',
+          value: '伊春市',
           label: '伊春市',
           children: [{
-            value: 'yimei',
+            value: '伊美区',
             label: '伊美区'
           }, {
-            value: 'wucui',
+            value: '乌翠区',
             label: '乌翠区'
           }, {
-            value: 'youhao',
+            value: '友好区',
             label: '友好区'
           }, {
-            value: 'jiaying',
+            value: '嘉荫县',
             label: '嘉荫县'
           }, {
-            value: 'tangwang',
+            value: '汤旺县',
             label: '汤旺县'
           }, {
-            value: 'fenglin',
+            value: '丰林县',
             label: '丰林县'
           }, {
-            value: 'daqingshan',
+            value: '大箐山县',
             label: '大箐山县'
           }, {
-            value: 'nanfen',
+            value: '南岔县',
             label: '南岔县'
           }, {
-            value: 'jinlin',
+            value: '金林区',
             label: '金林区'
           }, {
-            value: 'tieli',
+            value: '铁力市',
             label: '铁力市'
           }]
         }, {
-          value: 'jiamusi',
-          label: '佳木斯市',
+          value: '伊春市',
+          label: '伊春市',
           children: [{
-            value: 'xiangyang',
+            value: '向阳区',
             label: '向阳区'
           }, {
-            value: 'qianjin',
+            value: '前进区',
             label: '前进区'
           }, {
-            value: 'dongfeng',
+            value: '东风区',
             label: '东风区'
           }, {
-            value: 'jiao',
+            value: '郊区',
             label: '郊区'
           }, {
-            value: 'huanan',
+            value: '桦南县',
             label: '桦南县'
           }, {
-            value: 'yechuan',
+            value: '桦川县',
             label: '桦川县'
           }, {
-            value: 'tangyuan',
+            value: '汤原县',
             label: '汤原县'
           }, {
-            value: 'tongjaing',
+            value: '同江市',
             label: '同江市'
           }, {
-            value: 'fujing',
+            value: '富锦市',
             label: '富锦市'
           }, {
-            value: 'fuyuan',
+            value: '抚远市',
             label: '抚远市'
           }]
         }, {
-          value: 'qitaihe',
+          value: '七台河市',
           label: '七台河市',
           children: [{
-            value: 'xingxing',
+            value: '新兴区',
             label: '新兴区'
           }, {
-            value: 'taoshan',
+            value: '桃山市',
             label: '桃山市'
           }, {
-            value: 'qiezihe',
+            value: '茄子河区',
             label: '茄子河区'
           }, {
-            value: 'boli',
+            value: '勃利县',
             label: '勃利县'
           }]
         }, {
-          value: 'mudanjiang',
+          value: '牡丹江市',
           label: '牡丹江市',
           children: [{
-            value: 'dongan',
+            value: '东安区',
             label: '东安区'
           }, {
-            value: 'yangming',
+            value: '阳明区',
             label: '阳明区'
           }, {
-            value: 'aiming',
+            value: '爱民区',
             label: '爱民区'
           }, {
-            value: 'xian',
+            value: '西安区',
             label: '西安区'
           }, {
-            value: 'linkou',
+            value: '林口县',
             label: '林口县'
           }, {
-            value: 'suifenghe',
+            value: '绥芬河市',
             label: '绥芬河市'
           }, {
-            value: 'hailin',
+            value: '海林市',
             label: '海林市'
           }, {
-            value: 'ningan',
+            value: '宁安市',
             label: '宁安市'
           }, {
-            value: 'muleng',
+            value: '穆棱市',
             label: '穆棱市'
           }, {
-            value: 'dongning',
+            value: '东宁市',
             label: '东宁市'
           }]
         }, {
-          value: 'heihe',
+          value: '黑河市',
           label: '黑河市',
           children: [{
-            value: 'aihui',
+            value: '爱辉区',
             label: '爱辉区'
           }, {
-            value: 'nengjiang',
+            value: '嫩江市',
             label: '嫩江市'
           }, {
-            value: 'sunke',
+            value: '逊克县',
             label: '逊克县'
           }, {
-            value: 'sunwu',
+            value: '孙吴县',
             label: '孙吴县'
           }, {
-            value: 'beian',
+            value: '北安市',
             label: '北安市'
           }, {
-            value: 'wudalianchi',
+            value: '五大连池市',
             label: '五大连池市'
           }]
         }, {
-          value: 'cuihua',
+          value: '绥化市',
           label: '绥化市',
           children: [{
-            value: 'beilin',
+            value: '北林区',
             label: '北林区'
           }, {
-            value: 'wangkui',
+            value: '望奎县',
             label: '望奎县'
           }, {
-            value: 'lanxi',
+            value: '兰西县',
             label: '兰西县'
           }, {
-            value: 'qinggang',
+            value: '青冈县',
             label: '青冈县'
           }, {
-            value: 'qingan',
+            value: '庆安县',
             label: '庆安县'
           }, {
-            value: 'mingshui',
+            value: '明水县',
             label: '明水县'
           }, {
-            value: 'suiling',
+            value: '绥棱县',
             label: '绥棱县'
           }, {
-            value: 'anda',
+            value: '安达市',
             label: '安达市'
           }, {
-            value: 'zhaodong',
+            value: '肇东市',
             label: '肇东市'
           }, {
-            value: 'hailun',
+            value: '海伦市',
             label: '海伦市'
           }]
         }, {
           value: 'daxinganling',
           label: '大兴安岭市',
           children: [{
-            value: 'mohe',
+            value: '漠河市',
             label: '漠河市'
           }, {
-            value: 'huma',
+            value: '呼玛县',
             label: '呼玛县'
           }, {
-            value: 'tahe',
+            value: '塔河县',
             label: '塔河县'
           }, {
-            value: 'jiagedaqi',
+            value: '加格达奇区',
             label: '加格达奇区'
           }, {
-            value: 'songling',
+            value: '松岭区',
             label: '松岭区'
           }, {
-            value: 'xinlin',
+            value: '新林区',
             label: '新林区'
           }, {
-            value: 'huzhong',
+            value: '呼中区',
             label: '呼中区'
           }]
         }]
       }, {
-        value: 'shagnhai',
+        value: '上海市',
         label: '上海市',
         children: [{
-          value: 'shagnhai',
+          value: '上海市',
           label: '上海市',
           children: [{
-            value: 'huangpu',
+            value: '黄浦区',
             label: '黄浦区'
           }, {
-            value: 'xuhui',
+            value: '徐汇区',
             label: '徐汇区'
           }, {
-            value: 'changning',
+            value: '长宁区',
             label: '长宁区'
           }, {
-            value: 'jingan',
+            value: '静安区',
             label: '静安区'
           }, {
-            value: 'putuo',
+            value: '普陀区',
             label: '普陀区'
           }, {
-            value: 'hongkou',
+            value: '虹口区',
             label: '虹口区'
           }, {
-            value: 'yangpu',
+            value: '杨浦区',
             label: '杨浦区'
           }, {
-            value: 'minghang',
+            value: '闵行区',
             label: '闵行区'
           }, {
-            value: 'baoshan',
+            value: '宝山区',
             label: '宝山区'
           }, {
-            value: 'jiading',
+            value: '嘉定区',
             label: '嘉定区'
           }, {
-            value: 'pudongxin',
+            value: '浦东新区',
             label: '浦东新区'
           }, {
-            value: 'jinshan',
+            value: '金山区',
             label: '金山区'
           }, {
-            value: 'songjaing',
+            value: '松江区',
             label: '松江区'
           }, {
-            value: 'qingpu',
+            value: '青浦区',
             label: '青浦区'
           }, {
-            value: 'fengxian',
+            value: '奉贤区',
             label: '奉贤区'
           }, {
-            value: 'chongming',
+            value: '崇明区',
             label: '崇明区'
           }]
         }]
       }, {
-        value: 'jiangsu',
+        value: '江苏省',
         label: '江苏省',
         children: [{
-          value: 'nanjin',
+          value: '南京市',
           label: '南京市',
           children: [{
-            value: 'xuanwu',
+            value: '玄武区',
             label: '玄武区'
           }, {
-            value: 'qinghuai',
+            value: '秦淮区',
             label: '秦淮区'
           }, {
-            value: 'jianyi',
+            value: '建邺区',
             label: '建邺区'
           }, {
-            value: 'gulou',
+            value: '鼓楼区',
             label: '鼓楼区'
           }, {
-            value: 'pukou',
+            value: '浦口区',
             label: '浦口区'
           }, {
-            value: 'xixia',
+            value: '栖霞区',
             label: '栖霞区'
           }, {
-            value: 'yuhuatai',
+            value: '雨花台区',
             label: '雨花台区'
           }, {
-            value: 'jiangning',
+            value: '江宁区',
             label: '江宁区'
           }, {
-            value: 'liuhe',
+            value: '六合区',
             label: '六合区'
           }, {
-            value: 'shushui',
+            value: '溧水区',
             label: '溧水区'
           }, {
-            value: 'gaocheng',
+            value: '高淳区',
             label: '高淳区'
           }]
         }, {
-          value: 'wuxi',
+          value: '无锡市',
           label: '无锡市',
           children: [{
-            value: 'xishan',
+            value: '锡山区',
             label: '锡山区'
           }, {
-            value: 'huishan',
+            value: '惠山区',
             label: '惠山区'
           }, {
-            value: 'binghu',
+            value: '滨湖区',
             label: '滨湖区'
           }, {
-            value: 'laingxi',
+            value: '梁溪区',
             label: '梁溪区'
           }, {
-            value: 'xinwu',
+            value: '新吴区',
             label: '新吴区'
           }, {
-            value: 'jiangyin',
+            value: '江阴市',
             label: '江阴市'
           }, {
-            value: 'yixing',
+            value: '宜兴市',
             label: '宜兴市'
           }]
         }, {
-          value: 'xuzhou',
+          value: '徐州市',
           label: '徐州市',
           children: [{
-            value: 'gulou',
+            value: '鼓楼区',
             label: '鼓楼区'
           }, {
-            value: 'yunlong',
+            value: '云龙区',
             label: '云龙区'
           }, {
-            value: 'jiawang',
+            value: '贾汪区',
             label: '贾汪区'
           }, {
-            value: 'quanshan',
+            value: '泉山区',
             label: '泉山区'
           }, {
-            value: 'tongshan',
+            value: '铜山区',
             label: '铜山区'
           }, {
-            value: 'feng',
+            value: '丰县',
             label: '丰县'
           }, {
-            value: 'pei',
+            value: '沛县',
             label: '沛县'
           }, {
-            value: 'weining',
+            value: '睢宁县',
             label: '睢宁县'
           }, {
-            value: 'jingjikaifa',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'xinqi',
+            value: '新沂市',
             label: '新沂市'
           }, {
-            value: 'pizhou',
+            value: '邳州市',
             label: '邳州市'
           }]
         }, {
-          value: 'changzhou',
+          value: '常州市',
           label: '常州市',
           children: [{
-            value: 'tianing',
+            value: '天宁区',
             label: '天宁区'
           }, {
-            value: 'zhonglou',
+            value: '钟楼区',
             label: '钟楼区'
           }, {
-            value: 'xinbei',
+            value: '新北区',
             label: '新北区'
           }, {
-            value: 'wujin',
+            value: '武进区',
             label: '武进区'
           }, {
-            value: 'jintan',
+            value: '金坛区',
             label: '金坛区'
           }, {
-            value: 'suyang',
+            value: '溧阳市',
             label: '溧阳市'
           }]
         }, {
-          value: 'suzhou',
+          value: '苏州市',
           label: '苏州市',
           children: [{
-            value: 'huqiu',
+            value: '虎丘区',
             label: '虎丘区'
           }, {
-            value: 'wuzhong',
+            value: '吴中区',
             label: '吴中区'
           }, {
-            value: 'xaingcheng',
+            value: '相城区',
             label: '相城区'
           }, {
-            value: 'gusu',
+            value: '姑苏区',
             label: '姑苏区'
           }, {
-            value: 'wujiang',
+            value: '吴江区',
             label: '吴江区'
           }, {
-            value: 'suzhougongye',
+            value: '苏州工业园区',
             label: '苏州工业园区'
           }, {
-            value: 'changshu',
+            value: '常熟市',
             label: '常熟市'
           }, {
-            value: 'zhangjiagang',
+            value: '张家港市',
             label: '张家港市'
           }, {
-            value: 'kunshan',
+            value: '昆山市',
             label: '昆山市'
           }, {
-            value: 'taicang',
+            value: '太仓市',
             label: '太仓市'
           }]
         }, {
-          value: 'nantong',
+          value: '南通市',
           label: '南通市',
           children: [{
-            value: 'congchuan',
+            value: '崇川区',
             label: '崇川区'
           }, {
-            value: 'tongzhou',
+            value: '通州区',
             label: '通州区'
           }, {
-            value: 'haimen',
+            value: '海门区',
             label: '海门区'
           }, {
-            value: 'haian',
+            value: '海安市',
             label: '海安市'
           }, {
-            value: 'rudong',
+            value: '如东市',
             label: '如东市'
           }, {
-            value: 'qidong',
+            value: '启东市',
             label: '启东市'
           }, {
-            value: 'rufu',
+            value: '如皋市',
             label: '如皋市'
           }]
         }, {
-          value: 'lianyungang',
+          value: '连云港市',
           label: '连云港市',
           children: [{
-            value: 'lianyun',
+            value: '连云区',
             label: '连云区'
           }, {
-            value: 'haizhou',
+            value: '海州区',
             label: '海州区'
           }, {
-            value: 'ganyu',
+            value: '赣榆区',
             label: '赣榆区'
           }, {
-            value: 'donghai',
+            value: '东海县',
             label: '东海县'
           }, {
-            value: 'guanyun',
+            value: '灌云县',
             label: '灌云县'
           }, {
-            value: 'guannan',
+            value: '灌南县',
             label: '灌南县'
           }]
         }, {
-          value: 'yancheng',
+          value: '盐城市',
           label: '盐城市',
           children: [{
-            value: 'tinghu',
+            value: '亭湖区',
             label: '亭湖区'
           }, {
-            value: 'yandu',
+            value: '盐都区',
             label: '盐都区'
           }, {
-            value: 'dafeng',
+            value: '大丰区',
             label: '大丰区'
           }, {
-            value: 'xiangshui',
+            value: '响水县',
             label: '响水县'
           }, {
-            value: 'binghai',
+            value: '滨海县',
             label: '滨海县'
           }, {
-            value: 'funing',
+            value: '阜宁县',
             label: '阜宁县'
           }, {
-            value: 'sheyang',
+            value: '射阳县',
             label: '射阳县'
           }, {
-            value: 'jianhu',
+            value: '建湖县',
             label: '建湖县'
           }, {
-            value: 'dongtai',
+            value: '东台市',
             label: '东台市'
           }]
         }, {
-          value: 'yanghzou',
+          value: '扬州市',
           label: '扬州市',
           children: [{
-            value: 'guanglin',
+            value: '广陵区',
             label: '广陵区'
           }, {
-            value: 'hanjiang',
+            value: '邗江区',
             label: '邗江区'
           }, {
-            value: 'jiangdu',
+            value: '江都区',
             label: '江都区'
           }, {
-            value: 'baoying',
+            value: '宝应县',
             label: '宝应县'
           }, {
-            value: 'yizheng',
+            value: '仪征市',
             label: '仪征市'
           }, {
-            value: 'gaoyou',
+            value: '高邮市',
             label: '高邮市'
           }]
         }, {
-          value: 'zhengjiang',
+          value: '镇江市',
           label: '镇江市',
           children: [{
-            value: 'jinkou',
+            value: '京口区',
             label: '京口区'
           }, {
-            value: 'runzhou',
+            value: '润州区',
             label: '润州区'
           }, {
-            value: 'dantu',
+            value: '丹徒区',
             label: '丹徒区'
           }, {
-            value: 'danyang',
+            value: '丹阳市',
             label: '丹阳市'
           }, {
-            value: 'yangzhong',
+            value: '扬中市',
             label: '扬中市'
           }, {
-            value: 'jurong',
+            value: '句容市',
             label: '句容市'
           }]
         }, {
-          value: 'taizhou',
+          value: '泰州市',
           label: '泰州市',
           children: [{
-            value: 'hailing',
+            value: '海陵区',
             label: '海陵区'
           }, {
-            value: 'gaogang',
+            value: '高港区',
             label: '高港区'
           }, {
-            value: 'jiangyan',
+            value: '姜堰区',
             label: '姜堰区'
           }, {
-            value: 'xinghua',
+            value: '兴化市',
             label: '兴化市'
           }, {
-            value: 'jingjiang',
+            value: '靖江市',
             label: '靖江市'
           }, {
-            value: 'taixing',
+            value: '泰兴市',
             label: '泰兴市'
           }]
         }, {
-          value: 'suqian',
+          value: '宿迁市',
           label: '宿迁市',
           children: [{
-            value: 'sucheng',
+            value: '宿城区',
             label: '宿城区'
           }, {
-            value: 'suyu',
+            value: '宿豫区',
             label: '宿豫区'
           }, {
-            value: 'muyang',
+            value: '沭阳县',
             label: '沭阳县'
           }, {
-            value: 'siyang',
+            value: '泗阳县',
             label: '泗阳县'
           }, {
-            value: 'sihong',
+            value: '泗洪县',
             label: '泗洪县'
           }]
         }, {
-          value: 'huaian',
+          value: '淮安市',
           label: '淮安市',
           children: [{
-            value: 'huaian',
+            value: '淮安区',
             label: '淮安区'
           }, {
-            value: 'huaiyin',
+            value: '淮阴区',
             label: '淮阴区'
           }, {
-            value: 'qingjiangpu',
+            value: '清江浦区',
             label: '清江浦区'
           }, {
-            value: 'lianshui',
+            value: '涟水县',
             label: '涟水县'
           }, {
-            value: 'hongze',
+            value: '洪泽区',
             label: '洪泽区'
           }, {
-            value: 'taiyu',
+            value: '盱眙县',
             label: '盱眙县'
           }, {
-            value: 'jinghu',
+            value: '金湖县',
             label: '金湖县'
           }]
         }]
       }, {
-        value: 'zhejiang',
+        value: '浙江省',
         label: '浙江省',
         children: [{
-          value: 'nanjin',
+          value: '杭州市',
           label: '杭州市',
           children: [{
-            value: 'shangcheng',
+            value: '上城区',
             label: '上城区'
           }, {
-            value: 'xiacheng',
+            value: '下城区',
             label: '下城区'
           }, {
-            value: 'jianggan',
+            value: '江干区',
             label: '江干区'
           }, {
-            value: 'gongshu',
+            value: '拱墅区',
             label: '拱墅区'
           }, {
-            value: 'xihu',
+            value: '西湖区',
             label: '西湖区'
           }, {
-            value: 'bingjiang',
+            value: '滨江区',
             label: '滨江区'
           }, {
-            value: 'xiaoshan',
+            value: '萧山区',
             label: '萧山区'
           }, {
-            value: 'yuhang',
+            value: '余杭区',
             label: '余杭区'
           }, {
-            value: 'fuyang',
+            value: '富阳区',
             label: '富阳区'
           }, {
-            value: 'linan',
+            value: '临安区',
             label: '临安区'
           }, {
-            value: 'qiantangxin',
+            value: '钱塘新区',
             label: '钱塘新区'
           }, {
-            value: 'tonglu',
+            value: '桐庐县',
             label: '桐庐县'
           }, {
-            value: 'cunan',
+            value: '淳安县',
             label: '淳安县'
           }, {
-            value: 'jiande',
+            value: '建德市',
             label: '建德市'
           }]
         }, {
-          value: 'wuxi',
+          value: '宁波市',
           label: '宁波市',
           children: [{
-            value: 'haishu',
+            value: '海曙区',
             label: '海曙区'
           }, {
-            value: 'jiangbei',
+            value: '江北区',
             label: '江北区'
           }, {
-            value: 'beilun',
+            value: '北仑区',
             label: '北仑区'
           }, {
-            value: 'zhenghai',
+            value: '镇海区',
             label: '镇海区'
           }, {
-            value: 'qingzhou',
+            value: '鄞州区',
             label: '鄞州区'
           }, {
-            value: 'fenghua',
+            value: '奉化区',
             label: '奉化区'
           }, {
-            value: 'xiangshan',
+            value: '象山县',
             label: '象山县'
           }, {
-            value: 'ninghai',
+            value: '宁海县',
             label: '宁海县'
           }, {
-            value: 'yuyao',
+            value: '余姚市',
             label: '余姚市'
           }, {
-            value: 'cixi',
+            value: '慈溪市',
             label: '慈溪市'
           }]
         }, {
-          value: 'xuzhou',
+          value: '温州市',
           label: '温州市',
           children: [{
-            value: 'lucheng',
+            value: '鹿城区',
             label: '鹿城区'
           }, {
-            value: 'longwan',
+            value: '龙湾区',
             label: '龙湾区'
           }, {
-            value: 'ouhai',
+            value: '瓯海区',
             label: '瓯海区'
           }, {
-            value: 'dongtou',
+            value: '洞头区',
             label: '洞头区'
           }, {
-            value: 'yongjia',
+            value: '永嘉县',
             label: '永嘉县'
           }, {
-            value: 'pingyang',
+            value: '平阳县',
             label: '平阳县'
           }, {
-            value: 'cangnan',
+            value: '苍南县',
             label: '苍南县'
           }, {
-            value: 'wencheng',
+            value: '文成县',
             label: '文成县'
           }, {
-            value: 'taishun',
+            value: '泰顺县',
             label: '泰顺县'
           }, {
-            value: 'ruian',
+            value: '瑞安市',
             label: '瑞安市'
           }, {
-            value: 'leqing',
+            value: '乐清市',
             label: '乐清市'
           }, {
-            value: 'longgang',
+            value: '龙港市',
             label: '龙港市'
           }]
         }, {
-          value: 'changzhou',
+          value: '嘉兴市',
           label: '嘉兴市',
           children: [{
-            value: 'xuanwu',
+            value: '南湖区',
             label: '南湖区'
           }, {
-            value: 'qinghuai',
+            value: '秀洲区',
             label: '秀洲区'
           }, {
-            value: 'jianyi',
+            value: '嘉善县',
             label: '嘉善县'
           }, {
-            value: 'gulou',
+            value: '海盐县',
             label: '海盐县'
           }, {
-            value: 'pukou',
+            value: '海宁市',
             label: '海宁市'
           }, {
-            value: 'xixia',
+            value: '平湖市',
             label: '平湖市'
           }, {
-            value: 'yuhuatai',
+            value: '桐乡市',
             label: '桐乡市'
           }]
         }, {
-          value: 'suzhou',
+          value: '湖州市',
           label: '湖州市',
           children: [{
-            value: 'wuxing',
+            value: '吴兴区',
             label: '吴兴区'
           }, {
-            value: 'nanxun',
+            value: '南浔区',
             label: '南浔区'
           }, {
-            value: 'deqing',
+            value: '德清县',
             label: '德清县'
           }, {
-            value: 'changxing',
+            value: '长兴县',
             label: '长兴县'
           }, {
-            value: 'anji',
+            value: '安吉县',
             label: '安吉县'
           }]
         }, {
-          value: 'nantong',
+          value: '绍兴市',
           label: '绍兴市',
           children: [{
-            value: 'yuecheng',
+            value: '越城区',
             label: '越城区'
           }, {
-            value: 'keqiao',
+            value: '柯桥区',
             label: '柯桥区'
           }, {
-            value: 'shangyu',
+            value: '上虞区',
             label: '上虞区'
           }, {
-            value: 'xinji',
+            value: '新昌县',
             label: '新昌县'
           }, {
-            value: 'zhuyi',
+            value: '诸暨市',
             label: '诸暨市'
           }, {
-            value: 'shengzhou',
+            value: '嵊州市',
             label: '嵊州市'
           }]
         }, {
-          value: 'lianyungang',
+          value: '金华市',
           label: '金华市',
           children: [{
-            value: 'yucheng',
+            value: '婺城区',
             label: '婺城区'
           }, {
-            value: 'jindong',
+            value: '金东区',
             label: '金东区'
           }, {
-            value: 'wuyi',
+            value: '武义县',
             label: '武义县'
           }, {
-            value: 'pujiang',
+            value: '浦江县',
             label: '浦江县'
           }, {
-            value: 'panan',
+            value: '磐安县',
             label: '磐安县'
           }, {
-            value: 'lanxi',
+            value: '兰溪市',
             label: '兰溪市'
           }, {
-            value: 'yiwu',
+            value: '义乌市',
             label: '义乌市'
           }, {
-            value: 'dongyang',
+            value: '东阳市',
             label: '东阳市'
           }, {
-            value: 'yongkang',
+            value: '永康市',
             label: '永康市'
           }]
         }, {
-          value: 'huaiyin',
+          value: '衢州市',
           label: '衢州市',
           children: [{
-            value: 'kecheng',
+            value: '柯城区',
             label: '柯城区'
           }, {
-            value: 'qujiang',
+            value: '衢江区',
             label: '衢江区'
           }, {
-            value: 'changshan',
+            value: '常山县',
             label: '常山县'
           }, {
-            value: 'kaihua',
+            value: '开化县',
             label: '开化县'
           }, {
-            value: 'longyou',
+            value: '龙游县',
             label: '龙游县'
           }, {
-            value: 'jiangshan',
+            value: '江山市',
             label: '江山市'
           }]
         }, {
-          value: 'yancheng',
+          value: '舟山市',
           label: '舟山市',
           children: [{
-            value: 'dinghai',
+            value: '定海区',
             label: '定海区'
           }, {
-            value: 'putuo',
+            value: '普陀区',
             label: '普陀区'
           }, {
-            value: 'daishan',
+            value: '岱山县',
             label: '岱山县'
           }, {
-            value: 'shengci',
+            value: '嵊泗县',
             label: '嵊泗县'
           }]
         }, {
-          value: 'yanghzou',
+          value: '台州市',
           label: '台州市',
           children: [{
-            value: 'shujiang',
+            value: '椒江区',
             label: '椒江区'
           }, {
-            value: 'hangyan',
+            value: '黄岩区',
             label: '黄岩区'
           }, {
-            value: 'luqiao',
+            value: '路桥区',
             label: '路桥区'
           }, {
-            value: 'yuhuan',
+            value: '玉环市',
             label: '玉环市'
           }, {
-            value: 'sanmen',
+            value: '三门县',
             label: '三门县'
           }, {
-            value: 'tiantai',
+            value: '天台县',
             label: '天台县'
           }, {
-            value: 'xianju',
+            value: '仙居县',
             label: '仙居县'
           }, {
-            value: 'wenling',
+            value: '温岭市',
             label: '温岭市'
           }, {
-            value: 'linhai',
+            value: '临海市',
             label: '临海市'
           }]
         }, {
-          value: 'dafeng',
+          value: '丽水市',
           label: '丽水市',
           children: [{
-            value: 'liandu',
+            value: '莲都区',
             label: '莲都区'
           }, {
-            value: 'qingtian',
+            value: '青田县',
             label: '青田县'
           }, {
-            value: 'jinyun',
+            value: '缙云县',
             label: '缙云县'
           }, {
-            value: 'suichang',
+            value: '遂昌县',
             label: '遂昌县'
           }, {
-            value: 'songyang',
+            value: '松阳县',
             label: '松阳县'
           }, {
-            value: 'yunhe',
+            value: '云和县',
             label: '云和县'
           }, {
-            value: 'qingyuan',
+            value: '庆元县',
             label: '庆元县'
           }, {
-            value: 'jingning',
+            value: '景宁县',
             label: '景宁县'
           }, {
-            value: 'longquan',
+            value: '龙泉市',
             label: '龙泉市'
           }]
         }]
       }, {
-        value: 'anhui',
+        value: '安徽省',
         label: '安徽省',
         children: [{
-          value: 'hefei',
+          value: '合肥市',
           label: '合肥市',
           children: [{
-            value: 'yaohai',
+            value: '瑶海区',
             label: '瑶海区'
           }, {
-            value: 'luyang',
+            value: '庐阳区',
             label: '庐阳区'
           }, {
-            value: 'shushan',
+            value: '蜀山区',
             label: '蜀山区'
           }, {
-            value: 'baohe',
+            value: '包河区',
             label: '包河区'
           }, {
-            value: 'changfeng',
+            value: '长丰县',
             label: '长丰县'
           }, {
-            value: 'feidong',
+            value: '肥东县',
             label: '肥东县'
           }, {
-            value: 'feixi',
+            value: '肥西县',
             label: '肥西县'
           }, {
-            value: 'lujiang',
+            value: '庐江县',
             label: '庐江县'
           }, {
-            value: 'chaohu',
+            value: '巢湖市',
             label: '巢湖市'
           }]
         }, {
-          value: 'wuhu',
+          value: '芜湖市',
           label: '芜湖市',
           children: [{
-            value: 'jinghu',
+            value: '镜湖区',
             label: '镜湖区'
           }, {
-            value: 'yejiang',
+            value: '弋江区',
             label: '弋江区'
           }, {
-            value: 'xujiang',
+            value: '鸠江区',
             label: '鸠江区'
           }, {
-            value: 'wanzhi',
+            value: '湾沚区',
             label: '湾沚区'
           }, {
-            value: 'fanchang',
+            value: '繁昌区',
             label: '繁昌区'
           }, {
-            value: 'nanling',
+            value: '南陵县',
             label: '南陵县'
           }, {
-            value: 'wuwei',
+            value: '无为市',
             label: '无为市'
           }]
         }, {
-          value: 'bengbu',
+          value: '蚌埠市',
           label: '蚌埠市',
           children: [{
-            value: 'longzihu',
+            value: '龙子湖区',
             label: '龙子湖区'
           }, {
-            value: 'bangshan',
+            value: '蚌山区',
             label: '蚌山区'
           }, {
-            value: 'yuhui',
+            value: '禹会区',
             label: '禹会区'
           }, {
-            value: 'huaishang',
+            value: '淮上区',
             label: '淮上区'
           }, {
-            value: 'huaiyuan',
+            value: '怀远县',
             label: '怀远县'
           }, {
-            value: 'wuhe',
+            value: '五河县',
             label: '五河县'
           }, {
-            value: 'guzhen',
+            value: '固镇县',
             label: '固镇县'
           }]
         }, {
-          value: 'huainan',
+          value: '淮南市',
           label: '淮南市',
           children: [{
-            value: 'datong',
+            value: '大通区',
             label: '大通区'
           }, {
-            value: 'tainjiaan',
+            value: '田家庵区',
             label: '田家庵区'
           }, {
-            value: 'xiejiaji',
+            value: '谢家集区',
             label: '谢家集区'
           }, {
-            value: 'bagongshan',
+            value: '八公山区',
             label: '八公山区'
           }, {
-            value: 'panji',
+            value: '潘集区',
             label: '潘集区'
           }, {
-            value: 'fengtai',
+            value: '凤台县',
             label: '凤台县'
           }, {
-            value: 'shou',
+            value: '寿县',
             label: '寿县'
           }]
         }, {
-          value: 'maanshan',
+          value: '马鞍山市',
           label: '马鞍山市',
           children: [{
-            value: 'bowang',
+            value: '博望区',
             label: '博望区'
           }, {
-            value: 'huashan',
+            value: '花山区',
             label: '花山区'
           }, {
-            value: 'yushan',
+            value: '雨山区',
             label: '雨山区'
           }, {
-            value: 'dangtu',
+            value: '当涂县',
             label: '当涂县'
           }, {
-            value: 'hanshan',
+            value: '含山县',
             label: '含山县'
           }, {
-            value: 'he',
+            value: '和县',
             label: '和县'
           }]
         }, {
-          value: 'huaibei',
+          value: '淮北市',
           label: '淮北市',
           children: [{
-            value: 'duji',
+            value: '杜集区',
             label: '杜集区'
           }, {
-            value: 'xiangshan',
+            value: '相山区',
             label: '相山区'
           }, {
-            value: 'lieshan',
+            value: '烈山区',
             label: '烈山区'
           }, {
-            value: 'juxi',
+            value: '濉溪县',
             label: '濉溪县'
           }]
         }, {
-          value: 'tongling',
+          value: '铜陵市',
           label: '铜陵市',
           children: [{
-            value: 'tonggong',
+            value: '铜官区',
             label: '铜官区'
           }, {
-            value: 'yian',
+            value: '义安区',
             label: '义安区'
           }, {
-            value: 'jiao',
+            value: '郊区',
             label: '郊区'
           }, {
-            value: 'zongyang',
+            value: '枞阳县',
             label: '枞阳县'
           }]
         }, {
-          value: 'anqing',
+          value: '安庆市',
           label: '安庆市',
           children: [{
-            value: 'yinjiang',
+            value: '迎江区',
             label: '迎江区'
           }, {
-            value: 'daguan',
+            value: '大观区',
             label: '大观区'
           }, {
-            value: 'yixiu',
+            value: '宜秀区',
             label: '宜秀区'
           }, {
-            value: 'huaining',
+            value: '怀宁县',
             label: '怀宁县'
           }, {
-            value: 'qianshan',
+            value: '潜山市',
             label: '潜山市'
           }, {
-            value: 'taihu',
+            value: '太湖县',
             label: '太湖县'
           }, {
-            value: 'susong',
+            value: '宿松县',
             label: '宿松县'
           }, {
-            value: 'wangjiang',
+            value: '望江县',
             label: '望江县'
           }, {
-            value: 'yuexi',
+            value: '岳西县',
             label: '岳西县'
           }, {
-            value: 'tongcheng',
+            value: '桐城市',
             label: '桐城市'
           }]
         }, {
-          value: 'huangshan',
+          value: '黄山市',
           label: '黄山市',
           children: [{
-            value: 'tunxi',
+            value: '屯溪区',
             label: '屯溪区'
           }, {
-            value: 'huangshan',
+            value: '黄山区',
             label: '黄山区'
           }, {
-            value: 'huizhou',
+            value: '徽州区',
             label: '徽州区'
           }, {
-            value: 'wen',
+            value: '歙县',
             label: '歙县'
           }, {
-            value: 'xiuning',
+            value: '休宁县',
             label: '休宁县'
           }, {
-            value: 'mo',
+            value: '黟县',
             label: '黟县'
           }, {
-            value: 'qimen',
+            value: '祁门县',
             label: '祁门县'
           }]
         }, {
-          value: 'chuzhou',
+          value: '滁州市',
           label: '滁州市',
           children: [{
-            value: 'langya',
+            value: '琅琊区',
             label: '琅琊区'
           }, {
-            value: 'nanjiao',
+            value: '南谯区',
             label: '南谯区'
           }, {
-            value: 'laian',
+            value: '来安县',
             label: '来安县'
           }, {
-            value: 'quanjiao',
+            value: '全椒县',
             label: '全椒县'
           }, {
-            value: 'dingyuan',
+            value: '定远县',
             label: '定远县'
           }, {
-            value: 'fengyang',
+            value: '凤阳县',
             label: '凤阳县'
           }, {
-            value: 'tianchang',
+            value: '天长市',
             label: '天长市'
           }, {
-            value: 'guangming',
+            value: '明光市',
             label: '明光市'
           }]
         }, {
-          value: 'fuyang',
+          value: '阜阳市',
           label: '阜阳市',
           children: [{
-            value: 'yingzhou',
+            value: '颍州区',
             label: '颍州区'
           }, {
-            value: 'yingdong',
+            value: '颍东区',
             label: '颍东区'
           }, {
-            value: 'yingquan',
+            value: '颍泉区',
             label: '颍泉区'
           }, {
-            value: 'linquan',
+            value: '临泉县',
             label: '临泉县'
           }, {
-            value: 'taihe',
+            value: '太和县',
             label: '太和县'
           }, {
-            value: 'funan',
+            value: '阜南县',
             label: '阜南县'
           }, {
-            value: 'yingshang',
+            value: '颍上县',
             label: '颍上县'
           }, {
-            value: 'jieshou',
+            value: '界首市',
             label: '界首市'
           }]
         }, {
-          value: 'suzhou',
+          value: '宿州市',
           label: '宿州市',
           children: [{
-            value: 'yongqiao',
+            value: '埇桥区',
             label: '埇桥区'
           }, {
-            value: 'xishan',
+            value: '砀山县',
             label: '砀山县'
           }, {
-            value: 'xiao',
+            value: '萧县',
             label: '萧县'
           }, {
-            value: 'lingbi',
+            value: '灵璧县',
             label: '灵璧县'
           }, {
-            value: 'si',
+            value: '泗县',
             label: '泗县'
           }]
         }, {
-          value: 'liuan',
+          value: '六安市',
           label: '六安市',
           children: [{
-            value: 'jinan',
+            value: '金安区',
             label: '金安区'
           }, {
-            value: 'yuan',
+            value: '裕安区',
             label: '裕安区'
           }, {
-            value: 'yeji',
+            value: '叶集区',
             label: '叶集区'
           }, {
-            value: 'huoqiu',
+            value: '霍邱县',
             label: '霍邱县'
           }, {
-            value: 'shucheng',
+            value: '舒城县',
             label: '舒城县'
           }, {
-            value: 'jinzhai',
+            value: '金寨县',
             label: '金寨县'
           }, {
-            value: 'huoshan',
+            value: '霍山县',
             label: '霍山县'
           }]
         }, {
-          value: 'haozhou',
+          value: '豪州市',
           label: '豪州市',
           children: [{
-            value: 'jiaocheng',
+            value: '谯城区',
             label: '谯城区'
           }, {
-            value: 'woyang',
+            value: '涡阳县',
             label: '涡阳县'
           }, {
-            value: 'mengcheng',
+            value: '蒙城县',
             label: '蒙城县'
           }, {
-            value: 'lixing',
+            value: '利辛县',
             label: '利辛县'
           }]
         }, {
-          value: 'chizhou',
+          value: '池州市',
           label: '池州市',
           children: [{
-            value: 'guichi',
+            value: '贵池区',
             label: '贵池区'
           }, {
-            value: 'dongzhi',
+            value: '东至县',
             label: '东至县'
           }, {
-            value: 'shitai',
+            value: '石台县',
             label: '石台县'
           }, {
-            value: 'qingyang',
+            value: '青阳县',
             label: '青阳县'
           }]
         }, {
-          value: 'xuancheng',
+          value: '宣城市',
           label: '宣城市',
           children: [{
-            value: 'xuanzhou',
+            value: '宣州区',
             label: '宣州区'
           }, {
-            value: 'langxi',
+            value: '郎溪县',
             label: '郎溪县'
           }, {
-            value: 'jing',
+            value: '泾县',
             label: '泾县'
           }, {
-            value: 'jixi',
+            value: '绩溪县',
             label: '绩溪县'
           }, {
-            value: 'qide',
+            value: '旌德县',
             label: '旌德县'
           }, {
-            value: 'ningguo',
+            value: '宁国市',
             label: '宁国市'
           }, {
-            value: 'guangde',
+            value: '广德市',
             label: '广德市'
           }]
         }]
       }, {
-        value: 'fujian',
+        value: '福建省',
         label: '福建省',
         children: [{
-          value: 'fuzhou',
+          value: '福州市',
           label: '福州市',
           children: [{
-            value: 'gulou',
+            value: '鼓楼区',
             label: '鼓楼区'
           }, {
-            value: 'taijiang',
+            value: '台江区',
             label: '台江区'
           }, {
-            value: 'cangshan',
+            value: '仓山区',
             label: '仓山区'
           }, {
-            value: 'mawei',
+            value: '马尾区',
             label: '马尾区'
           }, {
-            value: 'jingan',
+            value: '晋安区',
             label: '晋安区'
           }, {
-            value: 'changle',
+            value: '长乐区',
             label: '长乐区'
           }, {
-            value: 'minghou',
+            value: '闽侯县',
             label: '闽侯县'
           }, {
-            value: 'lianjiang',
+            value: '连江县',
             label: '连江县'
           }, {
-            value: 'luoyuan',
+            value: '罗源县',
             label: '罗源县'
           }, {
-            value: 'mingqing',
+            value: '闽清县',
             label: '闽清县'
           }, {
-            value: 'yongtai',
+            value: '永泰县',
             label: '永泰县'
           }, {
-            value: 'pingtan',
+            value: '平潭县',
             label: '平潭县'
           }, {
-            value: 'fuqing',
+            value: '福清市',
             label: '福清市'
           }]
         }, {
-          value: 'xiamen',
+          value: '厦门市',
           label: '厦门市',
           children: [{
-            value: 'siming',
+            value: '思明区',
             label: '思明区'
           }, {
-            value: 'haicang',
+            value: '海沧区',
             label: '海沧区'
           }, {
-            value: 'huli',
+            value: '湖里区',
             label: '湖里区'
           }, {
-            value: 'jimei',
+            value: '集美区',
             label: '集美区'
           }, {
-            value: 'tongan',
+            value: '同安区',
             label: '同安区'
           }, {
-            value: 'xiangan',
+            value: '翔安区',
             label: '翔安区'
           }]
         }, {
-          value: 'putian',
+          value: '莆田市',
           label: '莆田市',
           children: [{
-            value: 'chengxiang',
+            value: '城厢区',
             label: '城厢区'
           }, {
-            value: 'hanjiang',
+            value: '涵江区',
             label: '涵江区'
           }, {
-            value: 'licheng',
+            value: '荔城区',
             label: '荔城区'
           }, {
-            value: 'xiuyu',
+            value: '秀屿区',
             label: '秀屿区'
           }, {
-            value: 'xianyou',
+            value: '仙游县',
             label: '仙游县'
           }]
         }, {
-          value: 'sanming',
+          value: '三明市',
           label: '三明市',
           children: [{
-            value: 'meilie',
+            value: '梅列区',
             label: '梅列区'
           }, {
-            value: 'sanyuan',
+            value: '三元区',
             label: '三元区'
           }, {
-            value: 'mingxi',
+            value: '明溪县',
             label: '明溪县'
           }, {
-            value: 'qingliu',
+            value: '清流县',
             label: '清流县'
           }, {
-            value: 'ninhua',
+            value: '宁化县',
             label: '宁化县'
           }, {
-            value: 'datian',
+            value: '大田县',
             label: '大田县'
           }, {
-            value: 'youxi',
+            value: '尤溪县',
             label: '尤溪县'
           }, {
-            value: 'sha',
+            value: '沙县',
             label: '沙县'
           }, {
-            value: 'jiangle',
+            value: '将乐县',
             label: '将乐县'
           }, {
-            value: 'taining',
+            value: '泰宁县',
             label: '泰宁县'
           }, {
-            value: 'jianning',
+            value: '建宁县',
             label: '建宁县'
           }, {
-            value: 'yongan',
+            value: '永安市',
             label: '永安市'
           }]
         }, {
-          value: 'quanzhou',
+          value: '泉州市',
           label: '泉州市',
           children: [{
-            value: 'licheng',
+            value: '鲤城区',
             label: '鲤城区'
           }, {
-            value: 'fengze',
+            value: '丰泽区',
             label: '丰泽区'
           }, {
-            value: 'luojiang',
+            value: '洛江区',
             label: '洛江区'
           }, {
-            value: 'quangang',
+            value: '泉港区',
             label: '泉港区'
           }, {
-            value: 'huian',
+            value: '惠安县',
             label: '惠安县'
           }, {
-            value: 'anxi',
+            value: '安溪县',
             label: '安溪县'
           }, {
-            value: 'yongchun',
+            value: '永春县',
             label: '永春县'
           }, {
-            value: 'dehua',
+            value: '德化县',
             label: '德化县'
           }, {
-            value: 'jinmen',
+            value: '金门县',
             label: '金门县'
           }, {
-            value: 'shishi',
+            value: '石狮市',
             label: '石狮市'
           }, {
-            value: 'jingjiang',
+            value: '晋江市',
             label: '晋江市'
           }, {
-            value: 'nanan',
+            value: '南安市',
             label: '南安市'
           }]
         }, {
-          value: 'zhangzhou',
+          value: '漳州市',
           label: '漳州市',
           children: [{
-            value: 'xiangcheng',
+            value: '芗城区',
             label: '芗城区'
           }, {
-            value: 'longwen',
+            value: '龙文区',
             label: '龙文区'
           }, {
-            value: 'yunxiao',
+            value: '云霄县',
             label: '云霄县'
           }, {
-            value: 'zhangpu',
+            value: '漳浦县',
             label: '漳浦县'
           }, {
-            value: 'zhaoan',
+            value: '诏安县',
             label: '诏安县'
           }, {
-            value: 'changtai',
+            value: '长泰县',
             label: '长泰县'
           }, {
-            value: 'dongshan',
+            value: '东山县',
             label: '东山县'
           }, {
-            value: 'nanjing',
+            value: '南靖县',
             label: '南靖县'
           }, {
-            value: 'heping',
+            value: '平和县',
             label: '平和县'
           }, {
-            value: 'huaan',
+            value: '华安县',
             label: '华安县'
           }, {
-            value: 'longhai',
+            value: '龙海市',
             label: '龙海市'
           }]
         }, {
-          value: 'nanping',
+          value: '南平市',
           label: '南平市',
           children: [{
-            value: 'yanping',
+            value: '延平区',
             label: '延平区'
           }, {
-            value: 'jiangyang',
+            value: '建阳区',
             label: '建阳区'
           }, {
-            value: 'shunchang',
+            value: '顺昌县',
             label: '顺昌县'
           }, {
-            value: 'pucheng',
+            value: '浦城县',
             label: '浦城县'
           }, {
-            value: 'guangze',
+            value: '光泽县',
             label: '光泽县'
           }, {
-            value: 'songxi',
+            value: '松溪县',
             label: '松溪县'
           }, {
-            value: 'zhenghe',
+            value: '政和县',
             label: '政和县'
           }, {
-            value: 'shaowu',
+            value: '邵武市',
             label: '邵武市'
           }, {
-            value: 'wuyishan',
+            value: '武夷山市',
             label: '武夷山市'
           }, {
-            value: 'jianou',
+            value: '建瓯市',
             label: '建瓯市'
           }]
         }, {
-          value: 'longyan',
+          value: '龙岩市',
           label: '龙岩市',
           children: [{
-            value: 'xinluo',
+            value: '新罗区',
             label: '新罗区'
           }, {
-            value: 'yongding',
+            value: '永定区',
             label: '永定区'
           }, {
-            value: 'changding',
+            value: '长汀县',
             label: '长汀县'
           }, {
-            value: 'shanghang',
+            value: '上杭县',
             label: '上杭县'
           }, {
-            value: 'wuping',
+            value: '武平县',
             label: '武平县'
           }, {
-            value: 'liancheng',
+            value: '连城县',
             label: '连城县'
           }, {
-            value: 'zhangping',
+            value: '漳平市',
             label: '漳平市'
           }]
         }, {
-          value: 'ningde',
+          value: '宁德市',
           label: '宁德市',
           children: [{
-            value: 'jiaocheng',
+            value: '蕉城区',
             label: '蕉城区'
           }, {
-            value: 'xiapu',
+            value: '霞浦县',
             label: '霞浦县'
           }, {
-            value: 'gutian',
+            value: '古田县',
             label: '古田县'
           }, {
-            value: 'pinnan',
+            value: '屏南县',
             label: '屏南县'
           }, {
-            value: 'shouning',
+            value: '寿宁县',
             label: '寿宁县'
           }, {
-            value: 'zhouning',
+            value: '周宁县',
             label: '周宁县'
           }, {
-            value: 'tuorong',
+            value: '柘荣县',
             label: '柘荣县'
           }, {
-            value: 'fuan',
+            value: '福安市',
             label: '福安市'
           }, {
-            value: 'fuding',
+            value: '福鼎市',
             label: '福鼎市'
           }]
         }]
       }, {
-        value: 'jiangxi',
+        value: '江西省',
         label: '江西省',
         children: [{
-          value: 'nanchang',
+          value: '南昌市',
           label: '南昌市',
           children: [{
-            value: 'donghu',
+            value: '东湖区',
             label: '东湖区'
           }, {
-            value: 'xihu',
+            value: '西湖区',
             label: '西湖区'
           }, {
-            value: 'qingyunpu',
+            value: '青云谱区',
             label: '青云谱区'
           }, {
-            value: 'qingshanhu',
+            value: '青山湖区',
             label: '青山湖区'
           }, {
-            value: 'xinjian',
+            value: '新建区',
             label: '新建区'
           }, {
-            value: 'honggutan',
+            value: '红谷滩区',
             label: '红谷滩区'
           }, {
-            value: 'nanchang',
+            value: '南昌县',
             label: '南昌县'
           }, {
-            value: 'anyi',
+            value: '安义县',
             label: '安义县'
           }, {
-            value: 'jinxian',
+            value: '进贤县',
             label: '进贤县'
           }]
         }, {
-          value: 'jingdezheng',
+          value: '景德镇市',
           label: '景德镇市',
           children: [{
-            value: 'changjiang',
+            value: '昌江区',
             label: '昌江区'
           }, {
-            value: 'zhushan',
+            value: '珠山区',
             label: '珠山区'
           }, {
-            value: 'fuliang',
+            value: '浮梁县',
             label: '浮梁县'
           }, {
-            value: 'leping',
+            value: '乐平市',
             label: '乐平市'
           }]
         }, {
-          value: 'pinxiang',
+          value: '萍乡市',
           label: '萍乡市',
           children: [{
-            value: 'anyuan',
+            value: '安源区',
             label: '安源区'
           }, {
-            value: 'xiangdong',
+            value: '湘东区',
             label: '湘东区'
           }, {
-            value: 'lianhua',
+            value: '莲花县',
             label: '莲花县'
           }, {
-            value: 'sahngshu',
+            value: '上栗县',
             label: '上栗县'
           }, {
-            value: 'luxi',
+            value: '芦溪县',
             label: '芦溪县'
           }]
         }, {
-          value: 'jiujiang',
+          value: '九江市',
           label: '九江市',
           children: [{
-            value: 'lianxi',
+            value: '濂溪区',
             label: '濂溪区'
           }, {
-            value: 'xunyang',
+            value: '浔阳区',
             label: '浔阳区'
           }, {
-            value: 'chaisang',
+            value: '柴桑区',
             label: '柴桑区'
           }, {
-            value: 'wuning',
+            value: '武宁县',
             label: '武宁县'
           }, {
-            value: 'xiushui',
+            value: '修水县',
             label: '修水县'
           }, {
-            value: 'yongxiu',
+            value: '永修县',
             label: '永修县'
           }, {
-            value: 'dean',
+            value: '德安县',
             label: '德安县'
           }, {
-            value: 'duchang',
+            value: '都昌县',
             label: '都昌县'
           }, {
-            value: 'hukou',
+            value: '湖口县',
             label: '湖口县'
           }, {
-            value: 'pengze',
+            value: '彭泽县',
             label: '彭泽县'
           }, {
-            value: 'ruichang',
+            value: '瑞昌市',
             label: '瑞昌市'
           }, {
-            value: 'gongqing',
+            value: '共青城市',
             label: '共青城市'
           }, {
-            value: 'lushan',
+            value: '庐山市',
             label: '庐山市'
           }]
         }, {
-          value: 'xinyu',
+          value: '新余市',
           label: '新余市',
           children: [{
-            value: 'yushui',
+            value: '渝水区',
             label: '渝水区'
           }, {
-            value: 'fenyi',
+            value: '分宜县',
             label: '分宜县'
           }]
         }, {
-          value: 'yingtan',
+          value: '鹰潭市',
           label: '鹰潭市',
           children: [{
-            value: 'yuehu',
+            value: '月湖区',
             label: '月湖区'
           }, {
-            value: 'yujiang',
+            value: '余江区',
             label: '余江区'
           }, {
-            value: 'guixi',
+            value: '贵溪市',
             label: '贵溪市'
           }]
         }, {
-          value: 'ganzhou',
+          value: '赣州市',
           label: '赣州市',
           children: [{
-            value: 'zhanggong',
+            value: '章贡区',
             label: '章贡区'
           }, {
-            value: 'nankang',
+            value: '南康区',
             label: '南康区'
           }, {
-            value: 'ganxian',
+            value: '赣县区',
             label: '赣县区'
           }, {
-            value: 'xinfeng',
+            value: '信丰县',
             label: '信丰县'
           }, {
-            value: 'dayu',
+            value: '大余县',
             label: '大余县'
           }, {
-            value: 'sahngyou',
+            value: '上犹县',
             label: '上犹县'
           }, {
-            value: 'chongyi',
+            value: '崇义县',
             label: '崇义县'
           }, {
-            value: 'anyuan',
+            value: '安远县',
             label: '安远县'
           }, {
-            value: 'dingnan',
+            value: '定南县',
             label: '定南县'
           }, {
-            value: 'quannan',
+            value: '全南县',
             label: '全南县'
           }, {
-            value: 'nindu',
+            value: '宁都县',
             label: '宁都县'
           }, {
-            value: 'yudu',
+            value: '于都县',
             label: '于都县'
           }, {
-            value: 'xingguo',
+            value: '兴国县',
             label: '兴国县'
           }, {
-            value: 'huichang',
+            value: '会昌县',
             label: '会昌县'
           }, {
-            value: 'xunwu',
+            value: '寻乌县',
             label: '寻乌县'
           }, {
-            value: 'shicheng',
+            value: '石城县',
             label: '石城县'
           }, {
-            value: 'ruijin',
+            value: '瑞金市',
             label: '瑞金市'
           }, {
-            value: 'longnan',
+            value: '龙南市',
             label: '龙南市'
           }]
         }, {
-          value: 'yichun',
+          value: '宜春市',
           label: '宜春市',
           children: [{
-            value: 'yuanzhou',
+            value: '袁州区',
             label: '袁州区'
           }, {
-            value: 'fengxin',
+            value: '奉新县',
             label: '奉新县'
           }, {
-            value: 'wanzai',
+            value: '万载县',
             label: '万载县'
           }, {
-            value: 'shangao',
+            value: '上高县',
             label: '上高县'
           }, {
-            value: 'yifeng',
+            value: '宜丰县',
             label: '宜丰县'
           }, {
-            value: 'jinan',
+            value: '靖安县',
             label: '靖安县'
           }, {
-            value: 'tonggu',
+            value: '铜鼓县',
             label: '铜鼓县'
           }, {
-            value: 'fengcheng',
+            value: '丰城市',
             label: '丰城市'
           }, {
-            value: 'zhangshu',
+            value: '樟树市',
             label: '樟树市'
           }, {
-            value: 'gaoan',
+            value: '高安市',
             label: '高安市'
           }]
         }, {
-          value: 'anji',
+          value: '吉安市',
           label: '吉安市',
           children: [{
-            value: 'jizhou',
+            value: '吉州区',
             label: '吉州区'
           }, {
-            value: 'qingyuan',
+            value: '青原区',
             label: '青原区'
           }, {
-            value: 'jian',
+            value: '吉安县',
             label: '吉安县'
           }, {
-            value: 'jishui',
+            value: '吉水县',
             label: '吉水县'
           }, {
-            value: 'xiajiang',
+            value: '峡江县',
             label: '峡江县'
           }, {
-            value: 'xingan',
+            value: '新干县',
             label: '新干县'
           }, {
-            value: 'yongfeng',
+            value: '永丰县',
             label: '永丰县'
           }, {
-            value: 'taihe',
+            value: '泰和县',
             label: '泰和县'
           }, {
-            value: 'suichuan',
+            value: '遂川县',
             label: '遂川县'
           }, {
-            value: 'wanan',
+            value: '万安县',
             label: '万安县'
           }, {
-            value: 'anfu',
+            value: '安福县',
             label: '安福县'
           }, {
-            value: 'yongxin',
+            value: '永新县',
             label: '永新县'
           }, {
-            value: 'jinggangshan',
+            value: '井冈山市',
             label: '井冈山市'
           }]
         }, {
-          value: 'jingangshan',
+          value: '抚州市',
           label: '抚州市',
           children: [{
-            value: 'linzhou',
+            value: '临川区',
             label: '临川区'
           }, {
-            value: 'dongxiang',
+            value: '东乡区',
             label: '东乡区'
           }, {
-            value: 'nancheng',
+            value: '南城县',
             label: '南城县'
           }, {
-            value: 'lichuan',
+            value: '黎川县',
             label: '黎川县'
           }, {
-            value: 'nanfeng',
+            value: '南丰县',
             label: '南丰县'
           }, {
-            value: 'chongren',
+            value: '崇仁县',
             label: '崇仁县'
           }, {
-            value: 'lean',
+            value: '乐安县',
             label: '乐安县'
           }, {
-            value: 'yihuang',
+            value: '宜黄县',
             label: '宜黄县'
           }, {
-            value: 'jinxi',
+            value: '金溪县',
             label: '金溪县'
           }, {
-            value: 'zixi',
+            value: '资溪县',
             label: '资溪县'
           }, {
-            value: 'guangchang',
+            value: '广昌县',
             label: '广昌县'
           }]
         }, {
-          value: 'linchuan',
+          value: '上饶市',
           label: '上饶市',
           children: [{
-            value: 'xinzhou',
+            value: '信州区',
             label: '信州区'
           }, {
-            value: 'guangfeng',
+            value: '广丰区',
             label: '广丰区'
           }, {
-            value: 'guangxin',
+            value: '广信区',
             label: '广信区'
           }, {
-            value: 'yushan',
+            value: '玉山县',
             label: '玉山县'
           }, {
-            value: 'qainshan',
+            value: '铅山县',
             label: '铅山县'
           }, {
-            value: 'hengfeng',
+            value: '横峰县',
             label: '横峰县'
           }, {
-            value: 'yeyang',
+            value: '弋阳县',
             label: '弋阳县'
           }, {
-            value: 'yugan',
+            value: '余干县',
             label: '余干县'
           }, {
-            value: 'fanyang',
+            value: '鄱阳县',
             label: '鄱阳县'
           }, {
-            value: 'wannian',
+            value: '万年县',
             label: '万年县'
           }, {
-            value: 'wuyuan',
+            value: '婺源县',
             label: '婺源县'
           }, {
-            value: 'dexing',
+            value: '德兴市',
             label: '德兴市'
           }]
         }]
       }, {
-        value: 'shandong',
+        value: '山东省',
         label: '山东省',
         children: [{
-          value: 'jinan',
+          value: '济南市',
           label: '济南市',
           children: [{
-            value: 'lixia',
+            value: '历下区',
             label: '历下区'
           }, {
-            value: 'shizhong',
+            value: '市中区',
             label: '市中区'
           }, {
-            value: 'huaiyin',
+            value: '槐荫区',
             label: '槐荫区'
           }, {
-            value: 'tianqiao',
+            value: '天桥区',
             label: '天桥区'
           }, {
-            value: 'licheng',
+            value: '历城区',
             label: '历城区'
           }, {
-            value: 'zhangqiu',
+            value: '章丘区',
             label: '章丘区'
           }, {
-            value: 'pinying',
+            value: '平阴县',
             label: '平阴县'
           }, {
-            value: 'jiyang',
+            value: '济阳区',
             label: '济阳区'
           }, {
-            value: 'shanghe',
+            value: '商河县',
             label: '商河县'
           }, {
-            value: 'laiwu',
+            value: '莱芜区',
             label: '莱芜区'
           }, {
-            value: 'gangcheng',
+            value: '钢城区',
             label: '钢城区'
           }]
         }, {
-          value: 'qingdao',
+          value: '青岛市',
           label: '青岛市',
           children: [{
-            value: 'shinan',
+            value: '市南区',
             label: '市南区'
           }, {
-            value: 'shibei',
+            value: '市北区',
             label: '市北区'
           }, {
-            value: 'huangdao',
+            value: '黄岛区',
             label: '黄岛区'
           }, {
-            value: 'laoshan',
+            value: '崂山区',
             label: '崂山区'
           }, {
-            value: 'licnag',
+            value: '李沧区',
             label: '李沧区'
           }, {
-            value: 'chengyang',
+            value: '城阳区',
             label: '城阳区'
           }, {
-            value: 'jimo',
+            value: '即墨区',
             label: '即墨区'
           }, {
-            value: 'gaoxinkeji',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'jiaozhou',
+            value: '胶州市',
             label: '胶州市'
           }, {
-            value: 'pingdu',
+            value: '平度市',
             label: '平度市'
           }, {
-            value: 'laixi',
+            value: '莱西市',
             label: '莱西市'
           }]
         }, {
-          value: 'miaofu',
+          value: '淄博市',
           label: '淄博市',
           children: [{
-            value: 'zichuan',
+            value: '淄川区',
             label: '淄川区'
           }, {
-            value: 'zhangdian',
+            value: '张店区',
             label: '张店区'
           }, {
-            value: 'boshan',
+            value: '博山区',
             label: '博山区'
           }, {
-            value: 'linzi',
+            value: '临淄区',
             label: '临淄区'
           }, {
-            value: 'zhoucun',
+            value: '周村区',
             label: '周村区'
           }, {
-            value: 'hentai',
+            value: '桓台县',
             label: '桓台县'
           }, {
-            value: 'gaoqing',
+            value: '高青县',
             label: '高青县'
           }, {
-            value: 'yiyuan',
+            value: '沂源县',
             label: '沂源县'
           }]
         }, {
-          value: 'zaozhuang',
+          value: '枣庄市',
           label: '枣庄市',
           children: [{
-            value: 'shizhong',
+            value: '市中区',
             label: '市中区'
           }, {
-            value: 'xuecheng',
+            value: '薛城区',
             label: '薛城区'
           }, {
-            value: 'yicheng',
+            value: '峄城区',
             label: '峄城区'
           }, {
-            value: 'taierzhuang',
+            value: '台儿庄区',
             label: '台儿庄区'
           }, {
-            value: 'shangting',
+            value: '山亭区',
             label: '山亭区'
           }, {
-            value: 'tengzhou',
+            value: '滕州市',
             label: '滕州市'
           }]
         }, {
-          value: 'dongyingshi',
+          value: '东营市',
           label: '东营市',
           children: [{
-            value: 'dongying',
+            value: '东营区',
             label: '东营区'
           }, {
-            value: 'hekou',
+            value: '河口区',
             label: '河口区'
           }, {
-            value: 'kenli',
+            value: '垦利区',
             label: '垦利区'
           }, {
-            value: 'lijing',
+            value: '利津县',
             label: '利津县'
           }, {
-            value: 'guangrao',
+            value: '广饶县',
             label: '广饶县'
           }]
         }, {
-          value: 'yantai',
+          value: '烟台市',
           label: '烟台市',
           children: [{
-            value: 'zhibu',
+            value: '芝罘区',
             label: '芝罘区'
           }, {
-            value: 'fushan',
+            value: '福山区',
             label: '福山区'
           }, {
-            value: 'mengping',
+            value: '牟平区',
             label: '牟平区'
           }, {
-            value: 'laishan',
+            value: '莱山区',
             label: '莱山区'
           }, {
-            value: 'penglai',
+            value: '蓬莱区',
             label: '蓬莱区'
           }, {
-            value: 'gaoxin',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'jingji',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'longkou',
+            value: '龙口市',
             label: '龙口市'
           }, {
-            value: 'laiyang',
+            value: '莱阳市',
             label: '莱阳市'
           }, {
-            value: 'laichuan',
+            value: '莱州市',
             label: '莱州市'
           }, {
-            value: 'zhaoyuan',
+            value: '招远市',
             label: '招远市'
           }, {
-            value: 'xixia',
+            value: '栖霞市',
             label: '栖霞市'
           }, {
-            value: 'haiyang',
+            value: '海阳市',
             label: '海阳市'
           }]
         }, {
-          value: 'weifang',
+          value: '潍坊市',
           label: '潍坊市',
           children: [{
-            value: 'lixia',
+            value: '潍城区',
             label: '潍城区'
           }, {
-            value: 'shizhong',
+            value: '寒亭区',
             label: '寒亭区'
           }, {
-            value: 'huaiyin',
+            value: '坊子区',
             label: '坊子区'
           }, {
-            value: 'tianqiao',
+            value: '奎文区',
             label: '奎文区'
           }, {
-            value: 'licheng',
+            value: '临朐县',
             label: '临朐县'
           }, {
-            value: 'zhangqiu',
+            value: '昌乐县',
             label: '昌乐县'
           }, {
-            value: 'pinying',
+            value: '青州市',
             label: '青州市'
           }, {
-            value: 'jiyang',
+            value: '诸城市',
             label: '诸城市'
           }, {
-            value: 'shanghe',
+            value: '寿光市',
             label: '寿光市'
           }, {
-            value: 'laiwu',
+            value: '安丘市',
             label: '安丘市'
           }, {
-            value: 'gangcheng',
+            value: '高密市',
             label: '高密市'
           }, {
-            value: 'gangcheng',
+            value: '昌邑市',
             label: '昌邑市'
           }]
         }, {
-          value: 'jining',
+          value: '济宁市',
           label: '济宁市',
           children: [{
-            value: 'lixia',
+            value: '任城区',
             label: '任城区'
           }, {
-            value: 'shizhong',
+            value: '兖州区',
             label: '兖州区'
           }, {
-            value: 'huaiyin',
+            value: '微山县',
             label: '微山县'
           }, {
-            value: 'tianqiao',
+            value: '鱼台县',
             label: '鱼台县'
           }, {
-            value: 'licheng',
+            value: '金乡县',
             label: '金乡县'
           }, {
-            value: 'zhangqiu',
+            value: '嘉祥县',
             label: '嘉祥县'
           }, {
-            value: 'pinying',
+            value: '汶上县',
             label: '汶上县'
           }, {
-            value: 'jiyang',
+            value: '泗水县',
             label: '泗水县'
           }, {
-            value: 'shanghe',
+            value: '梁山县',
             label: '梁山县'
           }, {
-            value: 'laiwu',
+            value: '济宁高新技术产业开发区',
             label: '济宁高新技术产业开发区'
           }, {
-            value: 'gangcheng',
+            value: '曲阜市',
             label: '曲阜市'
           }, {
-            value: 'gangcheng',
+            value: '邹城市',
             label: '邹城市'
           }]
         }, {
-          value: 'taian',
+          value: '泰安市',
           label: '泰安市',
           children: [{
-            value: 'lixia',
+            value: '泰山区',
             label: '泰山区'
           }, {
-            value: 'shizhong',
+            value: '岱岳区',
             label: '岱岳区'
           }, {
-            value: 'huaiyin',
+            value: '宁阳县',
             label: '宁阳县'
           }, {
-            value: 'tianqiao',
+            value: '东平县',
             label: '东平县'
           }, {
-            value: 'licheng',
+            value: '新泰市',
             label: '新泰市'
           }, {
-            value: 'zhangqiu',
+            value: '肥城市',
             label: '肥城市'
           }]
         }, {
-          value: 'weihai',
+          value: '威海市',
           label: '威海市',
           children: [{
-            value: 'lixia',
+            value: '环翠区',
             label: '环翠区'
           }, {
-            value: 'shizhong',
+            value: '文登区',
             label: '文登区'
           }, {
-            value: 'huaiyin',
+            value: '火炬高技术产业开发区',
             label: '火炬高技术产业开发区'
           }, {
-            value: 'tianqiao',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'licheng',
+            value: '临港经济技术开发区',
             label: '临港经济技术开发区'
           }, {
-            value: 'zhangqiu',
+            value: '荣成市',
             label: '荣成市'
           }, {
-            value: 'pinying',
+            value: '乳山市',
             label: '乳山市'
           }]
         }, {
-          value: 'rizhao',
+          value: '日照市',
           label: '日照市',
           children: [{
-            value: 'lixia',
+            value: '东港区',
             label: '东港区'
           }, {
-            value: 'shizhong',
+            value: '岚山区',
             label: '岚山区'
           }, {
-            value: 'huaiyin',
+            value: '五莲县',
             label: '五莲县'
           }, {
-            value: 'tianqiao',
+            value: '莒县',
             label: '莒县'
           }, {
-            value: 'licheng',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }]
         }, {
-          value: 'linyi',
+          value: '临沂市',
           label: '临沂市',
           children: [{
-            value: 'lixia',
+            value: '兰山区',
             label: '兰山区'
           }, {
-            value: 'shizhong',
+            value: '罗庄区',
             label: '罗庄区'
           }, {
-            value: 'huaiyin',
+            value: '河东区',
             label: '河东区'
           }, {
-            value: 'tianqiao',
+            value: '沂南县',
             label: '沂南县'
           }, {
-            value: 'licheng',
+            value: '郯城县',
             label: '郯城县'
           }, {
-            value: 'zhangqiu',
+            value: '沂水县',
             label: '沂水县'
           }, {
-            value: 'pinying',
+            value: '兰陵县',
             label: '兰陵县'
           }, {
-            value: 'jiyang',
+            value: '费县',
             label: '费县'
           }, {
-            value: 'shanghe',
+            value: '平邑县',
             label: '平邑县'
           }, {
-            value: 'laiwu',
+            value: '莒南县',
             label: '莒南县'
           }, {
-            value: 'gangcheng',
+            value: '蒙阴县',
             label: '蒙阴县'
           }, {
-            value: 'gangcheng',
+            value: '临沭县',
             label: '临沭县'
           }, {
-            value: 'gangcheng',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'gangcheng',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'gangcheng',
+            value: '临港经济开发区',
             label: '临港经济开发区'
           }]
         }, {
-          value: 'dezhou',
+          value: '德州市',
           label: '德州市',
           children: [{
-            value: 'lixia',
+            value: '德城区',
             label: '德城区'
           }, {
-            value: 'shizhong',
+            value: '陵城区',
             label: '陵城区'
           }, {
-            value: 'huaiyin',
+            value: '宁津县',
             label: '宁津县'
           }, {
-            value: 'tianqiao',
+            value: '庆云县',
             label: '庆云县'
           }, {
-            value: 'licheng',
+            value: '临邑县',
             label: '临邑县'
           }, {
-            value: 'zhangqiu',
+            value: '齐河县',
             label: '齐河县'
           }, {
-            value: 'pinying',
+            value: '平原县',
             label: '平原县'
           }, {
-            value: 'jiyang',
+            value: '夏津县',
             label: '夏津县'
           }, {
-            value: 'shanghe',
+            value: '武城县',
             label: '武城县'
           }, {
-            value: 'laiwu',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'gangcheng',
+            value: '运河经济开发区',
             label: '运河经济开发区'
           }, {
-            value: 'gangcheng',
+            value: '乐陵市',
             label: '乐陵市'
           }, {
-            value: 'gangcheng',
+            value: '禹城市',
             label: '禹城市'
           }]
         }, {
-          value: 'liaocheng',
+          value: '聊城市',
           label: '聊城市',
           children: [{
-            value: 'lixia',
+            value: '东昌府区',
             label: '东昌府区'
           }, {
-            value: 'shizhong',
+            value: '茌平区',
             label: '茌平区'
           }, {
-            value: 'huaiyin',
+            value: '阳谷县',
             label: '阳谷县'
           }, {
-            value: 'tianqiao',
+            value: '莘县',
             label: '莘县'
           }, {
-            value: 'licheng',
+            value: '东阿县',
             label: '东阿县'
           }, {
-            value: 'zhangqiu',
+            value: '冠县',
             label: '冠县'
           }, {
-            value: 'pinying',
+            value: '高唐县',
             label: '高唐县'
           }, {
-            value: 'jiyang',
+            value: '临清市',
             label: '临清市'
           }]
         }, {
-          value: 'bingzhou',
+          value: '滨州市',
           label: '滨州市',
           children: [{
-            value: 'lixia',
+            value: '滨城区',
             label: '滨城区'
           }, {
-            value: 'shizhong',
+            value: '沾化区',
             label: '沾化区'
           }, {
-            value: 'huaiyin',
+            value: '惠民县',
             label: '惠民县'
           }, {
-            value: 'tianqiao',
+            value: '阳信县',
             label: '阳信县'
           }, {
-            value: 'licheng',
+            value: '无棣县',
             label: '无棣县'
           }, {
-            value: 'zhangqiu',
+            value: '博兴县',
             label: '博兴县'
           }, {
-            value: 'pinying',
+            value: '邹平市',
             label: '邹平市'
           }]
         }, {
-          value: 'heze',
+          value: '菏泽市',
           label: '菏泽市',
           children: [{
-            value: 'lixia',
+            value: '牡丹区',
             label: '牡丹区'
           }, {
-            value: 'shizhong',
+            value: '定陶区',
             label: '定陶区'
           }, {
-            value: 'huaiyin',
+            value: '曹县',
             label: '曹县'
           }, {
-            value: 'tianqiao',
+            value: '单县',
             label: '单县'
           }, {
-            value: 'licheng',
+            value: '成武县',
             label: '成武县'
           }, {
-            value: 'zhangqiu',
+            value: '巨野县',
             label: '巨野县'
           }, {
-            value: 'pinying',
+            value: '郓城县',
             label: '郓城县'
           }, {
-            value: 'jiyang',
+            value: '鄄城县',
             label: '鄄城县'
           }, {
-            value: 'jiyang',
+            value: '东明县',
             label: '东明县'
           }, {
-            value: 'jiyang',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'jiyang',
+            value: '高新技术开发区',
             label: '高新技术开发区'
           }]
         }]
       }, {
-        value: 'henan',
+        value: '河南省',
         label: '河南省',
         children: [{
-          value: 'zhengzhou',
+          value: '郑州市',
           label: '郑州市',
           children: [{
-            value: 'lixia',
+            value: '中原区',
             label: '中原区'
           }, {
-            value: 'shizhong',
+            value: '二七区',
             label: '二七区'
           }, {
-            value: 'huaiyin',
+            value: '管城回族区',
             label: '管城回族区'
           }, {
-            value: 'tianqiao',
+            value: '金水区',
             label: '金水区'
           }, {
-            value: 'licheng',
+            value: '上街区',
             label: '上街区'
           }, {
-            value: 'zhangqiu',
+            value: '惠济区',
             label: '惠济区'
           }, {
-            value: 'pinying',
+            value: '中牟县',
             label: '中牟县'
           }, {
-            value: 'jiyang',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }]
         }, {
-          value: 'kaifeng',
+          value: '开封市',
           label: '开封市',
           children: [{
-            value: 'lixia',
+            value: '龙亭区',
             label: '龙亭区'
           }, {
-            value: 'shizhong',
+            value: '顺河回族区',
             label: '顺河回族区'
           }, {
-            value: 'huaiyin',
+            value: '鼓楼区',
             label: '鼓楼区'
           }, {
-            value: 'tianqiao',
+            value: '禹王台区',
             label: '禹王台区'
           }, {
-            value: 'licheng',
+            value: '祥符区',
             label: '祥符区'
           }, {
-            value: 'zhangqiu',
+            value: '杞县',
             label: '杞县'
           }, {
-            value: 'pinying',
+            value: '通许县',
             label: '通许县'
           }, {
-            value: 'jiyang',
+            value: '尉氏县',
             label: '尉氏县'
           }, {
-            value: 'jiyang',
+            value: '兰考县',
             label: '兰考县'
           }]
         }, {
-          value: 'luoyang',
+          value: '洛阳市',
           label: '洛阳市',
           children: [{
-            value: 'lixia',
+            value: '老城区',
             label: '老城区'
           }, {
-            value: 'shizhong',
+            value: '西工区',
             label: '西工区'
           }, {
-            value: 'huaiyin',
+            value: '瀍河区',
             label: '瀍河区'
           }, {
-            value: 'tianqiao',
+            value: '涧西区',
             label: '涧西区'
           }, {
-            value: 'licheng',
+            value: '吉利区',
             label: '吉利区'
           }, {
-            value: 'zhangqiu',
+            value: '洛龙区',
             label: '洛龙区'
           }, {
-            value: 'pinying',
+            value: '孟津县',
             label: '孟津县'
           }, {
-            value: 'jiyang',
+            value: '新安县',
             label: '新安县'
           }]
         }, {
-          value: 'pingdingshan',
+          value: '平顶山市',
           label: '平顶山市',
           children: [{
-            value: 'lixia',
+            value: '新华区',
             label: '新华区'
           }, {
-            value: 'shizhong',
+            value: '卫东区',
             label: '卫东区'
           }, {
-            value: 'huaiyin',
+            value: '石龙区',
             label: '石龙区'
           }, {
-            value: 'tianqiao',
+            value: '湛河区',
             label: '湛河区'
           }, {
-            value: 'licheng',
+            value: '宝丰县',
             label: '宝丰县'
           }, {
-            value: 'zhangqiu',
+            value: '叶县',
             label: '叶县'
           }, {
-            value: 'pinying',
+            value: '鲁山县',
             label: '鲁山县'
           }, {
-            value: 'jiyang',
+            value: '郏县',
             label: '郏县'
           }, {
-            value: 'jiyang',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'jiyang',
+            value: '新城区',
             label: '新城区'
           }, {
-            value: 'jiyang',
+            value: '舞钢市',
             label: '舞钢市'
           }, {
-            value: 'jiyang',
+            value: '汝州市',
             label: '汝州市'
           }]
         }, {
-          value: 'anyang',
+          value: '安阳市',
           label: '安阳市',
           children: [{
-            value: 'lixia',
+            value: '文峰区',
             label: '文峰区'
           }, {
-            value: 'shizhong',
+            value: '北关区',
             label: '北关区'
           }, {
-            value: 'huaiyin',
+            value: '殷都区',
             label: '殷都区'
           }, {
-            value: 'tianqiao',
+            value: '龙安区',
             label: '龙安区'
           }, {
-            value: 'licheng',
+            value: '安阳县',
             label: '安阳县'
           }, {
-            value: 'zhangqiu',
+            value: '汤阴县',
             label: '汤阴县'
           }, {
-            value: 'pinying',
+            value: '滑县',
             label: '滑县'
           }, {
-            value: 'jiyang',
+            value: '内黄县',
             label: '内黄县'
           }, {
-            value: 'jiyang',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }, {
-            value: 'jiyang',
+            value: '林州市',
             label: '林州市'
           }]
         }, {
-          value: 'hebi',
+          value: '鹤壁市',
           label: '鹤壁市',
           children: [{
-            value: 'lixia',
+            value: '鹤山区',
             label: '鹤山区'
           }, {
-            value: 'shizhong',
+            value: '山城区',
             label: '山城区'
           }, {
-            value: 'huaiyin',
+            value: '淇滨区',
             label: '淇滨区'
           }, {
-            value: 'tianqiao',
+            value: '浚县',
             label: '浚县'
           }, {
-            value: 'licheng',
+            value: '淇县',
             label: '淇县'
           }, {
-            value: 'zhangqiu',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }]
         }, {
-          value: 'xinxiang',
+          value: '新乡市',
           label: '新乡市',
           children: [{
-            value: 'lixia',
+            value: '红旗区',
             label: '红旗区'
           }, {
-            value: 'shizhong',
+            value: '卫滨区',
             label: '卫滨区'
           }, {
-            value: 'huaiyin',
+            value: '凤泉区',
             label: '凤泉区'
           }, {
-            value: 'tianqiao',
+            value: '牧野区',
             label: '牧野区'
           }, {
-            value: 'licheng',
+            value: '新乡县',
             label: '新乡县'
           }, {
-            value: 'zhangqiu',
+            value: '获嘉县',
             label: '获嘉县'
           }, {
-            value: 'pinying',
+            value: '原阳县',
             label: '原阳县'
           }, {
-            value: 'jiyang',
+            value: '延津县',
             label: '延津县'
           }]
         }, {
-          value: 'jiaozuo',
+          value: '焦作市',
           label: '焦作市',
           children: [{
-            value: 'lixia',
+            value: '解放区',
             label: '解放区'
           }, {
-            value: 'shizhong',
+            value: '中站区',
             label: '中站区'
           }, {
-            value: 'huaiyin',
+            value: '马村区',
             label: '马村区'
           }, {
-            value: 'tianqiao',
+            value: '山阳区',
             label: '山阳区'
           }, {
-            value: 'licheng',
+            value: '修武县',
             label: '修武县'
           }, {
-            value: 'zhangqiu',
+            value: '博爱县',
             label: '博爱县'
           }, {
-            value: 'pinying',
+            value: '武陟县',
             label: '武陟县'
           }, {
-            value: 'jiyang',
+            value: '温县',
             label: '温县'
           }, {
-            value: 'jiyang',
+            value: '城乡一体化示范区',
             label: '城乡一体化示范区'
           }, {
-            value: 'jiyang',
+            value: '沁阳市',
             label: '沁阳市'
           }, {
-            value: 'jiyang',
+            value: '孟州市',
             label: '孟州市'
           }]
         }, {
-          value: 'puyang',
+          value: '濮阳市',
           label: '濮阳市',
           children: [{
-            value: 'lixia',
+            value: '华龙区',
             label: '华龙区'
           }, {
-            value: 'shizhong',
+            value: '清丰县',
             label: '清丰县'
           }, {
-            value: 'huaiyin',
+            value: '南乐县',
             label: '南乐县'
           }, {
-            value: 'tianqiao',
+            value: '范县',
             label: '范县'
           }, {
-            value: 'licheng',
+            value: '台前县',
             label: '台前县'
           }, {
-            value: 'zhangqiu',
+            value: '濮阳县',
             label: '濮阳县'
           }, {
-            value: 'pinying',
+            value: '工业园区',
             label: '工业园区'
           }, {
-            value: 'jiyang',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }]
         }, {
-          value: 'xuchang',
+          value: '许昌市',
           label: '许昌市',
           children: [{
-            value: 'lixia',
+            value: '魏都区',
             label: '魏都区'
           }, {
-            value: 'shizhong',
+            value: '建安区',
             label: '建安区'
           }, {
-            value: 'huaiyin',
+            value: '鄢陵县',
             label: '鄢陵县'
           }, {
-            value: 'tianqiao',
+            value: '襄城县',
             label: '襄城县'
           }, {
-            value: 'licheng',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'zhangqiu',
+            value: '禹州市',
             label: '禹州市'
           }, {
-            value: 'pinying',
+            value: '长葛市',
             label: '长葛市'
           }]
         }, {
-          value: 'luohe',
+          value: '漯河市',
           label: '漯河市',
           children: [{
-            value: 'lixia',
+            value: '源汇区',
             label: '源汇区'
           }, {
-            value: 'shizhong',
+            value: '郾城区',
             label: '郾城区'
           }, {
-            value: 'huaiyin',
+            value: '召陵区',
             label: '召陵区'
           }, {
-            value: 'tianqiao',
+            value: '舞阳县',
             label: '舞阳县'
           }, {
-            value: 'licheng',
+            value: '临颍县',
             label: '临颍县'
           }, {
-            value: 'zhangqiu',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }]
         }, {
-          value: 'sanmenxia',
+          value: '三门峡市',
           label: '三门峡市',
           children: [{
-            value: 'lixia',
+            value: '湖滨区',
             label: '湖滨区'
           }, {
-            value: 'shizhong',
+            value: '陕州区',
             label: '陕州区'
           }, {
-            value: 'huaiyin',
+            value: '渑池县',
             label: '渑池县'
           }, {
-            value: 'tianqiao',
+            value: '卢氏县',
             label: '卢氏县'
           }, {
-            value: 'licheng',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'zhangqiu',
+            value: '义马市',
             label: '义马市'
           }, {
-            value: 'pinying',
+            value: '灵宝市',
             label: '灵宝市'
           }]
         }, {
-          value: 'nanyang',
+          value: '南阳市',
           label: '南阳市',
           children: [{
-            value: 'lixia',
+            value: '宛城区',
             label: '宛城区'
           }, {
-            value: 'shizhong',
+            value: '卧龙区',
             label: '卧龙区'
           }, {
-            value: 'huaiyin',
+            value: '南召县',
             label: '南召县'
           }, {
-            value: 'tianqiao',
+            value: '方城县',
             label: '方城县'
           }, {
-            value: 'licheng',
+            value: '西峡县',
             label: '西峡县'
           }, {
-            value: 'zhangqiu',
+            value: '镇平县',
             label: '镇平县'
           }, {
-            value: 'pinying',
+            value: '内乡县',
             label: '内乡县'
           }, {
-            value: 'jiyang',
+            value: '淅川县',
             label: '淅川县'
           }]
         }, {
-          value: 'shangqiu',
+          value: '商丘市',
           label: '商丘市',
           children: [{
-            value: 'lixia',
+            value: '梁园区',
             label: '梁园区'
           }, {
-            value: 'shizhong',
+            value: '睢阳区',
             label: '睢阳区'
           }, {
-            value: 'huaiyin',
+            value: '民权县',
             label: '民权县'
           }, {
-            value: 'tianqiao',
+            value: '睢县',
             label: '睢县'
           }, {
-            value: 'licheng',
+            value: '宁陵县',
             label: '宁陵县'
           }, {
-            value: 'zhangqiu',
+            value: '柘城县',
             label: '柘城县'
           }, {
-            value: 'pinying',
+            value: '虞城县',
             label: '虞城县'
           }, {
-            value: 'jiyang',
+            value: '夏邑县',
             label: '夏邑县'
           }, {
-            value: 'jiyang',
+            value: '豫东综合物流产业聚集区',
             label: '豫东综合物流产业聚集区'
           }, {
-            value: 'jiyang',
+            value: '商丘经济开发区',
             label: '商丘经济开发区'
           }, {
-            value: 'jiyang',
+            value: '永城市',
             label: '永城市'
           }]
         }, {
-          value: 'xinyang',
+          value: '信阳市',
           label: '信阳市',
           children: [{
-            value: 'lixia',
+            value: '浉河区',
             label: '浉河区'
           }, {
-            value: 'shizhong',
+            value: '平桥区',
             label: '平桥区'
           }, {
-            value: 'huaiyin',
+            value: '罗山县',
             label: '罗山县'
           }, {
-            value: 'tianqiao',
+            value: '新县',
             label: '新县'
           }, {
-            value: 'licheng',
+            value: '商城县',
             label: '商城县'
           }, {
-            value: 'zhangqiu',
+            value: '固始县',
             label: '固始县'
           }, {
-            value: 'pinying',
+            value: '潢川县',
             label: '潢川县'
           }, {
-            value: 'jiyang',
+            value: '淮滨县',
             label: '淮滨县'
           }, {
-            value: 'jiyang',
+            value: '息县',
             label: '息县'
           }, {
-            value: 'jiyang',
+            value: '高新技术产业开发区',
             label: '高新技术产业开发区'
           }]
         }, {
-          value: 'jiyuan',
+          value: '济源市',
           label: '济源市',
           children: [{
-            value: 'lixia',
+            value: '沁园街道',
             label: '沁园街道'
           }, {
-            value: 'shizhong',
+            value: '济水街道',
             label: '济水街道'
           }, {
-            value: 'huaiyin',
+            value: '北海街道',
             label: '北海街道'
           }, {
-            value: 'tianqiao',
+            value: '天坛街道',
             label: '天坛街道'
           }, {
-            value: 'licheng',
+            value: '玉泉街道',
             label: '玉泉街道'
           }, {
-            value: 'zhangqiu',
+            value: '克井镇',
             label: '克井镇'
           }, {
-            value: 'pinying',
+            value: '五龙口镇',
             label: '五龙口镇'
           }, {
-            value: 'jiyang',
+            value: '轵城镇',
             label: '轵城镇'
           }]
         }, {
-          value: 'zhoukou',
+          value: '周口市',
           label: '周口市',
           children: [{
-            value: 'lixia',
+            value: '川汇区',
             label: '川汇区'
           }, {
-            value: 'shizhong',
+            value: '淮阳区',
             label: '淮阳区'
           }, {
-            value: 'huaiyin',
+            value: '扶沟县',
             label: '扶沟县'
           }, {
-            value: 'tianqiao',
+            value: '西华县',
             label: '西华县'
           }, {
-            value: 'licheng',
+            value: '商水县',
             label: '商水县'
           }, {
-            value: 'zhangqiu',
+            value: '沈丘县',
             label: '沈丘县'
           }, {
-            value: 'pinying',
+            value: '郸城县',
             label: '郸城县'
           }, {
-            value: 'jiyang',
+            value: '太康县',
             label: '太康县'
           }, {
-            value: 'jiyang',
+            value: '鹿邑县',
             label: '鹿邑县'
           }, {
-            value: 'jiyang',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'jiyang',
+            value: '项城市',
             label: '项城市'
           }]
         }, {
-          value: 'zhumadian',
+          value: '驻马店市',
           label: '驻马店市',
           children: [{
-            value: 'lixia',
+            value: '驿城区',
             label: '驿城区'
           }, {
-            value: 'shizhong',
+            value: '西平县',
             label: '西平县'
           }, {
-            value: 'huaiyin',
+            value: '上蔡县',
             label: '上蔡县'
           }, {
-            value: 'tianqiao',
+            value: '平舆县',
             label: '平舆县'
           }, {
-            value: 'licheng',
+            value: '正阳县',
             label: '正阳县'
           }, {
-            value: 'zhangqiu',
+            value: '确山县',
             label: '确山县'
           }, {
-            value: 'pinying',
+            value: '泌阳县',
             label: '泌阳县'
           }, {
-            value: 'jiyang',
+            value: '汝南县',
             label: '汝南县'
           }, {
-            value: 'jiyang',
+            value: '遂平县',
             label: '遂平县'
           }, {
-            value: 'jiyang',
+            value: '新蔡县',
             label: '新蔡县'
           }, {
-            value: 'jiyang',
+            value: '经济开发区',
             label: '经济开发区'
           }]
         }]
       }, {
-        value: 'hubei',
+        value: '湖北省',
         label: '湖北省',
         children: [{
-          value: 'wuhan',
+          value: '武汉市',
           label: '武汉市',
           children: [{
-            value: 'lixia',
+            value: '江岸区',
             label: '江岸区'
           }, {
-            value: 'shizhong',
+            value: '江汉区',
             label: '江汉区'
           }, {
-            value: 'huaiyin',
+            value: '硚口区',
             label: '硚口区'
           }, {
-            value: 'tianqiao',
+            value: '汉阳区',
             label: '汉阳区'
           }, {
-            value: 'licheng',
+            value: '武昌区',
             label: '武昌区'
           }, {
-            value: 'zhangqiu',
+            value: '青山区',
             label: '青山区'
           }, {
-            value: 'pinying',
+            value: '洪山区',
             label: '洪山区'
           }, {
-            value: 'jiyang',
+            value: '东西湖区',
             label: '东西湖区'
           }, {
-            value: 'jiyang',
+            value: '汉南区',
             label: '汉南区'
           }, {
-            value: 'jiyang',
+            value: '蔡甸区',
             label: '蔡甸区'
           }, {
-            value: 'jiyang',
+            value: '江夏区',
             label: '江夏区'
           }, {
-            value: 'jiyang',
+            value: '黄陂区',
             label: '黄陂区'
           }, {
-            value: 'jiyang',
+            value: '新洲区',
             label: '新洲区'
           }]
         }, {
-          value: 'huangshi',
+          value: '黄石市',
           label: '黄石市',
           children: [{
-            value: 'lixia',
+            value: '黄石港区',
             label: '黄石港区'
           }, {
-            value: 'shizhong',
+            value: '西塞山区',
             label: '西塞山区'
           }, {
-            value: 'huaiyin',
+            value: '下陆区',
             label: '下陆区'
           }, {
-            value: 'tianqiao',
+            value: '铁山区',
             label: '铁山区'
           }, {
-            value: 'licheng',
+            value: '阳新县',
             label: '阳新县'
           }, {
-            value: 'zhangqiu',
+            value: '大冶市',
             label: '大冶市'
           }]
         }, {
-          value: 'shiyan',
+          value: '十堰市',
           label: '十堰市',
           children: [{
-            value: 'lixia',
+            value: '茅箭区',
             label: '茅箭区'
           }, {
-            value: 'shizhong',
+            value: '张湾区',
             label: '张湾区'
           }, {
-            value: 'huaiyin',
+            value: '郧阳区',
             label: '郧阳区'
           }, {
-            value: 'tianqiao',
+            value: '郧西县',
             label: '郧西县'
           }, {
-            value: 'licheng',
+            value: '竹山县',
             label: '竹山县'
           }, {
-            value: 'zhangqiu',
+            value: '竹溪县',
             label: '竹溪县'
           }, {
-            value: 'pinying',
+            value: '房县',
             label: '房县'
           }, {
-            value: 'jiyang',
+            value: '丹江口市',
             label: '丹江口市'
           }]
         }, {
-          value: 'yichang',
+          value: '宜昌市',
           label: '宜昌市',
           children: [{
-            value: 'lixia',
+            value: '西陵区',
             label: '西陵区'
           }, {
-            value: 'shizhong',
+            value: '伍家岗区',
             label: '伍家岗区'
           }, {
-            value: 'huaiyin',
+            value: '点军区',
             label: '点军区'
           }, {
-            value: 'tianqiao',
+            value: '猇亭区',
             label: '猇亭区'
           }, {
-            value: 'licheng',
+            value: '夷陵区',
             label: '夷陵区'
           }, {
-            value: 'zhangqiu',
+            value: '远安县',
             label: '远安县'
           }, {
-            value: 'pinying',
+            value: '兴山县',
             label: '兴山县'
           }, {
-            value: 'jiyang',
+            value: '秭归县',
             label: '秭归县'
           }, {
-            value: 'jiyang',
+            value: '长阳县',
             label: '长阳县'
           }, {
-            value: 'jiyang',
+            value: '五峰县',
             label: '五峰县'
           }, {
-            value: 'jiyang',
+            value: '宜都市',
             label: '宜都市'
           }, {
-            value: 'jiyang',
+            value: '当阳市',
             label: '当阳市'
           }, {
-            value: 'jiyang',
+            value: '枝江市',
             label: '枝江市'
           }]
         }, {
-          value: 'xiangyang',
+          value: '襄阳市',
           label: '襄阳市',
           children: [{
-            value: 'lixia',
+            value: '襄城区',
             label: '襄城区'
           }, {
-            value: 'shizhong',
+            value: '樊城区',
             label: '樊城区'
           }, {
-            value: 'huaiyin',
+            value: '襄州区',
             label: '襄州区'
           }, {
-            value: 'tianqiao',
+            value: '南漳县',
             label: '南漳县'
           }, {
-            value: 'licheng',
+            value: '谷城县',
             label: '谷城县'
           }, {
-            value: 'zhangqiu',
+            value: '保康县',
             label: '保康县'
           }, {
-            value: 'pinying',
+            value: '老河口市',
             label: '老河口市'
           }, {
-            value: 'jiyang',
+            value: '枣阳市',
             label: '枣阳市'
           }, {
-            value: 'jiyang',
+            value: '宜城市',
             label: '宜城市'
           }]
         }, {
-          value: 'ezhou',
+          value: '鄂州市',
           label: '鄂州市',
           children: [{
-            value: 'lixia',
+            value: '梁子湖区',
             label: '梁子湖区'
           }, {
-            value: 'shizhong',
+            value: '华容区',
             label: '华容区'
           }, {
-            value: 'huaiyin',
+            value: '鄂城区',
             label: '鄂城区'
           }]
         }, {
-          value: 'jinmeng',
+          value: '荆门市',
           label: '荆门市',
           children: [{
-            value: 'lixia',
+            value: '东宝区',
             label: '东宝区'
           }, {
-            value: 'shizhong',
+            value: '掇刀区',
             label: '掇刀区'
           }, {
-            value: 'huaiyin',
+            value: '京山市',
             label: '京山市'
           }, {
-            value: 'tianqiao',
+            value: '沙洋县',
             label: '沙洋县'
           }, {
-            value: 'licheng',
+            value: '钟祥市',
             label: '钟祥市'
           }]
         }, {
-          value: 'xiaogan',
+          value: '孝感市',
           label: '孝感市',
           children: [{
-            value: 'lixia',
+            value: '孝南区',
             label: '孝南区'
           }, {
-            value: 'shizhong',
+            value: '孝昌县',
             label: '孝昌县'
           }, {
-            value: 'huaiyin',
+            value: '大悟县',
             label: '大悟县'
           }, {
-            value: 'tianqiao',
+            value: '云梦县',
             label: '云梦县'
           }, {
-            value: 'licheng',
+            value: '应城市',
             label: '应城市'
           }, {
-            value: 'zhangqiu',
+            value: '安陆市',
             label: '安陆市'
           }, {
-            value: 'pinying',
+            value: '汉川市',
             label: '汉川市'
           }]
         }, {
-          value: 'jinzhou',
+          value: '荆州市',
           label: '荆州市',
           children: [{
-            value: 'lixia',
+            value: '沙市区',
             label: '沙市区'
           }, {
-            value: 'shizhong',
+            value: '荆州区',
             label: '荆州区'
           }, {
-            value: 'huaiyin',
+            value: '公安县',
             label: '公安县'
           }, {
-            value: 'tianqiao',
+            value: '监利市',
             label: '监利市'
           }, {
-            value: 'licheng',
+            value: '江陵县',
             label: '江陵县'
           }, {
-            value: 'zhangqiu',
+            value: '荆州经济技术开发区',
             label: '荆州经济技术开发区'
           }, {
-            value: 'pinying',
+            value: '石首市',
             label: '石首市'
           }, {
-            value: 'jiyang',
+            value: '洪湖市',
             label: '洪湖市'
           }, {
-            value: 'jiyang',
+            value: '松滋市',
             label: '松滋市'
           }]
         }, {
-          value: 'huanggang',
+          value: '黄冈市',
           label: '黄冈市',
           children: [{
-            value: 'lixia',
+            value: '黄州区',
             label: '黄州区'
           }, {
-            value: 'shizhong',
+            value: '团风县',
             label: '团风县'
           }, {
-            value: 'huaiyin',
+            value: '红安县',
             label: '红安县'
           }, {
-            value: 'tianqiao',
+            value: '罗田县',
             label: '罗田县'
           }, {
-            value: 'licheng',
+            value: '英山县',
             label: '英山县'
           }, {
-            value: 'zhangqiu',
+            value: '浠水县',
             label: '浠水县'
           }, {
-            value: 'pinying',
+            value: '蕲春县',
             label: '蕲春县'
           }, {
-            value: 'jiyang',
+            value: '黄梅县',
             label: '黄梅县'
           }, {
-            value: 'jiyang',
+            value: '龙感湖管理区',
             label: '龙感湖管理区'
           }, {
-            value: 'jiyang',
+            value: '麻城市',
             label: '麻城市'
           }, {
-            value: 'jiyang',
+            value: '武穴市',
             label: '武穴市'
           }]
         }, {
-          value: 'xianning',
+          value: '咸宁市',
           label: '咸宁市',
           children: [{
-            value: 'lixia',
+            value: '咸安区',
             label: '咸安区'
           }, {
-            value: 'shizhong',
+            value: '嘉鱼县',
             label: '嘉鱼县'
           }, {
-            value: 'huaiyin',
+            value: '通城县',
             label: '通城县'
           }, {
-            value: 'tianqiao',
+            value: '崇阳县',
             label: '崇阳县'
           }, {
-            value: 'licheng',
+            value: '通山县',
             label: '通山县'
           }, {
-            value: 'zhangqiu',
+            value: '赤壁市',
             label: '赤壁市'
           }]
         }, {
-          value: 'shuizhou',
+          value: '随州市',
           label: '随州市',
           children: [{
-            value: 'lixia',
+            value: '曾都区',
             label: '曾都区'
           }, {
-            value: 'shizhong',
+            value: '随县',
             label: '随县'
           }, {
-            value: 'huaiyin',
+            value: '广水市',
             label: '广水市'
           }]
         }, {
-          value: 'enshi',
+          value: '恩施州',
           label: '恩施州',
           children: [{
-            value: 'lixia',
+            value: '恩施市',
             label: '恩施市'
           }, {
-            value: 'shizhong',
+            value: '利川市',
             label: '利川市'
           }, {
-            value: 'huaiyin',
+            value: '建始县',
             label: '建始县'
           }, {
-            value: 'tianqiao',
+            value: '巴东县',
             label: '巴东县'
           }, {
-            value: 'licheng',
+            value: '宣恩县',
             label: '宣恩县'
           }, {
-            value: 'zhangqiu',
+            value: '咸丰县',
             label: '咸丰县'
           }, {
-            value: 'pinying',
+            value: '来凤县',
             label: '来凤县'
           }, {
-            value: 'jiyang',
+            value: '鹤峰县',
             label: '鹤峰县'
           }]
         }, {
-          value: 'xiantao',
+          value: '仙桃市',
           label: '仙桃市',
           children: [{
-            value: 'lixia',
+            value: '沙嘴街道',
             label: '沙嘴街道'
           }, {
-            value: 'shizhong',
+            value: '干河街道',
             label: '干河街道'
           }, {
-            value: 'huaiyin',
+            value: '龙华山街道',
             label: '龙华山街道'
           }, {
-            value: 'tianqiao',
+            value: '郑场镇',
             label: '郑场镇'
           }, {
-            value: 'licheng',
+            value: '毛嘴镇',
             label: '毛嘴镇'
           }, {
-            value: 'zhangqiu',
+            value: '剅河镇',
             label: '剅河镇'
           }, {
-            value: 'pinying',
+            value: '三伏潭镇',
             label: '三伏潭镇'
           }, {
-            value: 'jiyang',
+            value: '胡场镇',
             label: '胡场镇'
           }]
         }, {
-          value: 'qianjiang',
+          value: '潜江市',
           label: '潜江市',
           children: [{
-            value: 'lixia',
+            value: '园林街道',
             label: '园林街道'
           }, {
-            value: 'shizhong',
+            value: '杨市街道',
             label: '杨市街道'
           }, {
-            value: 'huaiyin',
+            value: '周矶街道',
             label: '周矶街道'
           }, {
-            value: 'tianqiao',
+            value: '广华街道',
             label: '广华街道'
           }, {
-            value: 'licheng',
+            value: '泰丰办事处',
             label: '泰丰办事处'
           }, {
-            value: 'zhangqiu',
+            value: '高场办事处',
             label: '高场办事处'
           }, {
-            value: 'pinying',
+            value: '竹根滩镇',
             label: '竹根滩镇'
           }, {
-            value: 'jiyang',
+            value: '渔洋镇',
             label: '渔洋镇'
           }]
         }, {
-          value: 'tainmen',
+          value: '天门市',
           label: '天门市',
           children: [{
-            value: 'lixia',
+            value: '竟陵街道',
             label: '竟陵街道'
           }, {
-            value: 'shizhong',
+            value: '侨乡街道',
             label: '侨乡街道'
           }, {
-            value: 'huaiyin',
+            value: '杨林街道',
             label: '杨林街道'
           }, {
-            value: 'tianqiao',
+            value: '多宝镇',
             label: '多宝镇'
           }, {
-            value: 'licheng',
+            value: '拖市镇',
             label: '拖市镇'
           }, {
-            value: 'zhangqiu',
+            value: '张港镇',
             label: '张港镇'
           }, {
-            value: 'pinying',
+            value: '蒋场镇',
             label: '蒋场镇'
           }, {
-            value: 'jiyang',
+            value: '汪场镇',
             label: '汪场镇'
           }]
         }, {
-          value: 'shennongjia',
+          value: '神农架林区',
           label: '神农架林区',
           children: [{
-            value: 'lixia',
+            value: '松柏镇',
             label: '松柏镇'
           }, {
-            value: 'shizhong',
+            value: '阳日镇',
             label: '阳日镇'
           }, {
-            value: 'huaiyin',
+            value: '木鱼镇',
             label: '木鱼镇'
           }, {
-            value: 'tianqiao',
+            value: '红坪镇',
             label: '红坪镇'
           }, {
-            value: 'licheng',
+            value: '新华镇',
             label: '新华镇'
           }, {
-            value: 'zhangqiu',
+            value: '九湖镇',
             label: '九湖镇'
           }, {
-            value: 'pinying',
+            value: '宋洛乡',
             label: '宋洛乡'
           }, {
-            value: 'jiyang',
+            value: '下谷坪土家族乡',
             label: '下谷坪土家族乡'
           }]
         }]
       }, {
-        value: 'hunan',
+        value: '湖南省',
         label: '湖南省',
         children: [{
-          value: 'changsha',
+          value: '长沙市',
           label: '长沙市',
           children: [{
-            value: 'lixia',
+            value: '芙蓉区',
             label: '芙蓉区'
           }, {
-            value: 'shizhong',
+            value: '天心区',
             label: '天心区'
           }, {
-            value: 'huaiyin',
+            value: '岳麓区',
             label: '岳麓区'
           }, {
-            value: 'tianqiao',
+            value: '开福区',
             label: '开福区'
           }, {
-            value: 'licheng',
+            value: '雨花区',
             label: '雨花区'
           }, {
-            value: 'zhangqiu',
+            value: '望城区',
             label: '望城区'
           }, {
-            value: 'pinying',
+            value: '长沙县',
             label: '长沙县'
           }, {
-            value: 'jiyang',
+            value: '浏阳市',
             label: '浏阳市'
           }, {
-            value: 'jiyang',
+            value: '宁乡市',
             label: '宁乡市'
           }]
         }, {
-          value: 'zhuzhou',
+          value: '株洲市',
           label: '株洲市',
           children: [{
-            value: 'lixia',
+            value: '荷塘区',
             label: '荷塘区'
           }, {
-            value: 'shizhong',
+            value: '芦淞区',
             label: '芦淞区'
           }, {
-            value: 'huaiyin',
+            value: '石峰区',
             label: '石峰区'
           }, {
-            value: 'tianqiao',
+            value: '天元区',
             label: '天元区'
           }, {
-            value: 'licheng',
+            value: '渌口区',
             label: '渌口区'
           }, {
-            value: 'zhangqiu',
+            value: '攸县',
             label: '攸县'
           }, {
-            value: 'pinying',
+            value: '茶陵县',
             label: '茶陵县'
           }, {
-            value: 'jiyang',
+            value: '炎陵县',
             label: '炎陵县'
           }, {
-            value: 'jiyang',
+            value: '经济开发区（云龙示范区）',
             label: '经济开发区（云龙示范区）'
           }, {
-            value: 'jiyang',
+            value: '醴陵市',
             label: '醴陵市'
           }]
         }, {
-          value: 'xiangtan',
+          value: '湘潭市',
           label: '湘潭市',
           children: [{
-            value: 'lixia',
+            value: '雨湖区',
             label: '雨湖区'
           }, {
-            value: 'shizhong',
+            value: '岳塘区',
             label: '岳塘区'
           }, {
-            value: 'huaiyin',
+            value: '湘潭县',
             label: '湘潭县'
           }, {
-            value: 'tianqiao',
+            value: '高新技术产业园区',
             label: '高新技术产业园区'
           }, {
-            value: 'licheng',
+            value: '昭山示范区',
             label: '昭山示范区'
           }, {
-            value: 'zhangqiu',
+            value: '九华示范区',
             label: '九华示范区'
           }, {
-            value: 'pinying',
+            value: '湘乡市',
             label: '湘乡市'
           }, {
-            value: 'jiyang',
+            value: '韶山市',
             label: '韶山市'
           }]
         }, {
-          value: 'hengyang',
+          value: '衡阳市',
           label: '衡阳市',
           children: [{
-            value: 'lixia',
+            value: '珠晖区',
             label: '珠晖区'
           }, {
-            value: 'shizhong',
+            value: '雁峰区',
             label: '雁峰区'
           }, {
-            value: 'huaiyin',
+            value: '石鼓区',
             label: '石鼓区'
           }, {
-            value: 'tianqiao',
+            value: '蒸湘区',
             label: '蒸湘区'
           }, {
-            value: 'licheng',
+            value: '南岳区',
             label: '南岳区'
           }, {
-            value: 'zhangqiu',
+            value: '衡阳县',
             label: '衡阳县'
           }, {
-            value: 'pinying',
+            value: '衡南县',
             label: '衡南县'
           }, {
-            value: 'jiyang',
+            value: '衡山县',
             label: '衡山县'
           }]
         }, {
-          value: 'shaoyang',
+          value: '邵阳市',
           label: '邵阳市',
           children: [{
-            value: 'lixia',
+            value: '双清区',
             label: '双清区'
           }, {
-            value: 'shizhong',
+            value: '大祥区',
             label: '大祥区'
           }, {
-            value: 'huaiyin',
+            value: '北塔区',
             label: '北塔区'
           }, {
-            value: 'tianqiao',
+            value: '新邵县',
             label: '新邵县'
           }, {
-            value: 'licheng',
+            value: '邵阳县',
             label: '邵阳县'
           }, {
-            value: 'zhangqiu',
+            value: '隆回县',
             label: '隆回县'
           }, {
-            value: 'pinying',
+            value: '洞口县',
             label: '洞口县'
           }, {
-            value: 'jiyang',
+            value: '绥宁县',
             label: '绥宁县'
           }, {
-            value: 'jiyang',
+            value: '新宁县',
             label: '新宁县'
           }, {
-            value: 'jiyang',
+            value: '城步苗族自治县',
             label: '城步苗族自治县'
           }, {
-            value: 'jiyang',
+            value: '武冈市',
             label: '武冈市'
           }, {
-            value: 'jiyang',
+            value: '邵东市',
             label: '邵东市'
           }]
         }, {
-          value: 'yueyang',
+          value: '岳阳市',
           label: '岳阳市',
           children: [{
-            value: 'lixia',
+            value: '岳阳楼区',
             label: '岳阳楼区'
           }, {
-            value: 'shizhong',
+            value: '云溪区',
             label: '云溪区'
           }, {
-            value: 'huaiyin',
+            value: '君山区',
             label: '君山区'
           }, {
-            value: 'tianqiao',
+            value: '岳阳县',
             label: '岳阳县'
           }, {
-            value: 'licheng',
+            value: '华容县',
             label: '华容县'
           }, {
-            value: 'zhangqiu',
+            value: '湘阴县',
             label: '湘阴县'
           }, {
-            value: 'pinying',
+            value: '平江县',
             label: '平江县'
           }, {
-            value: 'jiyang',
+            value: '屈原管理区',
             label: '屈原管理区'
           }, {
-            value: 'jiyang',
+            value: '汨罗市',
             label: '汨罗市'
           }, {
-            value: 'jiyang',
+            value: '临湘市',
             label: '临湘市'
           }]
         }, {
-          value: 'zhangjiajie',
+          value: '张家界市',
           label: '张家界市',
           children: [{
-            value: 'lixia',
+            value: '永定区',
             label: '永定区'
           }, {
-            value: 'shizhong',
+            value: '武陵源区',
             label: '武陵源区'
           }, {
-            value: 'huaiyin',
+            value: '慈利县',
             label: '慈利县'
           }, {
-            value: 'tianqiao',
+            value: '桑植县',
             label: '桑植县'
           }]
         }, {
-          value: 'yiyang',
+          value: '益阳市',
           label: '益阳市',
           children: [{
-            value: 'lixia',
+            value: '资阳区',
             label: '资阳区'
           }, {
-            value: 'shizhong',
+            value: '赫山区',
             label: '赫山区'
           }, {
-            value: 'huaiyin',
+            value: '南县',
             label: '南县'
           }, {
-            value: 'tianqiao',
+            value: '桃江县',
             label: '桃江县'
           }, {
-            value: 'licheng',
+            value: '安化县',
             label: '安化县'
           }, {
-            value: 'zhangqiu',
+            value: '大通湖管理区',
             label: '大通湖管理区'
           }, {
-            value: 'pinying',
+            value: '高新技术产业园区',
             label: '高新技术产业园区'
           }, {
-            value: 'jiyang',
+            value: '沅江市',
             label: '沅江市'
           }]
         }, {
-          value: 'fuqing',
+          value: '郴州市',
           label: '郴州市',
           children: [{
-            value: 'lixia',
+            value: '北湖区',
             label: '北湖区'
           }, {
-            value: 'shizhong',
+            value: '苏仙区',
             label: '苏仙区'
           }, {
-            value: 'huaiyin',
+            value: '桂阳县',
             label: '桂阳县'
           }, {
-            value: 'tianqiao',
+            value: '宜章县',
             label: '宜章县'
           }, {
-            value: 'licheng',
+            value: '永兴县',
             label: '永兴县'
           }, {
-            value: 'zhangqiu',
+            value: '嘉禾县',
             label: '嘉禾县'
           }, {
-            value: 'pinying',
+            value: '临武县',
             label: '临武县'
           }, {
-            value: 'jiyang',
+            value: '汝城县',
             label: '汝城县'
           }, {
-            value: 'jiyang',
+            value: '桂东县',
             label: '桂东县'
           }, {
-            value: 'jiyang',
+            value: '安仁县',
             label: '安仁县'
           }, {
-            value: 'jiyang',
+            value: '资兴市',
             label: '资兴市'
           }]
         }, {
-          value: 'changle',
+          value: '永州市',
           label: '永州市',
           children: [{
-            value: 'lixia',
+            value: '零陵区',
             label: '零陵区'
           }, {
-            value: 'shizhong',
+            value: '冷水滩区',
             label: '冷水滩区'
           }, {
-            value: 'huaiyin',
+            value: '祁阳县',
             label: '祁阳县'
           }, {
-            value: 'tianqiao',
+            value: '东安县',
             label: '东安县'
           }, {
-            value: 'licheng',
+            value: '双牌县',
             label: '双牌县'
           }, {
-            value: 'zhangqiu',
+            value: '道县',
             label: '道县'
           }, {
-            value: 'pinying',
+            value: '江永县',
             label: '江永县'
           }, {
-            value: 'jiyang',
+            value: '宁远县',
             label: '宁远县'
           }, {
-            value: 'jiyang',
+            value: '蓝山县',
             label: '蓝山县'
           }, {
-            value: 'jiyang',
+            value: '新田县',
             label: '新田县'
           }, {
-            value: 'jiyang',
+            value: '江华县',
             label: '江华县'
           }, {
-            value: 'jiyang',
+            value: '经济技术开发区',
             label: '经济技术开发区'
           }, {
-            value: 'jiyang',
+            value: '金洞管理区',
             label: '金洞管理区'
           }, {
-            value: 'jiyang',
+            value: '回龙圩管理区',
             label: '回龙圩管理区'
           }]
         }, {
-          value: 'yongan',
+          value: '怀化市',
           label: '怀化市',
           children: [{
-            value: 'lixia',
+            value: '鹤城区',
             label: '鹤城区'
           }, {
-            value: 'shizhong',
+            value: '中方县',
             label: '中方县'
           }, {
-            value: 'huaiyin',
+            value: '沅陵县',
             label: '沅陵县'
           }, {
-            value: 'tianqiao',
+            value: '辰溪县',
             label: '辰溪县'
           }, {
-            value: 'licheng',
+            value: '溆浦县',
             label: '溆浦县'
           }, {
-            value: 'zhangqiu',
+            value: '会同县',
             label: '会同县'
           }, {
-            value: 'pinying',
+            value: '麻阳县',
             label: '麻阳县'
           }, {
-            value: 'jiyang',
+            value: '新晃县',
             label: '新晃县'
           }, {
-            value: 'jiyang',
+            value: '芷江县',
             label: '芷江县'
           }, {
-            value: 'jiyang',
+            value: '靖州县',
             label: '靖州县'
           }, {
-            value: 'jiyang',
+            value: '洪江管理区',
             label: '洪江管理区'
           }, {
-            value: 'jiyang',
+            value: '洪江市',
             label: '洪江市'
           }, {
-            value: 'jiyang',
+            value: '通道县',
             label: '通道县'
           }]
         }, {
-          value: 'shishi',
+          value: '娄底市',
           label: '娄底市',
           children: [{
-            value: 'lixia',
+            value: '娄星区',
             label: '娄星区'
           }, {
-            value: 'shizhong',
+            value: '双峰县',
             label: '双峰县'
           }, {
-            value: 'huaiyin',
+            value: '新化县',
             label: '新化县'
           }, {
-            value: 'tianqiao',
+            value: '冷水江市',
             label: '冷水江市'
           }, {
-            value: 'licheng',
+            value: '涟源市',
             label: '涟源市'
           }]
         }, {
-          value: 'changde',
+          value: '常德市',
           label: '常德市',
           children: [{
-            value: 'lixia',
+            value: '武陵区',
             label: '武陵区'
           }, {
-            value: 'shizhong',
+            value: '鼎城区',
             label: '鼎城区'
           }, {
-            value: 'huaiyin',
+            value: '安乡县',
             label: '安乡县'
           }, {
-            value: 'tianqiao',
+            value: '汉寿县',
             label: '汉寿县'
           }, {
-            value: 'licheng',
+            value: '澧县',
             label: '澧县'
           }, {
-            value: 'zhangqiu',
+            value: '临澧县',
             label: '临澧县'
           }, {
-            value: 'pinying',
+            value: '桃源县',
             label: '桃源县'
           }, {
-            value: 'jiyang',
+            value: '石门县',
             label: '石门县'
           }, {
-            value: 'jiyang',
+            value: '西洞庭管理区',
             label: '西洞庭管理区'
           }, {
-            value: 'jiyang',
+            value: '津市市',
             label: '津市市'
           }]
         }, {
-          value: 'xiangxi',
+          value: '湘西州',
           label: '湘西州',
           children: [{
-            value: 'lixia',
+            value: '吉首市',
             label: '吉首市'
           }, {
-            value: 'shizhong',
+            value: '泸溪县',
             label: '泸溪县'
           }, {
-            value: 'huaiyin',
+            value: '凤凰县',
             label: '凤凰县'
           }, {
-            value: 'tianqiao',
+            value: '花垣县',
             label: '花垣县'
           }, {
-            value: 'licheng',
+            value: '保靖县',
             label: '保靖县'
           }, {
-            value: 'zhangqiu',
+            value: '古丈县',
             label: '古丈县'
           }, {
-            value: 'pinying',
+            value: '永顺县',
             label: '永顺县'
           }, {
-            value: 'jiyang',
+            value: '龙山县',
             label: '龙山县'
           }]
         }]
       }, {
-        value: 'guangdong',
+        value: '广东省',
         label: '广东省',
         children: [{
-          value: 'guangzhou',
+          value: '广州市',
           label: '广州市',
           children: [{
-            value: 'lixia',
+            value: '荔湾区',
             label: '荔湾区'
           }, {
-            value: 'shizhong',
+            value: '越秀区',
             label: '越秀区'
           }, {
-            value: 'huaiyin',
+            value: '海珠区',
             label: '海珠区'
           }, {
-            value: 'tianqiao',
+            value: '天河区',
             label: '天河区'
           }, {
-            value: 'licheng',
+            value: '白云区',
             label: '白云区'
           }, {
-            value: 'zhangqiu',
+            value: '黄埔区',
             label: '黄埔区'
           }, {
-            value: 'pinying',
+            value: '番禺区',
             label: '番禺区'
           }, {
-            value: 'jiyang',
+            value: '花都区',
             label: '花都区'
           }, {
-            value: 'jiyang',
+            value: '南沙区',
             label: '南沙区'
           }, {
-            value: 'jiyang',
+            value: '从化区',
             label: '从化区'
           }, {
-            value: 'jiyang',
+            value: '增城区',
             label: '增城区'
           }]
         }, {
-          value: 'zhaoguan',
+          value: '韶关市',
           label: '韶关市',
           children: [{
-            value: 'lixia',
+            value: '武江区',
             label: '武江区'
           }, {
-            value: 'shizhong',
+            value: '浈江区',
             label: '浈江区'
           }, {
-            value: 'huaiyin',
+            value: '曲江区',
             label: '曲江区'
           }, {
-            value: 'tianqiao',
+            value: '始兴县',
             label: '始兴县'
           }, {
-            value: 'licheng',
+            value: '仁化县',
             label: '仁化县'
           }, {
-            value: 'zhangqiu',
+            value: '翁源县',
             label: '翁源县'
           }, {
-            value: 'pinying',
+            value: '乳源县',
             label: '乳源县'
           }, {
-            value: 'jiyang',
+            value: '新丰县',
             label: '新丰县'
           }, {
-            value: 'jiyang',
+            value: '乐昌市',
             label: '乐昌市'
           }, {
-            value: 'jiyang',
+            value: '南雄市',
             label: '南雄市'
           }]
         }, {
-          value: 'shengzheng',
+          value: '深圳市',
           label: '深圳市',
           children: [{
-            value: 'lixia',
+            value: '罗湖区',
             label: '罗湖区'
           }, {
-            value: 'shizhong',
+            value: '福田区',
             label: '福田区'
           }, {
-            value: 'huaiyin',
+            value: '南山区',
             label: '南山区'
           }, {
-            value: 'tianqiao',
+            value: '宝安区',
             label: '宝安区'
           }, {
-            value: 'licheng',
+            value: '龙岗区',
             label: '龙岗区'
           }, {
-            value: 'zhangqiu',
+            value: '盐田区',
             label: '盐田区'
           }, {
-            value: 'pinying',
+            value: '龙华区',
             label: '龙华区'
           }, {
-            value: 'jiyang',
+            value: '坪山区',
             label: '坪山区'
           }, {
-            value: 'jiyang',
+            value: '光明区',
             label: '光明区'
           }]
         }, {
-          value: 'zhuhai',
+          value: '珠海市',
           label: '珠海市',
           children: [{
-            value: 'lixia',
+            value: '香洲区',
             label: '香洲区'
           }, {
-            value: 'shizhong',
+            value: '斗门区',
             label: '斗门区'
           }, {
-            value: 'huaiyin',
+            value: '金湾区',
             label: '金湾区'
           }]
         }, {
-          value: 'shantou',
+          value: '汕头市',
           label: '汕头市',
           children: [{
-            value: 'lixia',
+            value: '龙湖区',
             label: '龙湖区'
           }, {
-            value: 'shizhong',
+            value: '金平区',
             label: '金平区'
           }, {
-            value: 'huaiyin',
+            value: '濠江区',
             label: '濠江区'
           }, {
-            value: 'tianqiao',
+            value: '潮阳区',
             label: '潮阳区'
           }, {
-            value: 'licheng',
+            value: '潮南区',
             label: '潮南区'
           }, {
-            value: 'zhangqiu',
+            value: '澄海区',
             label: '澄海区'
           }, {
-            value: 'pinying',
+            value: '南澳县',
             label: '南澳县'
           }]
         }, {
-          value: 'foshan',
+          value: '佛山市',
           label: '佛山市',
           children: [{
-            value: 'lixia',
+            value: '禅城区',
             label: '禅城区'
           }, {
-            value: 'shizhong',
+            value: '南海区',
             label: '南海区'
           }, {
-            value: 'huaiyin',
+            value: '顺德区',
             label: '顺德区'
           }, {
-            value: 'tianqiao',
+            value: '三水区',
             label: '三水区'
           }, {
-            value: 'licheng',
+            value: '高明区',
             label: '高明区'
           }]
         }, {
-          value: 'jiangmen',
+          value: '江门市',
           label: '江门市',
           children: [{
-            value: 'lixia',
+            value: '蓬江区',
             label: '蓬江区'
           }, {
-            value: 'shizhong',
+            value: '江海区',
             label: '江海区'
           }, {
-            value: 'huaiyin',
+            value: '新会区',
             label: '新会区'
           }, {
-            value: 'tianqiao',
+            value: '台山市',
             label: '台山市'
           }, {
-            value: 'licheng',
+            value: '开平市',
             label: '开平市'
           }, {
-            value: 'zhangqiu',
+            value: '鹤山市',
             label: '鹤山市'
           }, {
-            value: 'pinying',
+            value: '恩平市',
             label: '恩平市'
           }]
         }, {
-          value: 'zhanjiang',
+          value: '湛江市',
           label: '湛江市',
           children: [{
-            value: 'lixia',
+            value: '赤坎区',
             label: '赤坎区'
           }, {
-            value: 'shizhong',
+            value: '霞山区',
             label: '霞山区'
           }, {
-            value: 'huaiyin',
+            value: '坡头区',
             label: '坡头区'
           }, {
-            value: 'tianqiao',
+            value: '麻章区',
             label: '麻章区'
           }, {
-            value: 'licheng',
+            value: '遂溪县',
             label: '遂溪县'
           }, {
-            value: 'zhangqiu',
+            value: '徐闻县',
             label: '徐闻县'
           }, {
-            value: 'pinying',
+            value: '廉江市',
             label: '廉江市'
           }, {
-            value: 'jiyang',
+            value: '雷州市',
             label: '雷州市'
           }, {
-            value: 'jiyang',
+            value: '吴川市',
             label: '吴川市'
           }]
         }, {
-          value: 'maoming',
+          value: '茂名市',
           label: '茂名市',
           children: [{
-            value: 'lixia',
+            value: '茂南区',
             label: '茂南区'
           }, {
-            value: 'shizhong',
+            value: '电白区',
             label: '电白区'
           }, {
-            value: 'huaiyin',
+            value: '高州市',
             label: '高州市'
           }, {
-            value: 'tianqiao',
+            value: '化州市',
             label: '化州市'
           }, {
-            value: 'licheng',
+            value: '信宜市',
             label: '信宜市'
           }]
         }, {
-          value: 'zhaoqing',
+          value: '肇庆市',
           label: '肇庆市',
           children: [{
-            value: 'lixia',
+            value: '端州区',
             label: '端州区'
           }, {
-            value: 'shizhong',
+            value: '鼎湖区',
             label: '鼎湖区'
           }, {
-            value: 'huaiyin',
+            value: '高要区',
             label: '高要区'
           }, {
-            value: 'tianqiao',
+            value: '广宁县',
             label: '广宁县'
           }, {
-            value: 'licheng',
+            value: '怀集县',
             label: '怀集县'
           }, {
-            value: 'zhangqiu',
+            value: '封开县',
             label: '封开县'
           }, {
-            value: 'pinying',
+            value: '德庆县',
             label: '德庆县'
           }, {
-            value: 'jiyang',
+            value: '四会市',
             label: '四会市'
           }]
         }, {
-          value: 'huizhou',
+          value: '惠州市',
           label: '惠州市',
           children: [{
-            value: 'lixia',
+            value: '惠城区',
             label: '惠城区'
           }, {
-            value: 'shizhong',
+            value: '惠阳区',
             label: '惠阳区'
           }, {
-            value: 'huaiyin',
+            value: '博罗县',
             label: '博罗县'
           }, {
-            value: 'tianqiao',
+            value: '惠东县',
             label: '惠东县'
           }, {
-            value: 'licheng',
+            value: '龙门县',
             label: '龙门县'
           }]
         }, {
-          value: 'meizhou',
+          value: '梅州市',
           label: '梅州市',
           children: [{
-            value: 'lixia',
+            value: '梅江区',
             label: '梅江区'
           }, {
-            value: 'shizhong',
+            value: '梅县区',
             label: '梅县区'
           }, {
-            value: 'huaiyin',
+            value: '大埔县',
             label: '大埔县'
           }, {
-            value: 'tianqiao',
+            value: '丰顺县',
             label: '丰顺县'
           }, {
-            value: 'licheng',
+            value: '五华县',
             label: '五华县'
           }, {
-            value: 'zhangqiu',
+            value: '平远县',
             label: '平远县'
           }, {
-            value: 'pinying',
+            value: '蕉岭县',
             label: '蕉岭县'
           }, {
-            value: 'jiyang',
+            value: '兴宁市',
             label: '兴宁市'
           }]
         }, {
-          value: 'shanwei',
+          value: '汕尾市',
           label: '汕尾市',
           children: [{
-            value: 'lixia',
+            value: '城区',
             label: '城区'
           }, {
-            value: 'shizhong',
+            value: '海丰县',
             label: '海丰县'
           }, {
-            value: 'huaiyin',
+            value: '陆河县',
             label: '陆河县'
           }, {
-            value: 'tianqiao',
+            value: '陆丰市',
             label: '陆丰市'
           }]
         }, {
-          value: 'heyuan',
+          value: '河源市',
           label: '河源市',
           children: [{
-            value: 'lixia',
+            value: '源城区',
             label: '源城区'
           }, {
-            value: 'shizhong',
+            value: '紫金县',
             label: '紫金县'
           }, {
-            value: 'huaiyin',
+            value: '龙川县',
             label: '龙川县'
           }, {
-            value: 'tianqiao',
+            value: '连平县',
             label: '连平县'
           }, {
-            value: 'licheng',
+            value: '和平县',
             label: '和平县'
           }, {
-            value: 'zhangqiu',
+            value: '东源县',
             label: '东源县'
           }]
         }, {
-          value: 'yangjiang',
+          value: '阳江市',
           label: '阳江市',
           children: [{
-            value: 'lixia',
+            value: '江城区',
             label: '江城区'
           }, {
-            value: 'shizhong',
+            value: '阳东区',
             label: '阳东区'
           }, {
-            value: 'huaiyin',
+            value: '阳西县',
             label: '阳西县'
           }, {
-            value: 'tianqiao',
+            value: '阳春市',
             label: '阳春市'
           }]
         }, {
-          value: 'qingyuan',
+          value: '清远市',
           label: '清远市',
           children: [{
-            value: 'lixia',
+            value: '清城区',
             label: '清城区'
           }, {
-            value: 'shizhong',
+            value: '清新区',
             label: '清新区'
           }, {
-            value: 'huaiyin',
+            value: '佛冈县',
             label: '佛冈县'
           }, {
-            value: 'tianqiao',
+            value: '阳山县',
             label: '阳山县'
           }, {
-            value: 'licheng',
+            value: '连山县',
             label: '连山县'
           }, {
-            value: 'zhangqiu',
+            value: '连南县',
             label: '连南县'
           }, {
-            value: 'pinying',
+            value: '英德市',
             label: '英德市'
           }, {
-            value: 'jiyang',
+            value: '连州市',
             label: '连州市'
           }]
         }, {
-          value: 'dongwan',
+          value: '东莞市',
           label: '东莞市',
           children: [{
-            value: 'lixia',
+            value: '东城街道',
             label: '东城街道'
           }, {
-            value: 'shizhong',
+            value: '南城街道',
             label: '南城街道'
           }, {
-            value: 'huaiyin',
+            value: '万江街道',
             label: '万江街道'
           }, {
-            value: 'tianqiao',
+            value: '莞城街道',
             label: '莞城街道'
           }, {
-            value: 'licheng',
+            value: '石碣镇',
             label: '石碣镇'
           }, {
-            value: 'zhangqiu',
+            value: '石龙镇',
             label: '石龙镇'
           }, {
-            value: 'pinying',
+            value: '茶山镇',
             label: '茶山镇'
           }, {
-            value: 'jiyang',
+            value: '石排镇',
             label: '石排镇'
           }, {
-            value: 'jiyang',
+            value: '企石镇',
             label: '企石镇'
           }, {
-            value: 'jiyang',
+            value: '横沥镇',
             label: '横沥镇'
           }, {
-            value: 'jiyang',
+            value: '桥头镇',
             label: '桥头镇'
           }, {
-            value: 'jiyang',
+            value: '谢岗镇',
             label: '谢岗镇'
           }, {
-            value: 'jiyang',
+            value: '东坑镇',
             label: '东坑镇'
           }, {
-            value: 'jiyang',
+            value: '常平镇',
             label: '常平镇'
           }, {
-            value: 'jiyang',
+            value: '寮步镇',
             label: '寮步镇'
           }, {
-            value: 'jiyang',
+            value: '樟木头镇',
             label: '樟木头镇'
           }, {
-            value: 'jiyang',
+            value: '大朗镇',
             label: '大朗镇'
           }, {
-            value: 'jiyang',
+            value: '黄江镇',
             label: '黄江镇'
           }, {
-            value: 'jiyang',
+            value: '清溪镇',
             label: '清溪镇'
           }, {
-            value: 'jiyang',
+            value: '塘厦镇',
             label: '塘厦镇'
           }, {
-            value: 'jiyang',
+            value: '凤岗镇',
             label: '凤岗镇'
           }, {
-            value: 'jiyang',
+            value: '大岭山镇',
             label: '大岭山镇'
           }, {
-            value: 'jiyang',
+            value: '长安镇',
             label: '长安镇'
           }, {
-            value: 'jiyang',
+            value: '虎门镇',
             label: '虎门镇'
           }, {
-            value: 'jiyang',
+            value: '厚街镇',
             label: '厚街镇'
           }, {
-            value: 'jiyang',
+            value: '沙田镇',
             label: '沙田镇'
           }, {
-            value: 'jiyang',
+            value: '道滘镇',
             label: '道滘镇'
           }, {
-            value: 'jiyang',
+            value: '洪梅镇',
             label: '洪梅镇'
           }, {
-            value: 'jiyang',
+            value: '麻涌镇',
             label: '麻涌镇'
           }, {
-            value: 'jiyang',
+            value: '望牛墩镇',
             label: '望牛墩镇'
           }, {
-            value: 'jiyang',
+            value: '中堂镇',
             label: '中堂镇'
           }, {
-            value: 'jiyang',
+            value: '高埗镇',
             label: '高埗镇'
           }]
         }, {
-          value: 'zhongshan',
+          value: '中山市',
           label: '中山市',
           children: [{
-            value: 'lixia',
+            value: '石岐区街道',
             label: '石岐区街道'
           }, {
-            value: 'shizhong',
+            value: '东区街道',
             label: '东区街道'
           }, {
-            value: 'huaiyin',
+            value: '火炬开发区街道',
             label: '火炬开发区街道'
           }, {
-            value: 'tianqiao',
+            value: '西区街道',
             label: '西区街道'
           }, {
-            value: 'licheng',
+            value: '南区街道',
             label: '南区街道'
           }, {
-            value: 'zhangqiu',
+            value: '五桂山街道',
             label: '五桂山街道'
           }, {
-            value: 'pinying',
+            value: '小榄镇',
             label: '小榄镇'
           }, {
-            value: 'jiyang',
+            value: '黄圃镇',
             label: '黄圃镇'
           }, {
-            value: 'jiyang',
+            value: '民众镇',
             label: '民众镇'
           }, {
-            value: 'jiyang',
+            value: '东凤镇',
             label: '东凤镇'
           }, {
-            value: 'jiyang',
+            value: '东升镇',
             label: '东升镇'
           }, {
-            value: 'jiyang',
+            value: '古镇镇',
             label: '古镇镇'
           }, {
-            value: 'jiyang',
+            value: '沙溪镇',
             label: '沙溪镇'
           }, {
-            value: 'jiyang',
+            value: '坦洲镇',
             label: '坦洲镇'
           }, {
-            value: 'jiyang',
+            value: '港口镇',
             label: '港口镇'
           }, {
-            value: 'jiyang',
+            value: '三角镇',
             label: '三角镇'
           }, {
-            value: 'jiyang',
+            value: '横栏镇',
             label: '横栏镇'
           }, {
-            value: 'jiyang',
+            value: '南头镇',
             label: '南头镇'
           }, {
-            value: 'jiyang',
+            value: '阜沙镇',
             label: '阜沙镇'
           }, {
-            value: 'jiyang',
+            value: '南朗镇',
             label: '南朗镇'
           }, {
-            value: 'jiyang',
+            value: '三乡镇',
             label: '三乡镇'
           }, {
-            value: 'jiyang',
+            value: '板芙镇',
             label: '板芙镇'
           }, {
-            value: 'jiyang',
+            value: '大涌镇',
             label: '大涌镇'
           }, {
-            value: 'jiyang',
+            value: '神湾镇',
             label: '神湾镇'
           }]
         }, {
-          value: 'chaozhou',
+          value: '潮州市',
           label: '潮州市',
           children: [{
-            value: 'lixia',
+            value: '湘桥区',
             label: '湘桥区'
           }, {
-            value: 'shizhong',
+            value: '潮安区',
             label: '潮安区'
           }, {
-            value: 'huaiyin',
+            value: '饶平县',
             label: '饶平县'
           }, {
-            value: 'tianqiao',
+            value: '枫溪区管理委员会',
             label: '枫溪区管理委员会'
           }]
         }, {
-          value: 'jieyang',
+          value: '揭阳市',
           label: '揭阳市',
           children: [{
-            value: 'lixia',
+            value: '榕城区',
             label: '榕城区'
           }, {
-            value: 'shizhong',
+            value: '揭东区',
             label: '揭东区'
           }, {
-            value: 'huaiyin',
+            value: '揭西县',
             label: '揭西县'
           }, {
-            value: 'tianqiao',
+            value: '惠来县',
             label: '惠来县'
           }, {
-            value: 'licheng',
+            value: '普宁市',
             label: '普宁市'
           }]
         }, {
-          value: 'yunfu',
+          value: '云浮市',
           label: '云浮市',
           children: [{
-            value: 'lixia',
+            value: '云城区',
             label: '云城区'
           }, {
-            value: 'shizhong',
+            value: '云安区',
             label: '云安区'
           }, {
-            value: 'huaiyin',
+            value: '新兴县',
             label: '新兴县'
           }, {
-            value: 'tianqiao',
+            value: '郁南县',
             label: '郁南县'
           }, {
-            value: 'licheng',
+            value: '罗定市',
             label: '罗定市'
           }]
         }]
       }, {
-        value: 'guangxi',
+        value: '广西',
         label: '广西',
         children: [{
-          value: 'nanning',
+          value: '南宁市',
           label: '南宁市',
           children: [{
-            value: 'lixia',
+            value: '兴宁区',
             label: '兴宁区'
           }, {
-            value: 'shizhong',
+            value: '青秀区',
             label: '青秀区'
           }, {
-            value: 'huaiyin',
+            value: '江南区',
             label: '江南区'
           }, {
-            value: 'tianqiao',
+            value: '西乡塘区',
             label: '西乡塘区'
           }, {
-            value: 'licheng',
+            value: '良庆区',
             label: '良庆区'
           }, {
-            value: 'zhangqiu',
+            value: '邕宁区',
             label: '邕宁区'
           }, {
-            value: 'pinying',
+            value: '武鸣区',
             label: '武鸣区'
           }, {
-            value: 'jiyang',
+            value: '隆安县',
             label: '隆安县'
           }, {
-            value: 'jiyang',
+            value: '马山县',
             label: '马山县'
           }, {
-            value: 'jiyang',
+            value: '上林县',
             label: '上林县'
           }, {
-            value: 'jiyang',
+            value: '宾阳县',
             label: '宾阳县'
           }, {
-            value: 'jiyang',
+            value: '横县',
             label: '横县'
           }]
         }, {
-          value: 'liuzhou',
+          value: '柳州市',
           label: '柳州市',
           children: [{
-            value: 'lixia',
+            value: '城中区',
             label: '城中区'
           }, {
-            value: 'shizhong',
+            value: '鱼峰区',
             label: '鱼峰区'
           }, {
-            value: 'huaiyin',
+            value: '柳南区',
             label: '柳南区'
           }, {
-            value: 'tianqiao',
+            value: '柳北区',
             label: '柳北区'
           }, {
-            value: 'licheng',
+            value: '柳江区',
             label: '柳江区'
           }, {
-            value: 'zhangqiu',
+            value: '柳城县',
             label: '柳城县'
           }, {
-            value: 'pinying',
+            value: '鹿寨县',
             label: '鹿寨县'
           }, {
-            value: 'jiyang',
+            value: '融安县',
             label: '融安县'
           }, {
-            value: 'jiyang',
+            value: '融水县',
             label: '融水县'
           }, {
-            value: 'jiyang',
+            value: '三江县',
             label: '三江县'
           }]
         }, {
-          value: 'guiling',
+          value: '桂林市',
           label: '桂林市',
           children: [{
-            value: 'lixia',
+            value: '秀峰区',
             label: '秀峰区'
           }, {
-            value: 'shizhong',
+            value: '叠彩区',
             label: '叠彩区'
           }, {
-            value: 'huaiyin',
+            value: '象山区',
             label: '象山区'
           }, {
-            value: 'tianqiao',
+            value: '七星区',
             label: '七星区'
           }, {
-            value: 'licheng',
+            value: '雁山区',
             label: '雁山区'
           }, {
-            value: 'zhangqiu',
+            value: '临桂区',
             label: '临桂区'
           }, {
-            value: 'pinying',
+            value: '阳朔县',
             label: '阳朔县'
           }, {
-            value: 'jiyang',
+            value: '灵川县',
             label: '灵川县'
           }, {
-            value: 'jiyang',
+            value: '全州县',
             label: '全州县'
           }, {
-            value: 'jiyang',
+            value: '兴安县',
             label: '兴安县'
           }, {
-            value: 'jiyang',
+            value: '永福县',
             label: '永福县'
           }, {
-            value: 'jiyang',
+            value: '灌阳县',
             label: '灌阳县'
           }, {
-            value: 'jiyang',
+            value: '龙胜县',
             label: '龙胜县'
           }, {
-            value: 'jiyang',
+            value: '资源县',
             label: '资源县'
           }, {
-            value: 'jiyang',
+            value: '平乐县',
             label: '平乐县'
           }, {
-            value: 'jiyang',
+            value: '恭城县',
             label: '恭城县'
           }, {
-            value: 'jiyang',
+            value: '荔浦市',
             label: '荔浦市'
           }]
         }, {
-          value: 'wuzhou',
+          value: '梧州市',
           label: '梧州市',
           children: [{
-            value: 'lixia',
+            value: '万秀区',
             label: '万秀区'
           }, {
-            value: 'shizhong',
+            value: '长洲区',
             label: '长洲区'
           }, {
-            value: 'huaiyin',
+            value: '龙圩区',
             label: '龙圩区'
           }, {
-            value: 'tianqiao',
+            value: '苍梧县',
             label: '苍梧县'
           }, {
-            value: 'licheng',
+            value: '藤县',
             label: '藤县'
           }, {
-            value: 'zhangqiu',
+            value: '蒙山县',
             label: '蒙山县'
           }, {
-            value: 'pinying',
+            value: '岑溪市',
             label: '岑溪市'
           }]
         }, {
-          value: 'beihai',
+          value: '北海市',
           label: '北海市',
           children: [{
-            value: 'lixia',
+            value: '海城区',
             label: '海城区'
           }, {
-            value: 'shizhong',
+            value: '银海区',
             label: '银海区'
           }, {
-            value: 'huaiyin',
+            value: '铁山港区',
             label: '铁山港区'
           }, {
-            value: 'tianqiao',
+            value: '合浦县',
             label: '合浦县'
           }]
         }, {
-          value: 'fangchenggang',
+          value: '防城港市',
           label: '防城港市',
           children: [{
-            value: 'lixia',
+            value: '港口区',
             label: '港口区'
           }, {
-            value: 'shizhong',
+            value: '防城区',
             label: '防城区'
           }, {
-            value: 'huaiyin',
+            value: '上思县',
             label: '上思县'
           }, {
-            value: 'tianqiao',
+            value: '东兴市',
             label: '东兴市'
           }]
         }, {
-          value: 'qingzhou',
+          value: '钦州市',
           label: '钦州市',
           children: [{
-            value: 'lixia',
+            value: '钦南区',
             label: '钦南区'
           }, {
-            value: 'shizhong',
+            value: '钦北区',
             label: '钦北区'
           }, {
-            value: 'huaiyin',
+            value: '灵山县',
             label: '灵山县'
           }, {
-            value: 'tianqiao',
+            value: '浦北区',
             label: '浦北区'
           }]
         }, {
-          value: 'guigang',
+          value: '贵港市',
           label: '贵港市',
           children: [{
-            value: 'lixia',
+            value: '港北区',
             label: '港北区'
           }, {
-            value: 'shizhong',
+            value: '港南区',
             label: '港南区'
           }, {
-            value: 'huaiyin',
+            value: '覃塘区',
             label: '覃塘区'
           }, {
-            value: 'tianqiao',
+            value: '平南县',
             label: '平南县'
           }, {
-            value: 'licheng',
+            value: '桂平市',
             label: '桂平市'
           }]
         }, {
-          value: 'yulin',
+          value: '玉林市',
           label: '玉林市',
           children: [{
-            value: 'lixia',
+            value: '玉州区',
             label: '玉州区'
           }, {
-            value: 'shizhong',
+            value: '福绵区',
             label: '福绵区'
           }, {
-            value: 'huaiyin',
+            value: '容县',
             label: '容县'
           }, {
-            value: 'tianqiao',
+            value: '陆川县',
             label: '陆川县'
           }, {
-            value: 'licheng',
+            value: '博白县',
             label: '博白县'
           }, {
-            value: 'zhangqiu',
+            value: '兴业县',
             label: '兴业县'
           }, {
-            value: 'pinying',
+            value: '北流市',
             label: '北流市'
           }]
         }, {
-          value: 'hezhou',
+          value: '贺州市',
           label: '贺州市',
           children: [{
-            value: 'lixia',
+            value: '八步区',
             label: '八步区'
           }, {
-            value: 'shizhong',
+            value: '平桂区',
             label: '平桂区'
           }, {
-            value: 'huaiyin',
+            value: '昭平县',
             label: '昭平县'
           }, {
-            value: 'tianqiao',
+            value: '钟山县',
             label: '钟山县'
           }, {
-            value: 'licheng',
+            value: '富川县',
             label: '富川县'
           }]
         }, {
-          value: 'baise',
+          value: '百色市',
           label: '百色市',
           children: [{
-            value: 'lixia',
+            value: '右江区',
             label: '右江区'
           }, {
-            value: 'shizhong',
+            value: '田阳区',
             label: '田阳区'
           }, {
-            value: 'huaiyin',
+            value: '田东县',
             label: '田东县'
           }, {
-            value: 'tianqiao',
+            value: '平果县',
             label: '平果县'
           }, {
-            value: 'licheng',
+            value: '德保县',
             label: '德保县'
           }, {
-            value: 'zhangqiu',
+            value: '那坡县',
             label: '那坡县'
           }, {
-            value: 'pinying',
+            value: '凌云县',
             label: '凌云县'
           }, {
-            value: 'jiyang',
+            value: '乐业县',
             label: '乐业县'
           }, {
-            value: 'jiyang',
+            value: '田林县',
             label: '田林县'
           }, {
-            value: 'jiyang',
+            value: '西林县',
             label: '西林县'
           }, {
-            value: 'jiyang',
+            value: '隆林县',
             label: '隆林县'
           }, {
-            value: 'jiyang',
+            value: '靖西市',
             label: '靖西市'
           }]
         }, {
-          value: 'hechi',
+          value: '河池市',
           label: '河池市',
           children: [{
-            value: 'lixia',
+            value: '金城江区',
             label: '金城江区'
           }, {
-            value: 'shizhong',
+            value: '宜州区',
             label: '宜州区'
           }, {
-            value: 'huaiyin',
+            value: '南丹县',
             label: '南丹县'
           }, {
-            value: 'tianqiao',
+            value: '天峨县',
             label: '天峨县'
           }, {
-            value: 'licheng',
+            value: '凤山县',
             label: '凤山县'
           }, {
-            value: 'zhangqiu',
+            value: '东兰县',
             label: '东兰县'
           }, {
-            value: 'pinying',
+            value: '罗城县',
             label: '罗城县'
           }, {
-            value: 'jiyang',
+            value: '环江县',
             label: '环江县'
           }, {
-            value: 'jiyang',
+            value: '巴马县',
             label: '巴马县'
           }, {
-            value: 'jiyang',
+            value: '都安县',
             label: '都安县'
           }, {
-            value: 'jiyang',
+            value: '大化县',
             label: '大化县'
           }]
         }, {
-          value: 'laibing',
+          value: '来宾市',
           label: '来宾市',
           children: [{
-            value: 'lixia',
+            value: '兴宾区',
             label: '兴宾区'
           }, {
-            value: 'shizhong',
+            value: '忻城县',
             label: '忻城县'
           }, {
-            value: 'huaiyin',
+            value: '象州县',
             label: '象州县'
           }, {
-            value: 'tianqiao',
+            value: '武宣县',
             label: '武宣县'
           }, {
-            value: 'licheng',
+            value: '金秀县',
             label: '金秀县'
           }, {
-            value: 'zhangqiu',
+            value: '合山市',
             label: '合山市'
           }]
         }, {
-          value: 'chognzuo',
+          value: '崇左市',
           label: '崇左市',
           children: [{
-            value: 'lixia',
+            value: '江州区',
             label: '江州区'
           }, {
-            value: 'shizhong',
+            value: '扶绥县',
             label: '扶绥县'
           }, {
-            value: 'huaiyin',
+            value: '宁明县',
             label: '宁明县'
           }, {
-            value: 'tianqiao',
+            value: '龙州县',
             label: '龙州县'
           }, {
-            value: 'licheng',
+            value: '大新县',
             label: '大新县'
           }, {
-            value: 'zhangqiu',
+            value: '天等县',
             label: '天等县'
           }, {
-            value: 'pinying',
+            value: '凭祥市',
             label: '凭祥市'
           }]
         }]
       }, {
-        value: 'hainan',
+        value: '海南省',
         label: '海南省',
         children: [{
-          value: 'haikou',
+          value: '海口市',
           label: '海口市'
         }, {
-          value: 'sanya',
+          value: '三亚市',
           label: '三亚市'
         }, {
-          value: 'wuzhishan',
+          value: '五指山市',
           label: '五指山市'
         }, {
-          value: 'qionghai',
+          value: '琼海市',
           label: '琼海市'
         }, {
-          value: 'danzhou',
+          value: '儋州市',
           label: '儋州市'
         }, {
-          value: 'wenchang',
+          value: '文昌市',
           label: '文昌市'
         }, {
-          value: 'wanning',
+          value: '万宁市',
           label: '万宁市'
         }, {
-          value: 'dongfang',
+          value: '东方市',
           label: '东方市'
         }, {
-          value: 'qiongshan',
+          value: '定安县',
           label: '定安县'
         }, {
-          value: 'qiongshan',
+          value: '屯昌县',
           label: '屯昌县'
         }, {
-          value: 'qiongshan',
+          value: '澄迈县',
           label: '澄迈县'
         }, {
-          value: 'qiongshan',
+          value: '临高县',
           label: '临高县'
         }, {
-          value: 'qiongshan',
+          value: '白沙县',
           label: '白沙县'
         }, {
-          value: 'qiongshan',
+          value: '昌江县',
           label: '昌江县'
         }, {
-          value: 'qiongshan',
+          value: '乐东县',
           label: '乐东县'
         }, {
-          value: 'qiongshan',
+          value: '陵水县',
           label: '陵水县'
         }, {
-          value: 'qiongshan',
+          value: '保亭县',
           label: '保亭县'
         }, {
-          value: 'qiongshan',
+          value: '琼中县',
           label: '琼中县'
         }, {
-          value: 'qiongshan',
+          value: '三沙市',
           label: '三沙市'
         }]
       }, {
-        value: 'chongqing',
+        value: '四川省',
         label: '四川省',
         children: [{
-          value: 'jiangjin',
+          value: '成都市',
           label: '成都市',
           children: [{
-            value: 'lixia',
+            value: '锦江区',
             label: '锦江区'
           }, {
-            value: 'shizhong',
+            value: '青羊区',
             label: '青羊区'
           }, {
-            value: 'huaiyin',
+            value: '金牛区',
             label: '金牛区'
           }, {
-            value: 'tianqiao',
+            value: '武侯区',
             label: '武侯区'
           }, {
-            value: 'licheng',
+            value: '成华区',
             label: '成华区'
           }, {
-            value: 'zhangqiu',
+            value: '龙泉驿区',
             label: '龙泉驿区'
           }, {
-            value: 'pinying',
+            value: '青白江区',
             label: '青白江区'
           }, {
-            value: 'jiyang',
+            value: '新都区',
             label: '新都区'
           }, {
-            value: 'jiyang',
+            value: '温江区',
             label: '温江区'
           }, {
-            value: 'jiyang',
+            value: '双流区',
             label: '双流区'
           }, {
-            value: 'jiyang',
+            value: '郫都区',
             label: '郫都区'
           }, {
-            value: 'jiyang',
+            value: '新津区',
             label: '新津区'
           }, {
-            value: 'jiyang',
+            value: '金堂县',
             label: '金堂县'
           }, {
-            value: 'jiyang',
+            value: '大邑县',
             label: '大邑县'
           }, {
-            value: 'jiyang',
+            value: '蒲江县',
             label: '蒲江县'
           }, {
-            value: 'jiyang',
+            value: '都江堰市',
             label: '都江堰市'
           }, {
-            value: 'jiyang',
+            value: '彭州市',
             label: '彭州市'
           }, {
-            value: 'jiyang',
+            value: '邛崃市',
             label: '邛崃市'
           }, {
-            value: 'jiyang',
+            value: '崇州市',
             label: '崇州市'
           }, {
-            value: 'jiyang',
+            value: '简阳市',
             label: '简阳市'
           }]
         }, {
-          value: 'hechuan',
+          value: '自贡市',
           label: '自贡市',
           children: [{
-            value: 'lixia',
+            value: '自流井区',
             label: '自流井区'
           }, {
-            value: 'shizhong',
+            value: '贡井区',
             label: '贡井区'
           }, {
-            value: 'huaiyin',
+            value: '大安区',
             label: '大安区'
           }, {
-            value: 'tianqiao',
+            value: '沿滩区',
             label: '沿滩区'
           }, {
-            value: 'licheng',
+            value: '荣县',
             label: '荣县'
           }, {
-            value: 'zhangqiu',
+            value: '富顺县',
             label: '富顺县'
           }]
         }, {
-          value: 'yongchuan',
+          value: '攀枝花市',
           label: '攀枝花市',
           children: [{
-            value: 'lixia',
+            value: '东区',
             label: '东区'
           }, {
-            value: 'shizhong',
+            value: '西区',
             label: '西区'
           }, {
-            value: 'huaiyin',
+            value: '仁和区',
             label: '仁和区'
           }, {
-            value: 'tianqiao',
+            value: '米易县',
             label: '米易县'
           }, {
-            value: 'licheng',
+            value: '盐边县',
             label: '盐边县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '泸州市',
           label: '泸州市',
           children: [{
-            value: 'lixia',
+            value: '江阳区',
             label: '江阳区'
           }, {
-            value: 'shizhong',
+            value: '纳溪区',
             label: '纳溪区'
           }, {
-            value: 'huaiyin',
+            value: '龙马潭区',
             label: '龙马潭区'
           }, {
-            value: 'tianqiao',
+            value: '泸县',
             label: '泸县'
           }, {
-            value: 'licheng',
+            value: '合江县',
             label: '合江县'
           }, {
-            value: 'zhangqiu',
+            value: '叙永县',
             label: '叙永县'
           }, {
-            value: 'pinying',
+            value: '古蔺县',
             label: '古蔺县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '德阳市',
           label: '德阳市',
           children: [{
-            value: 'lixia',
+            value: '旌阳区',
             label: '旌阳区'
           }, {
-            value: 'shizhong',
+            value: '罗江区',
             label: '罗江区'
           }, {
-            value: 'huaiyin',
+            value: '中江县',
             label: '中江县'
           }, {
-            value: 'tianqiao',
+            value: '广汉市',
             label: '广汉市'
           }, {
-            value: 'licheng',
+            value: '什邡市',
             label: '什邡市'
           }, {
-            value: 'zhangqiu',
+            value: '绵竹市',
             label: '绵竹市'
           }]
         }, {
-          value: 'nanchuan',
+          value: '绵阳市',
           label: '绵阳市',
           children: [{
-            value: 'lixia',
+            value: '涪城区',
             label: '涪城区'
           }, {
-            value: 'shizhong',
+            value: '游仙区',
             label: '游仙区'
           }, {
-            value: 'huaiyin',
+            value: '安州区',
             label: '安州区'
           }, {
-            value: 'tianqiao',
+            value: '三台县',
             label: '三台县'
           }, {
-            value: 'licheng',
+            value: '盐亭县',
             label: '盐亭县'
           }, {
-            value: 'zhangqiu',
+            value: '梓潼县',
             label: '梓潼县'
           }, {
-            value: 'pinying',
+            value: '北川县',
             label: '北川县'
           }, {
-            value: 'jiyang',
+            value: '平武县',
             label: '平武县'
           }, {
-            value: 'jiyang',
+            value: '江油市',
             label: '江油市'
           }]
         }, {
-          value: 'nanchuan',
+          value: '广元市',
           label: '广元市',
           children: [{
-            value: 'lixia',
+            value: '利州区',
             label: '利州区'
           }, {
-            value: 'shizhong',
+            value: '昭化区',
             label: '昭化区'
           }, {
-            value: 'huaiyin',
+            value: '朝天区',
             label: '朝天区'
           }, {
-            value: 'tianqiao',
+            value: '旺苍县',
             label: '旺苍县'
           }, {
-            value: 'licheng',
+            value: '青川县',
             label: '青川县'
           }, {
-            value: 'zhangqiu',
+            value: '剑阁县',
             label: '剑阁县'
           }, {
-            value: 'pinying',
+            value: '苍溪县',
             label: '苍溪县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '遂宁市',
           label: '遂宁市',
           children: [{
-            value: 'lixia',
+            value: '船山区',
             label: '船山区'
           }, {
-            value: 'shizhong',
+            value: '安居区',
             label: '安居区'
           }, {
-            value: 'huaiyin',
+            value: '蓬溪县',
             label: '蓬溪县'
           }, {
-            value: 'tianqiao',
+            value: '射洪市',
             label: '射洪市'
           }, {
-            value: 'licheng',
+            value: '大英县',
             label: '大英县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '内江市',
           label: '内江市',
           children: [{
-            value: 'lixia',
+            value: '市中区',
             label: '市中区'
           }, {
-            value: 'shizhong',
+            value: '东兴区',
             label: '东兴区'
           }, {
-            value: 'huaiyin',
+            value: '威远县',
             label: '威远县'
           }, {
-            value: 'tianqiao',
+            value: '资中县',
             label: '资中县'
           }, {
-            value: 'licheng',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'zhangqiu',
+            value: '隆昌市',
             label: '隆昌市'
           }]
         }, {
-          value: 'nanchuan',
+          value: '乐山市',
           label: '乐山市',
           children: [{
-            value: 'lixia',
+            value: '市中区',
             label: '市中区'
           }, {
-            value: 'shizhong',
+            value: '沙湾区',
             label: '沙湾区'
           }, {
-            value: 'huaiyin',
+            value: '五通桥区',
             label: '五通桥区'
           }, {
-            value: 'tianqiao',
+            value: '金口河区',
             label: '金口河区'
           }, {
-            value: 'licheng',
+            value: '犍为县',
             label: '犍为县'
           }, {
-            value: 'zhangqiu',
+            value: '井研县',
             label: '井研县'
           }, {
-            value: 'pinying',
+            value: '夹江县',
             label: '夹江县'
           }, {
-            value: 'jiyang',
+            value: '沐川县',
             label: '沐川县'
           }, {
-            value: 'jiyang',
+            value: '峨边彝族自治县',
             label: '峨边彝族自治县'
           }, {
-            value: 'jiyang',
+            value: '马边彝族自治县',
             label: '马边彝族自治县'
           }, {
-            value: 'jiyang',
+            value: '峨眉山市',
             label: '峨眉山市'
           }]
         }, {
-          value: 'nanchuan',
+          value: '南充市',
           label: '南充市',
           children: [{
-            value: 'lixia',
+            value: '顺庆区',
             label: '顺庆区'
           }, {
-            value: 'shizhong',
+            value: '高坪区',
             label: '高坪区'
           }, {
-            value: 'huaiyin',
+            value: '嘉陵区',
             label: '嘉陵区'
           }, {
-            value: 'tianqiao',
+            value: '南部县',
             label: '南部县'
           }, {
-            value: 'licheng',
+            value: '营山县',
             label: '营山县'
           }, {
-            value: 'zhangqiu',
+            value: '蓬安县',
             label: '蓬安县'
           }, {
-            value: 'pinying',
+            value: '仪陇县',
             label: '仪陇县'
           }, {
-            value: 'jiyang',
+            value: '西充县',
             label: '西充县'
           }, {
-            value: 'jiyang',
+            value: '阆中市',
             label: '阆中市'
           }]
         }, {
-          value: 'nanchuan',
+          value: '眉山市',
           label: '眉山市',
           children: [{
-            value: 'lixia',
+            value: '东坡区',
             label: '东坡区'
           }, {
-            value: 'shizhong',
+            value: '彭山区',
             label: '彭山区'
           }, {
-            value: 'huaiyin',
+            value: '仁寿县',
             label: '仁寿县'
           }, {
-            value: 'tianqiao',
+            value: '洪雅县',
             label: '洪雅县'
           }, {
-            value: 'licheng',
+            value: '丹棱县',
             label: '丹棱县'
           }, {
-            value: 'zhangqiu',
+            value: '青神县',
             label: '青神县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '宜宾市',
           label: '宜宾市',
           children: [{
-            value: 'lixia',
+            value: '翠屏区',
             label: '翠屏区'
           }, {
-            value: 'shizhong',
+            value: '南溪区',
             label: '南溪区'
           }, {
-            value: 'huaiyin',
+            value: '叙州区',
             label: '叙州区'
           }, {
-            value: 'tianqiao',
+            value: '江安县',
             label: '江安县'
           }, {
-            value: 'licheng',
+            value: '长宁县',
             label: '长宁县'
           }, {
-            value: 'zhangqiu',
+            value: '高县',
             label: '高县'
           }, {
-            value: 'pinying',
+            value: '珙县',
             label: '珙县'
           }, {
-            value: 'jiyang',
+            value: '筠连县',
             label: '筠连县'
           }, {
-            value: 'jiyang',
+            value: '兴文县',
             label: '兴文县'
           }, {
-            value: 'jiyang',
+            value: '屏山县',
             label: '屏山县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '广安市',
           label: '广安市',
           children: [{
-            value: 'lixia',
+            value: '广安区',
             label: '广安区'
           }, {
-            value: 'shizhong',
+            value: '前锋区',
             label: '前锋区'
           }, {
-            value: 'huaiyin',
+            value: '岳池县',
             label: '岳池县'
           }, {
-            value: 'tianqiao',
+            value: '武胜县',
             label: '武胜县'
           }, {
-            value: 'licheng',
+            value: '邻水县',
             label: '邻水县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '达州市',
           label: '达州市',
           children: [{
-            value: 'lixia',
+            value: '通川区',
             label: '通川区'
           }, {
-            value: 'shizhong',
+            value: '达川区',
             label: '达川区'
           }, {
-            value: 'huaiyin',
+            value: '宣汉县',
             label: '宣汉县'
           }, {
-            value: 'tianqiao',
+            value: '开江县',
             label: '开江县'
           }, {
-            value: 'licheng',
+            value: '大竹县',
             label: '大竹县'
           }, {
-            value: 'zhangqiu',
+            value: '渠县',
             label: '渠县'
           }, {
-            value: 'pinying',
+            value: '经济开发区',
             label: '经济开发区'
           }, {
-            value: 'jiyang',
+            value: '万源市',
             label: '万源市'
           }]
         }, {
-          value: 'nanchuan',
+          value: '雅安市',
           label: '雅安市',
           children: [{
-            value: 'lixia',
+            value: '雨城区',
             label: '雨城区'
           }, {
-            value: 'shizhong',
+            value: '名山区',
             label: '名山区'
           }, {
-            value: 'huaiyin',
+            value: '荥经县',
             label: '荥经县'
           }, {
-            value: 'tianqiao',
+            value: '汉源县',
             label: '汉源县'
           }, {
-            value: 'licheng',
+            value: '石棉县',
             label: '石棉县'
           }, {
-            value: 'zhangqiu',
+            value: '天全县',
             label: '天全县'
           }, {
-            value: 'pinying',
+            value: '芦山县',
             label: '芦山县'
           }, {
-            value: 'jiyang',
+            value: '宝兴县',
             label: '宝兴县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '巴中市',
           label: '巴中市',
           children: [{
-            value: 'lixia',
+            value: '巴州区',
             label: '巴州区'
           }, {
-            value: 'shizhong',
+            value: '恩阳区',
             label: '恩阳区'
           }, {
-            value: 'huaiyin',
+            value: '通江县',
             label: '通江县'
           }, {
-            value: 'tianqiao',
+            value: '南江县',
             label: '南江县'
           }, {
-            value: 'licheng',
+            value: '平昌县',
             label: '平昌县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '资阳市',
           label: '资阳市',
           children: [{
-            value: 'lixia',
+            value: '雁江区',
             label: '雁江区'
           }, {
-            value: 'shizhong',
+            value: '安岳县',
             label: '安岳县'
           }, {
-            value: 'huaiyin',
+            value: '乐至县',
             label: '乐至县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '阿坝州',
           label: '阿坝州',
           children: [{
-            value: 'lixia',
+            value: '马尔康市',
             label: '马尔康市'
           }, {
-            value: 'shizhong',
+            value: '汶川县',
             label: '汶川县'
           }, {
-            value: 'huaiyin',
+            value: '理县',
             label: '理县'
           }, {
-            value: 'tianqiao',
+            value: '茂县',
             label: '茂县'
           }, {
-            value: 'licheng',
+            value: '松潘县',
             label: '松潘县'
           }, {
-            value: 'zhangqiu',
+            value: '九寨沟县',
             label: '九寨沟县'
           }, {
-            value: 'pinying',
+            value: '金川县',
             label: '金川县'
           }, {
-            value: 'jiyang',
+            value: '小金县',
             label: '小金县'
           }, {
-            value: 'jiyang',
+            value: '黑水县',
             label: '黑水县'
           }, {
-            value: 'jiyang',
+            value: '壤塘县',
             label: '壤塘县'
           }, {
-            value: 'jiyang',
+            value: '阿坝县',
             label: '阿坝县'
           }, {
-            value: 'jiyang',
+            value: '若尔盖县',
             label: '若尔盖县'
           }, {
-            value: 'jiyang',
+            value: '红原县',
             label: '红原县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '甘孜州',
           label: '甘孜州',
           children: [{
-            value: 'lixia',
+            value: '康定市',
             label: '康定市'
           }, {
-            value: 'shizhong',
+            value: '泸定县',
             label: '泸定县'
           }, {
-            value: 'huaiyin',
+            value: '丹巴县',
             label: '丹巴县'
           }, {
-            value: 'tianqiao',
+            value: '九龙县',
             label: '九龙县'
           }, {
-            value: 'licheng',
+            value: '雅江县',
             label: '雅江县'
           }, {
-            value: 'zhangqiu',
+            value: '道孚县',
             label: '道孚县'
           }, {
-            value: 'pinying',
+            value: '炉霍县',
             label: '炉霍县'
           }, {
-            value: 'jiyang',
+            value: '甘孜县',
             label: '甘孜县'
           }, {
-            value: 'jiyang',
+            value: '新龙县',
             label: '新龙县'
           }, {
-            value: 'jiyang',
+            value: '德格县',
             label: '德格县'
           }, {
-            value: 'jiyang',
+            value: '白玉县',
             label: '白玉县'
           }, {
-            value: 'jiyang',
+            value: '石渠县',
             label: '石渠县'
           }, {
-            value: 'jiyang',
+            value: '色达县',
             label: '色达县'
           }, {
-            value: 'jiyang',
+            value: '理塘县',
             label: '理塘县'
           }, {
-            value: 'jiyang',
+            value: '巴塘县',
             label: '巴塘县'
           }, {
-            value: 'jiyang',
+            value: '乡城县',
             label: '乡城县'
           }, {
-            value: 'jiyang',
+            value: '稻城县',
             label: '稻城县'
           }, {
-            value: 'jiyang',
+            value: '得荣县',
             label: '得荣县'
           }]
         }, {
-          value: 'nanchuan',
+          value: '凉山州',
           label: '凉山州',
           children: [{
-            value: 'lixia',
+            value: '西昌市',
             label: '西昌市'
           }, {
-            value: 'shizhong',
+            value: '木里县',
             label: '木里县'
           }, {
-            value: 'huaiyin',
+            value: '盐源县',
             label: '盐源县'
           }, {
-            value: 'tianqiao',
+            value: '德昌县',
             label: '德昌县'
           }, {
-            value: 'licheng',
+            value: '会理县',
             label: '会理县'
           }, {
-            value: 'zhangqiu',
+            value: '会东县',
             label: '会东县'
           }, {
-            value: 'pinying',
+            value: '宁南县',
             label: '宁南县'
           }, {
-            value: 'jiyang',
+            value: '普格县',
             label: '普格县'
           }, {
-            value: 'jiyang',
+            value: '布拖县',
             label: '布拖县'
           }, {
-            value: 'jiyang',
+            value: '金阳县',
             label: '金阳县'
           }, {
-            value: 'jiyang',
+            value: '昭觉县',
             label: '昭觉县'
           }, {
-            value: 'jiyang',
+            value: '喜德县',
             label: '喜德县'
           }, {
-            value: 'jiyang',
+            value: '冕宁县',
             label: '冕宁县'
           }, {
-            value: 'jiyang',
+            value: '越西县',
             label: '越西县'
           }, {
-            value: 'jiyang',
+            value: '甘洛县',
             label: '甘洛县'
           }, {
-            value: 'jiyang',
+            value: '美姑县',
             label: '美姑县'
           }, {
-            value: 'jiyang',
+            value: '雷波县',
             label: '雷波县'
           }]
         }]
       }, {
-        value: 'chongqing',
+        value: '重庆市',
         label: '重庆市',
         children: [{
-          value: 'chongqing',
+          value: '重庆市',
           label: '重庆市',
           children: [{
-            value: 'chengdu',
+            value: '万州区',
             label: '万州区'
           }, {
-            value: 'zigong',
+            value: '涪陵区',
             label: '涪陵区'
           }, {
-            value: 'panzhihua',
+            value: '渝中区',
             label: '渝中区'
           }, {
-            value: 'luzhou',
+            value: '大渡口区',
             label: '大渡口区'
           }, {
-            value: 'deyang',
+            value: '江北区',
             label: '江北区'
           }, {
-            value: 'mianyang',
+            value: '沙坪坝区',
             label: '沙坪坝区'
           }, {
-            value: 'guangyuan',
+            value: '九龙坡区',
             label: '九龙坡区'
           }, {
-            value: 'suining',
+            value: '南岸区',
             label: '南岸区'
           }, {
-            value: 'neijiang',
+            value: '北碚区',
             label: '北碚区'
           }, {
-            value: 'leshan',
+            value: '綦江区',
             label: '綦江区'
           }, {
-            value: 'nanchong',
+            value: '大足区',
             label: '大足区'
           }, {
-            value: 'yibin',
+            value: '渝北区',
             label: '渝北区'
           }, {
-            value: 'guangan',
+            value: '巴南区',
             label: '巴南区'
           }, {
-            value: 'dazhou',
+            value: '黔江区',
             label: '黔江区'
           }, {
-            value: 'dujiangyan',
+            value: '长寿区',
             label: '长寿区'
           }, {
-            value: 'pengzhou',
+            value: '江津区',
             label: '江津区'
           }, {
-            value: 'qionglai',
+            value: '合川区',
             label: '合川区'
           }, {
-            value: 'chongzhou',
+            value: '永川区',
             label: '永川区'
           }, {
-            value: 'guanghan',
+            value: '南川区',
             label: '南川区'
           }, {
-            value: 'shifang',
+            value: '璧山区',
             label: '璧山区'
           }, {
-            value: 'mianzhu',
+            value: '铜梁区',
             label: '铜梁区'
           }, {
-            value: 'jiangyou',
+            value: '潼南区',
             label: '潼南区'
           }, {
-            value: 'emeishan',
+            value: '荣昌区',
             label: '荣昌区'
           }, {
-            value: 'langzhong',
+            value: '开州区',
             label: '开州区'
           }, {
-            value: 'huaying',
+            value: '梁平区',
             label: '梁平区'
           }, {
-            value: 'wanyuan',
+            value: '武隆区',
             label: '武隆区'
           }, {
-            value: 'yaan',
+            value: '城口县',
             label: '城口县'
           }, {
-            value: 'xichuang',
+            value: '丰都县',
             label: '丰都县'
           }, {
-            value: 'bazhong',
+            value: '垫江县',
             label: '垫江县'
           }, {
-            value: 'ziyang',
+            value: '忠县',
             label: '忠县'
           }, {
-            value: 'jianyang',
+            value: '云阳县',
             label: '云阳县'
           }, {
-            value: 'jianyang',
+            value: '奉节县',
             label: '奉节县'
           }, {
-            value: 'jianyang',
+            value: '巫山县',
             label: '巫山县'
           }, {
-            value: 'jianyang',
+            value: '巫溪县',
             label: '巫溪县'
           }, {
-            value: 'jianyang',
+            value: '石柱县',
             label: '石柱县'
           }, {
-            value: 'jianyang',
+            value: '秀山县',
             label: '秀山县'
           }, {
-            value: 'jianyang',
+            value: '酉阳县',
             label: '酉阳县'
           }, {
-            value: 'jianyang',
+            value: '彭水县',
             label: '彭水县'
           }]
         }]
       }, {
-        value: 'guizhou',
+        value: '贵州省',
         label: '贵州省',
         children: [{
-          value: 'guiyang',
+          value: '贵阳市',
           label: '贵阳市',
           children: [{
-            value: 'chengdu',
+            value: '南明区',
             label: '南明区'
           }, {
-            value: 'zigong',
+            value: '云岩区',
             label: '云岩区'
           }, {
-            value: 'panzhihua',
+            value: '花溪区',
             label: '花溪区'
           }, {
-            value: 'luzhou',
+            value: '乌当区',
             label: '乌当区'
           }, {
-            value: 'deyang',
+            value: '白云区',
             label: '白云区'
           }, {
-            value: 'mianyang',
+            value: '观山湖区',
             label: '观山湖区'
           }, {
-            value: 'guangyuan',
+            value: '开阳县',
             label: '开阳县'
           }, {
-            value: 'suining',
+            value: '息烽县',
             label: '息烽县'
           }, {
-            value: 'neijiang',
+            value: '修文县',
             label: '修文县'
           }, {
-            value: 'leshan',
+            value: '清镇市',
             label: '清镇市'
           }]
         }, {
-          value: 'liupanshui',
+          value: '六盘水市',
           label: '六盘水市',
           children: [{
-            value: 'chengdu',
+            value: '钟山区',
             label: '钟山区'
           }, {
-            value: 'zigong',
+            value: '六枝特区',
             label: '六枝特区'
           }, {
-            value: 'panzhihua',
+            value: '水城区',
             label: '水城区'
           }, {
-            value: 'luzhou',
+            value: '盘州市',
             label: '盘州市'
           }]
         }, {
-          value: 'zunyi',
+          value: '遵义市',
           label: '遵义市',
           children: [{
-            value: 'chengdu',
+            value: '红花岗区',
             label: '红花岗区'
           }, {
-            value: 'zigong',
+            value: '汇川区',
             label: '汇川区'
           }, {
-            value: 'panzhihua',
+            value: '播州区',
             label: '播州区'
           }, {
-            value: 'luzhou',
+            value: '桐梓县',
             label: '桐梓县'
           }, {
-            value: 'deyang',
+            value: '绥阳县',
             label: '绥阳县'
           }, {
-            value: 'mianyang',
+            value: '正安县',
             label: '正安县'
           }, {
-            value: 'guangyuan',
+            value: '道真县',
             label: '道真县'
           }, {
-            value: 'suining',
+            value: '务川县',
             label: '务川县'
           }, {
-            value: 'neijiang',
+            value: '凤冈县',
             label: '凤冈县'
           }, {
-            value: 'leshan',
+            value: '湄潭县',
             label: '湄潭县'
           }, {
-            value: 'nanchong',
+            value: '余庆县',
             label: '余庆县'
           }, {
-            value: 'yibin',
+            value: '习水县',
             label: '习水县'
           }, {
-            value: 'guangan',
+            value: '赤水市',
             label: '赤水市'
           }, {
-            value: 'dazhou',
+            value: '仁怀市',
             label: '仁怀市'
           }]
         }, {
-          value: 'qingzheng',
+          value: '安顺市',
           label: '安顺市',
           children: [{
-            value: 'chengdu',
+            value: '西秀区',
             label: '西秀区'
           }, {
-            value: 'zigong',
+            value: '平坝区',
             label: '平坝区'
           }, {
-            value: 'panzhihua',
+            value: '普定县',
             label: '普定县'
           }, {
-            value: 'luzhou',
+            value: '镇宁县',
             label: '镇宁县'
           }, {
-            value: 'deyang',
+            value: '关岭县',
             label: '关岭县'
           }, {
-            value: 'mianyang',
+            value: '紫云县',
             label: '紫云县'
           }]
         }, {
-          value: 'bijie',
+          value: '毕节市',
           label: '毕节市',
           children: [{
-            value: 'chengdu',
+            value: '七星关区',
             label: '七星关区'
           }, {
-            value: 'zigong',
+            value: '大方县',
             label: '大方县'
           }, {
-            value: 'panzhihua',
+            value: '黔西县',
             label: '黔西县'
           }, {
-            value: 'luzhou',
+            value: '金沙县',
             label: '金沙县'
           }, {
-            value: 'deyang',
+            value: '织金县',
             label: '织金县'
           }, {
-            value: 'mianyang',
+            value: '纳雍县',
             label: '纳雍县'
           }, {
-            value: 'guangyuan',
+            value: '威宁县',
             label: '威宁县'
           }, {
-            value: 'suining',
+            value: '赫章县',
             label: '赫章县'
           }]
         }, {
-          value: 'anshun',
+          value: '铜仁市',
           label: '铜仁市',
           children: [{
-            value: 'chengdu',
+            value: '碧江区',
             label: '碧江区'
           }, {
-            value: 'zigong',
+            value: '万山区',
             label: '万山区'
           }, {
-            value: 'panzhihua',
+            value: '江口县',
             label: '江口县'
           }, {
-            value: 'luzhou',
+            value: '玉屏县',
             label: '玉屏县'
           }, {
-            value: 'deyang',
+            value: '石阡县',
             label: '石阡县'
           }, {
-            value: 'mianyang',
+            value: '思南县',
             label: '思南县'
           }, {
-            value: 'guangyuan',
+            value: '印江县',
             label: '印江县'
           }, {
-            value: 'suining',
+            value: '德江县',
             label: '德江县'
           }, {
-            value: 'neijiang',
+            value: '沿河县',
             label: '沿河县'
           }, {
-            value: 'leshan',
+            value: '松桃县',
             label: '松桃县'
           }]
         }, {
-          value: 'kaili',
+          value: '黔西南州',
           label: '黔西南州',
           children: [{
-            value: 'chengdu',
+            value: '兴义市',
             label: '兴义市'
           }, {
-            value: 'zigong',
+            value: '兴仁市',
             label: '兴仁市'
           }, {
-            value: 'panzhihua',
+            value: '普安县',
             label: '普安县'
           }, {
-            value: 'luzhou',
+            value: '晴隆县',
             label: '晴隆县'
           }, {
-            value: 'deyang',
+            value: '贞丰县',
             label: '贞丰县'
           }, {
-            value: 'mianyang',
+            value: '望谟县',
             label: '望谟县'
           }, {
-            value: 'guangyuan',
+            value: '册亨县',
             label: '册亨县'
           }, {
-            value: 'suining',
+            value: '安龙县',
             label: '安龙县'
           }]
         }, {
-          value: 'duyun',
+          value: '黔东南州',
           label: '黔东南州',
           children: [{
-            value: 'chengdu',
+            value: '凯里市',
             label: '凯里市'
           }, {
-            value: 'zigong',
+            value: '黄平县',
             label: '黄平县'
           }, {
-            value: 'panzhihua',
+            value: '施秉县',
             label: '施秉县'
           }, {
-            value: 'luzhou',
+            value: '三穗县',
             label: '三穗县'
           }, {
-            value: 'deyang',
+            value: '镇远县',
             label: '镇远县'
           }, {
-            value: 'mianyang',
+            value: '岑巩县',
             label: '岑巩县'
           }, {
-            value: 'guangyuan',
+            value: '天柱县',
             label: '天柱县'
           }, {
-            value: 'suining',
+            value: '锦屏县',
             label: '锦屏县'
           }, {
-            value: 'neijiang',
+            value: '剑河县',
             label: '剑河县'
           }, {
-            value: 'leshan',
+            value: '台江县',
             label: '台江县'
           }, {
-            value: 'nanchong',
+            value: '黎平县',
             label: '黎平县'
           }, {
-            value: 'yibin',
+            value: '榕江县',
             label: '榕江县'
           }, {
-            value: 'guangan',
+            value: '从江县',
             label: '从江县'
           }, {
-            value: 'dazhou',
+            value: '雷山县',
             label: '雷山县'
           }, {
-            value: 'dujiangyan',
+            value: '麻江县',
             label: '麻江县'
           }, {
-            value: 'pengzhou',
+            value: '丹寨县',
             label: '丹寨县'
           }]
         }, {
-          value: 'fuquan',
+          value: '黔南州',
           label: '黔南州',
           children: [{
-            value: 'chengdu',
+            value: '都匀市',
             label: '都匀市'
           }, {
-            value: 'zigong',
+            value: '福泉市',
             label: '福泉市'
           }, {
-            value: 'panzhihua',
+            value: '荔波县',
             label: '荔波县'
           }, {
-            value: 'luzhou',
+            value: '贵定县',
             label: '贵定县'
           }, {
-            value: 'deyang',
+            value: '瓮安县',
             label: '瓮安县'
           }, {
-            value: 'mianyang',
+            value: '独山县',
             label: '独山县'
           }, {
-            value: 'guangyuan',
+            value: '平塘县',
             label: '平塘县'
           }, {
-            value: 'suining',
+            value: '罗甸县',
             label: '罗甸县'
           }, {
-            value: 'neijiang',
+            value: '长顺县',
             label: '长顺县'
           }, {
-            value: 'leshan',
+            value: '龙里县',
             label: '龙里县'
           }, {
-            value: 'nanchong',
+            value: '惠水县',
             label: '惠水县'
           }, {
-            value: 'yibin',
+            value: '三都县',
             label: '三都县'
           }]
         }]
       }, {
-        value: 'yunnan',
+        value: '云南省',
         label: '云南省',
         children: [{
-          value: 'kunming',
+          value: '昆明市',
           label: '昆明市',
           children: [{
-            value: 'chengdu',
+            value: '五华区',
             label: '五华区'
           }, {
-            value: 'zigong',
+            value: '盘龙区',
             label: '盘龙区'
           }, {
-            value: 'panzhihua',
+            value: '官渡区',
             label: '官渡区'
           }, {
-            value: 'luzhou',
+            value: '西山区',
             label: '西山区'
           }, {
-            value: 'deyang',
+            value: '东川区',
             label: '东川区'
           }, {
-            value: 'mianyang',
+            value: '呈贡区',
             label: '呈贡区'
           }, {
-            value: 'guangyuan',
+            value: '晋宁区',
             label: '晋宁区'
           }, {
-            value: 'suining',
+            value: '富民县',
             label: '富民县'
           }, {
-            value: 'neijiang',
+            value: '宜良县',
             label: '宜良县'
           }, {
-            value: 'leshan',
+            value: '石林彝族自治县',
             label: '石林彝族自治县'
           }, {
-            value: 'nanchong',
+            value: '嵩明县',
             label: '嵩明县'
           }, {
-            value: 'yibin',
+            value: '禄劝县',
             label: '禄劝县'
           }, {
-            value: 'yibin',
+            value: '寻甸县',
             label: '寻甸县'
           }, {
-            value: 'yibin',
+            value: '安宁市',
             label: '安宁市'
           }]
         }, {
-          value: 'qujing',
+          value: '曲靖市',
           label: '曲靖市',
           children: [{
-            value: 'chengdu',
+            value: '麒麟区',
             label: '麒麟区'
           }, {
-            value: 'zigong',
+            value: '沾益区',
             label: '沾益区'
           }, {
-            value: 'panzhihua',
+            value: '马龙区',
             label: '马龙区'
           }, {
-            value: 'luzhou',
+            value: '陆良县',
             label: '陆良县'
           }, {
-            value: 'deyang',
+            value: '师宗县',
             label: '师宗县'
           }, {
-            value: 'mianyang',
+            value: '罗平县',
             label: '罗平县'
           }, {
-            value: 'guangyuan',
+            value: '富源县',
             label: '富源县'
           }, {
-            value: 'suining',
+            value: '会泽县',
             label: '会泽县'
           }, {
-            value: 'neijiang',
+            value: '宣威市',
             label: '宣威市'
           }]
         }, {
-          value: 'yuxi',
+          value: '玉溪市',
           label: '玉溪市',
           children: [{
-            value: 'chengdu',
+            value: '红塔区',
             label: '红塔区'
           }, {
-            value: 'zigong',
+            value: '江川区',
             label: '江川区'
           }, {
-            value: 'panzhihua',
+            value: '澄江县',
             label: '澄江县'
           }, {
-            value: 'luzhou',
+            value: '通海县',
             label: '通海县'
           }, {
-            value: 'deyang',
+            value: '华宁县',
             label: '华宁县'
           }, {
-            value: 'mianyang',
+            value: '易门县',
             label: '易门县'
           }, {
-            value: 'guangyuan',
+            value: '峨山县',
             label: '峨山县'
           }, {
-            value: 'suining',
+            value: '新平县',
             label: '新平县'
           }, {
-            value: 'neijiang',
+            value: '元江县',
             label: '元江县'
           }]
         }, {
-          value: 'anning',
+          value: '保山市',
           label: '保山市',
           children: [{
-            value: 'chengdu',
+            value: '隆阳区',
             label: '隆阳区'
           }, {
-            value: 'zigong',
+            value: '施甸县',
             label: '施甸县'
           }, {
-            value: 'panzhihua',
+            value: '龙陵县',
             label: '龙陵县'
           }, {
-            value: 'luzhou',
+            value: '昌宁县',
             label: '昌宁县'
           }, {
-            value: 'deyang',
+            value: '腾冲市',
             label: '腾冲市'
           }]
         }, {
-          value: 'xuanwei',
+          value: '昭通市',
           label: '昭通市',
           children: [{
-            value: 'chengdu',
+            value: '昭阳区',
             label: '昭阳区'
           }, {
-            value: 'zigong',
+            value: '鲁甸县',
             label: '鲁甸县'
           }, {
-            value: 'panzhihua',
+            value: '巧家县',
             label: '巧家县'
           }, {
-            value: 'luzhou',
+            value: '盐津县',
             label: '盐津县'
           }, {
-            value: 'deyang',
+            value: '大关县',
             label: '大关县'
           }, {
-            value: 'mianyang',
+            value: '永善县',
             label: '永善县'
           }, {
-            value: 'guangyuan',
+            value: '绥江县',
             label: '绥江县'
           }, {
-            value: 'suining',
+            value: '镇雄县',
             label: '镇雄县'
           }, {
-            value: 'neijiang',
+            value: '彝良县',
             label: '彝良县'
           }, {
-            value: 'leshan',
+            value: '威信县',
             label: '威信县'
           }, {
-            value: 'nanchong',
+            value: '水富市',
             label: '水富市'
           }]
         }, {
-          value: 'zhaotong',
+          value: '丽江市',
           label: '丽江市',
           children: [{
-            value: 'chengdu',
+            value: '古城区',
             label: '古城区'
           }, {
-            value: 'zigong',
+            value: '玉龙县',
             label: '玉龙县'
           }, {
-            value: 'panzhihua',
+            value: '永胜县',
             label: '永胜县'
           }, {
-            value: 'luzhou',
+            value: '华坪县',
             label: '华坪县'
           }, {
-            value: 'deyang',
+            value: '宁蒗县',
             label: '宁蒗县'
           }]
         }, {
-          value: 'chuxiong',
+          value: '普洱市',
           label: '普洱市',
           children: [{
-            value: 'chengdu',
+            value: '思茅区',
             label: '思茅区'
           }, {
-            value: 'zigong',
+            value: '宁洱县',
             label: '宁洱县'
           }, {
-            value: 'panzhihua',
+            value: '墨江县',
             label: '墨江县'
           }, {
-            value: 'luzhou',
+            value: '景东县',
             label: '景东县'
           }, {
-            value: 'deyang',
+            value: '景谷县',
             label: '景谷县'
           }, {
-            value: 'mianyang',
+            value: '镇沅县',
             label: '镇沅县'
           }, {
-            value: 'guangyuan',
+            value: '江城县',
             label: '江城县'
           }, {
-            value: 'suining',
+            value: '孟连县',
             label: '孟连县'
           }, {
-            value: 'neijiang',
+            value: '澜沧县',
             label: '澜沧县'
           }, {
-            value: 'leshan',
+            value: '西盟县',
             label: '西盟县'
           }]
         }, {
-          value: 'gejiu',
+          value: '临沧市',
           label: '临沧市',
           children: [{
-            value: 'chengdu',
+            value: '临翔区',
             label: '临翔区'
           }, {
-            value: 'zigong',
+            value: '凤庆县',
             label: '凤庆县'
           }, {
-            value: 'panzhihua',
+            value: '云县',
             label: '云县'
           }, {
-            value: 'luzhou',
+            value: '永德县',
             label: '永德县'
           }, {
-            value: 'deyang',
+            value: '镇康县',
             label: '镇康县'
           }, {
-            value: 'mianyang',
+            value: '双江县',
             label: '双江县'
           }, {
-            value: 'guangyuan',
+            value: '耿马县',
             label: '耿马县'
           }, {
-            value: 'suining',
+            value: '沧源县',
             label: '沧源县'
           }]
         }, {
-          value: 'kaiyuan',
+          value: '楚雄州',
           label: '楚雄州',
           children: [{
-            value: 'chengdu',
+            value: '楚雄市',
             label: '楚雄市'
           }, {
-            value: 'zigong',
+            value: '双柏县',
             label: '双柏县'
           }, {
-            value: 'panzhihua',
+            value: '牟定县',
             label: '牟定县'
           }, {
-            value: 'luzhou',
+            value: '南华县',
             label: '南华县'
           }, {
-            value: 'deyang',
+            value: '姚安县',
             label: '姚安县'
           }, {
-            value: 'mianyang',
+            value: '大姚县',
             label: '大姚县'
           }, {
-            value: 'guangyuan',
+            value: '永仁县',
             label: '永仁县'
           }, {
-            value: 'suining',
+            value: '元谋县',
             label: '元谋县'
           }, {
-            value: 'neijiang',
+            value: '武定县',
             label: '武定县'
           }, {
-            value: 'leshan',
+            value: '禄丰县',
             label: '禄丰县'
           }]
         }, {
-          value: 'simao',
+          value: '红河州',
           label: '红河州',
           children: [{
-            value: 'chengdu',
+            value: '个旧市',
             label: '个旧市'
           }, {
-            value: 'zigong',
+            value: '开远市',
             label: '开远市'
           }, {
-            value: 'panzhihua',
+            value: '蒙自市',
             label: '蒙自市'
           }, {
-            value: 'luzhou',
+            value: '弥勒市',
             label: '弥勒市'
           }, {
-            value: 'deyang',
+            value: '屏边县',
             label: '屏边县'
           }, {
-            value: 'mianyang',
+            value: '建水县',
             label: '建水县'
           }, {
-            value: 'guangyuan',
+            value: '石屏县',
             label: '石屏县'
           }, {
-            value: 'suining',
+            value: '泸西县',
             label: '泸西县'
           }, {
-            value: 'neijiang',
+            value: '元阳县',
             label: '元阳县'
           }, {
-            value: 'leshan',
+            value: '红河县',
             label: '红河县'
           }, {
-            value: 'nanchong',
+            value: '金平县',
             label: '金平县'
           }, {
-            value: 'yibin',
+            value: '绿春县',
             label: '绿春县'
           }, {
-            value: 'yibin',
+            value: '河口县',
             label: '河口县'
           }]
         }, {
-          value: 'jinghong',
+          value: '文山州',
           label: '文山州',
           children: [{
-            value: 'chengdu',
+            value: '文山市',
             label: '文山市'
           }, {
-            value: 'zigong',
+            value: '砚山县',
             label: '砚山县'
           }, {
-            value: 'panzhihua',
+            value: '西畴县',
             label: '西畴县'
           }, {
-            value: 'luzhou',
+            value: '麻栗坡县',
             label: '麻栗坡县'
           }, {
-            value: 'deyang',
+            value: '马关县',
             label: '马关县'
           }, {
-            value: 'mianyang',
+            value: '丘北县',
             label: '丘北县'
           }, {
-            value: 'guangyuan',
+            value: '广南县',
             label: '广南县'
           }, {
-            value: 'suining',
+            value: '富宁县',
             label: '富宁县'
           }]
         }, {
-          value: 'dali',
+          value: '西双版纳州',
           label: '西双版纳州',
           children: [{
-            value: 'chengdu',
+            value: '景洪市',
             label: '景洪市'
           }, {
-            value: 'zigong',
+            value: '勐海县',
             label: '勐海县'
           }, {
-            value: 'panzhihua',
+            value: '勐腊县',
             label: '勐腊县'
           }]
         }, {
-          value: 'baoshan',
+          value: '大理州',
           label: '大理州',
           children: [{
-            value: 'chengdu',
+            value: '大理市',
             label: '大理市'
           }, {
-            value: 'zigong',
+            value: '漾濞县',
             label: '漾濞县'
           }, {
-            value: 'panzhihua',
+            value: '祥云县',
             label: '祥云县'
           }, {
-            value: 'luzhou',
+            value: '宾川县',
             label: '宾川县'
           }, {
-            value: 'deyang',
+            value: '弥渡县',
             label: '弥渡县'
           }, {
-            value: 'mianyang',
+            value: '南涧县',
             label: '南涧县'
           }, {
-            value: 'guangyuan',
+            value: '巍山县',
             label: '巍山县'
           }, {
-            value: 'suining',
+            value: '永平县',
             label: '永平县'
           }, {
-            value: 'neijiang',
+            value: '云龙县',
             label: '云龙县'
           }, {
-            value: 'leshan',
+            value: '洱源县',
             label: '洱源县'
           }, {
-            value: 'nanchong',
+            value: '剑川县',
             label: '剑川县'
           }, {
-            value: 'yibin',
+            value: '鹤庆县',
             label: '鹤庆县'
           }]
         }, {
-          value: 'ruili',
+          value: '德宏州',
           label: '德宏州',
           children: [{
-            value: 'chengdu',
+            value: '瑞丽市',
             label: '瑞丽市'
           }, {
-            value: 'zigong',
+            value: '芒市',
             label: '芒市'
           }, {
-            value: 'panzhihua',
+            value: '梁河县',
             label: '梁河县'
           }, {
-            value: 'luzhou',
+            value: '盈江县',
             label: '盈江县'
           }, {
-            value: 'deyang',
+            value: '陇川县',
             label: '陇川县'
           }]
         }, {
-          value: 'luxi',
+          value: '怒江州',
           label: '怒江州',
           children: [{
-            value: 'chengdu',
+            value: '泸水市',
             label: '泸水市'
           }, {
-            value: 'zigong',
+            value: '福贡县',
             label: '福贡县'
           }, {
-            value: 'panzhihua',
+            value: '贡山县',
             label: '贡山县'
           }, {
-            value: 'luzhou',
+            value: '兰坪县',
             label: '兰坪县'
           }]
         }, {
-          value: 'luxi',
+          value: '迪庆州',
           label: '迪庆州',
           children: [{
-            value: 'chengdu',
+            value: '香格里拉市',
             label: '香格里拉市'
           }, {
-            value: 'zigong',
+            value: '德钦县',
             label: '德钦县'
           }, {
-            value: 'panzhihua',
+            value: '维西傈僳族自治县',
             label: '维西傈僳族自治县'
           }]
         }]
@@ -8914,1450 +8914,1450 @@ export default {
           value: 'xian',
           label: '西安市',
           children: [{
-            value: 'chengdu',
+            value: '新城区',
             label: '新城区'
           }, {
-            value: 'zigong',
+            value: '碑林区',
             label: '碑林区'
           }, {
-            value: 'panzhihua',
+            value: '莲湖区',
             label: '莲湖区'
           }, {
-            value: 'luzhou',
+            value: '灞桥区',
             label: '灞桥区'
           }, {
-            value: 'deyang',
+            value: '未央区',
             label: '未央区'
           }, {
-            value: 'mianyang',
+            value: '雁塔区',
             label: '雁塔区'
           }, {
-            value: 'guangyuan',
+            value: '阎良区',
             label: '阎良区'
           }, {
-            value: 'suining',
+            value: '临潼区',
             label: '临潼区'
           }, {
-            value: 'neijiang',
+            value: '长安区',
             label: '长安区'
           }, {
-            value: 'leshan',
+            value: '高陵区',
             label: '高陵区'
           }, {
-            value: 'nanchong',
+            value: '鄠邑区',
             label: '鄠邑区'
           }, {
-            value: 'yibin',
+            value: '蓝田县',
             label: '蓝田县'
           }, {
-            value: 'yibin',
+            value: '周至县',
             label: '周至县'
           }]
         }, {
-          value: 'tongchuan',
+          value: '铜川市',
           label: '铜川市',
           children: [{
-            value: 'chengdu',
+            value: '王益区',
             label: '王益区'
           }, {
-            value: 'zigong',
+            value: '印台区',
             label: '印台区'
           }, {
-            value: 'panzhihua',
+            value: '耀州区',
             label: '耀州区'
           }, {
-            value: 'luzhou',
+            value: '宜君县',
             label: '宜君县'
           }]
         }, {
-          value: 'baoji',
+          value: '宝鸡市',
           label: '宝鸡市',
           children: [{
-            value: 'chengdu',
+            value: '渭滨区',
             label: '渭滨区'
           }, {
-            value: 'zigong',
+            value: '金台区',
             label: '金台区'
           }, {
-            value: 'panzhihua',
+            value: '陈仓区',
             label: '陈仓区'
           }, {
-            value: 'luzhou',
+            value: '凤翔县',
             label: '凤翔县'
           }, {
-            value: 'deyang',
+            value: '岐山县',
             label: '岐山县'
           }, {
-            value: 'mianyang',
+            value: '扶风县',
             label: '扶风县'
           }, {
-            value: 'guangyuan',
+            value: '眉县',
             label: '眉县'
           }, {
-            value: 'suining',
+            value: '陇县',
             label: '陇县'
           }, {
-            value: 'neijiang',
+            value: '千阳县',
             label: '千阳县'
           }, {
-            value: 'leshan',
+            value: '麟游县',
             label: '麟游县'
           }, {
-            value: 'nanchong',
+            value: '凤县',
             label: '凤县'
           }, {
-            value: 'yibin',
+            value: '太白县',
             label: '太白县'
           }]
         }, {
-          value: 'xianyang',
+          value: '咸阳市',
           label: '咸阳市',
           children: [{
-            value: 'chengdu',
+            value: '秦都区',
             label: '秦都区'
           }, {
-            value: 'zigong',
+            value: '杨陵区',
             label: '杨陵区'
           }, {
-            value: 'panzhihua',
+            value: '渭城区',
             label: '渭城区'
           }, {
-            value: 'luzhou',
+            value: '三原县',
             label: '三原县'
           }, {
-            value: 'deyang',
+            value: '泾阳县',
             label: '泾阳县'
           }, {
-            value: 'mianyang',
+            value: '乾县',
             label: '乾县'
           }, {
-            value: 'guangyuan',
+            value: '礼泉县',
             label: '礼泉县'
           }, {
-            value: 'suining',
+            value: '永寿县',
             label: '永寿县'
           }, {
-            value: 'neijiang',
+            value: '长武县',
             label: '长武县'
           }, {
-            value: 'leshan',
+            value: '旬邑县',
             label: '旬邑县'
           }, {
-            value: 'nanchong',
+            value: '淳化县',
             label: '淳化县'
           }, {
-            value: 'yibin',
+            value: '武功县',
             label: '武功县'
           }, {
-            value: 'yibin',
+            value: '兴平市',
             label: '兴平市'
           }, {
-            value: 'yibin',
+            value: '彬州市',
             label: '彬州市'
           }]
         }, {
-          value: 'weinan',
+          value: '渭南市',
           label: '渭南市',
           children: [{
-            value: 'chengdu',
+            value: '临渭区',
             label: '临渭区'
           }, {
-            value: 'zigong',
+            value: '华州区',
             label: '华州区'
           }, {
-            value: 'panzhihua',
+            value: '潼关县',
             label: '潼关县'
           }, {
-            value: 'luzhou',
+            value: '大荔县',
             label: '大荔县'
           }, {
-            value: 'deyang',
+            value: '合阳县',
             label: '合阳县'
           }, {
-            value: 'mianyang',
+            value: '澄城县',
             label: '澄城县'
           }, {
-            value: 'guangyuan',
+            value: '蒲城县',
             label: '蒲城县'
           }, {
-            value: 'suining',
+            value: '白水县',
             label: '白水县'
           }, {
-            value: 'neijiang',
+            value: '富平县',
             label: '富平县'
           }, {
-            value: 'leshan',
+            value: '韩城市',
             label: '韩城市'
           }, {
-            value: 'nanchong',
+            value: '华阴市',
             label: '华阴市'
           }]
         }, {
-          value: 'yanan',
+          value: '延安市',
           label: '延安市',
           children: [{
-            value: 'chengdu',
+            value: '宝塔区',
             label: '宝塔区'
           }, {
-            value: 'zigong',
+            value: '安塞区',
             label: '安塞区'
           }, {
-            value: 'panzhihua',
+            value: '延长县',
             label: '延长县'
           }, {
-            value: 'luzhou',
+            value: '延川县',
             label: '延川县'
           }, {
-            value: 'deyang',
+            value: '志丹县',
             label: '志丹县'
           }, {
-            value: 'mianyang',
+            value: '吴起县',
             label: '吴起县'
           }, {
-            value: 'guangyuan',
+            value: '甘泉县',
             label: '甘泉县'
           }, {
-            value: 'suining',
+            value: '富县',
             label: '富县'
           }, {
-            value: 'neijiang',
+            value: '洛川县',
             label: '洛川县'
           }, {
-            value: 'leshan',
+            value: '宜川县',
             label: '宜川县'
           }, {
-            value: 'nanchong',
+            value: '黄龙县',
             label: '黄龙县'
           }, {
-            value: 'yibin',
+            value: '黄陵县',
             label: '黄陵县'
           }, {
-            value: 'yibin',
+            value: '子长市',
             label: '子长市'
           }]
         }, {
-          value: 'hanzhong',
+          value: '汉中市',
           label: '汉中市',
           children: [{
-            value: 'chengdu',
+            value: '汉台区',
             label: '汉台区'
           }, {
-            value: 'zigong',
+            value: '南郑区',
             label: '南郑区'
           }, {
-            value: 'panzhihua',
+            value: '城固县',
             label: '城固县'
           }, {
-            value: 'luzhou',
+            value: '洋县',
             label: '洋县'
           }, {
-            value: 'deyang',
+            value: '西乡县',
             label: '西乡县'
           }, {
-            value: 'mianyang',
+            value: '勉县',
             label: '勉县'
           }, {
-            value: 'guangyuan',
+            value: '宁强县',
             label: '宁强县'
           }, {
-            value: 'suining',
+            value: '略阳县',
             label: '略阳县'
           }, {
-            value: 'neijiang',
+            value: '镇巴县',
             label: '镇巴县'
           }, {
-            value: 'leshan',
+            value: '留坝县',
             label: '留坝县'
           }, {
-            value: 'nanchong',
+            value: '佛坪县',
             label: '佛坪县'
           }]
         }, {
-          value: 'yulin',
+          value: '榆林市',
           label: '榆林市',
           children: [{
-            value: 'chengdu',
+            value: '榆阳区',
             label: '榆阳区'
           }, {
-            value: 'zigong',
+            value: '横山区',
             label: '横山区'
           }, {
-            value: 'panzhihua',
+            value: '府谷县',
             label: '府谷县'
           }, {
-            value: 'luzhou',
+            value: '靖边县',
             label: '靖边县'
           }, {
-            value: 'deyang',
+            value: '定边县',
             label: '定边县'
           }, {
-            value: 'mianyang',
+            value: '绥德县',
             label: '绥德县'
           }, {
-            value: 'guangyuan',
+            value: '米脂县',
             label: '米脂县'
           }, {
-            value: 'suining',
+            value: '佳县',
             label: '佳县'
           }, {
-            value: 'neijiang',
+            value: '吴堡县',
             label: '吴堡县'
           }, {
-            value: 'leshan',
+            value: '清涧县',
             label: '清涧县'
           }, {
-            value: 'nanchong',
+            value: '子洲县',
             label: '子洲县'
           }, {
-            value: 'yibin',
+            value: '神木市',
             label: '神木市'
           }]
         }, {
-          value: 'ankang',
+          value: '安康市',
           label: '安康市',
           children: [{
-            value: 'chengdu',
+            value: '汉滨区',
             label: '汉滨区'
           }, {
-            value: 'zigong',
+            value: '汉阴县',
             label: '汉阴县'
           }, {
-            value: 'panzhihua',
+            value: '石泉县',
             label: '石泉县'
           }, {
-            value: 'luzhou',
+            value: '宁陕县',
             label: '宁陕县'
           }, {
-            value: 'deyang',
+            value: '紫阳县',
             label: '紫阳县'
           }, {
-            value: 'mianyang',
+            value: '岚皋县',
             label: '岚皋县'
           }, {
-            value: 'guangyuan',
+            value: '平利县',
             label: '平利县'
           }, {
-            value: 'suining',
+            value: '镇坪县',
             label: '镇坪县'
           }, {
-            value: 'neijiang',
+            value: '旬阳县',
             label: '旬阳县'
           }, {
-            value: 'leshan',
+            value: '白河县',
             label: '白河县'
           }]
         }, {
-          value: 'shangzhou',
+          value: '商洛市',
           label: '商洛市',
           children: [{
-            value: 'chengdu',
+            value: '商州区',
             label: '商州区'
           }, {
-            value: 'zigong',
+            value: '洛南县',
             label: '洛南县'
           }, {
-            value: 'panzhihua',
+            value: '丹凤县',
             label: '丹凤县'
           }, {
-            value: 'luzhou',
+            value: '商南县',
             label: '商南县'
           }, {
-            value: 'deyang',
+            value: '山阳县',
             label: '山阳县'
           }, {
-            value: 'mianyang',
+            value: '镇安县',
             label: '镇安县'
           }, {
-            value: 'guangyuan',
+            value: '柞水县',
             label: '柞水县'
           }]
         }]
       }, {
-        value: 'gansu',
+        value: '甘肃省',
         label: '甘肃省',
         children: [{
-          value: 'lanzhou',
+          value: '兰州市',
           label: '兰州市',
           children: [{
-            value: 'chengdu',
+            value: '城关区',
             label: '城关区'
           }, {
-            value: 'zigong',
+            value: '七里河区',
             label: '七里河区'
           }, {
-            value: 'panzhihua',
+            value: '西固区',
             label: '西固区'
           }, {
-            value: 'luzhou',
+            value: '安宁区',
             label: '安宁区'
           }, {
-            value: 'deyang',
+            value: '红古区',
             label: '红古区'
           }, {
-            value: 'mianyang',
+            value: '永登县',
             label: '永登县'
           }, {
-            value: 'guangyuan',
+            value: '皋兰县',
             label: '皋兰县'
           }, {
-            value: 'suining',
+            value: '榆中县',
             label: '榆中县'
           }, {
-            value: 'neijiang',
+            value: '兰州新区',
             label: '兰州新区'
           }]
         }, {
-          value: 'jiaguguan',
+          value: '嘉峪关市',
           label: '嘉峪关市',
           children: [{
-            value: 'chengdu',
+            value: '新城镇',
             label: '新城镇'
           }, {
-            value: 'zigong',
+            value: '峪泉镇',
             label: '峪泉镇'
           }, {
-            value: 'panzhihua',
+            value: '文殊镇',
             label: '文殊镇'
           }, {
-            value: 'luzhou',
+            value: '雄关区',
             label: '雄关区'
           }, {
-            value: 'deyang',
+            value: '镜铁区',
             label: '镜铁区'
           }, {
-            value: 'mianyang',
+            value: '长城区',
             label: '长城区'
           }]
         }, {
-          value: 'jinchang',
+          value: '金昌市',
           label: '金昌市',
           children: [{
-            value: 'chengdu',
+            value: '金川区',
             label: '金川区'
           }, {
-            value: 'zigong',
+            value: '永昌县',
             label: '永昌县'
           }]
         }, {
-          value: 'baiyin',
+          value: '白银市',
           label: '白银市',
           children: [{
-            value: 'chengdu',
+            value: '白银区',
             label: '白银区'
           }, {
-            value: 'zigong',
+            value: '平川区',
             label: '平川区'
           }, {
-            value: 'panzhihua',
+            value: '靖远县',
             label: '靖远县'
           }, {
-            value: 'luzhou',
+            value: '会宁县',
             label: '会宁县'
           }, {
-            value: 'deyang',
+            value: '景泰县',
             label: '景泰县'
           }]
         }, {
-          value: 'tainshui',
+          value: '天水市',
           label: '天水市',
           children: [{
-            value: 'chengdu',
+            value: '秦州区',
             label: '秦州区'
           }, {
-            value: 'zigong',
+            value: '麦积区',
             label: '麦积区'
           }, {
-            value: 'panzhihua',
+            value: '清水县',
             label: '清水县'
           }, {
-            value: 'luzhou',
+            value: '秦安县',
             label: '秦安县'
           }, {
-            value: 'deyang',
+            value: '甘谷县',
             label: '甘谷县'
           }, {
-            value: 'mianyang',
+            value: '武山县',
             label: '武山县'
           }, {
-            value: 'guangyuan',
+            value: '张家川回族自治县',
             label: '张家川回族自治县'
           }]
         }, {
-          value: 'zhangye',
+          value: '张掖市',
           label: '张掖市',
           children: [{
-            value: 'chengdu',
+            value: '甘州区',
             label: '甘州区'
           }, {
-            value: 'zigong',
+            value: '肃南县',
             label: '肃南县'
           }, {
-            value: 'panzhihua',
+            value: '民乐县',
             label: '民乐县'
           }, {
-            value: 'luzhou',
+            value: '临泽县',
             label: '临泽县'
           }, {
-            value: 'deyang',
+            value: '高台县',
             label: '高台县'
           }, {
-            value: 'mianyang',
+            value: '山丹县',
             label: '山丹县'
           }]
         }, {
-          value: 'wuwei',
+          value: '武威市',
           label: '武威市',
           children: [{
-            value: 'chengdu',
+            value: '凉州区',
             label: '凉州区'
           }, {
-            value: 'zigong',
+            value: '民勤县',
             label: '民勤县'
           }, {
-            value: 'panzhihua',
+            value: '古浪县',
             label: '古浪县'
           }, {
-            value: 'luzhou',
+            value: '天祝藏族自治县',
             label: '天祝藏族自治县'
           }]
         }, {
           value: 'pingliang',
           label: '平凉市',
           children: [{
-            value: 'chengdu',
+            value: '崆峒区',
             label: '崆峒区'
           }, {
-            value: 'zigong',
+            value: '泾川县',
             label: '泾川县'
           }, {
-            value: 'panzhihua',
+            value: '灵台县',
             label: '灵台县'
           }, {
-            value: 'luzhou',
+            value: '崇信县',
             label: '崇信县'
           }, {
-            value: 'deyang',
+            value: '华亭市',
             label: '华亭市'
           }, {
-            value: 'mianyang',
+            value: '庄浪县',
             label: '庄浪县'
           }, {
-            value: 'guangyuan',
+            value: '静宁县',
             label: '静宁县'
           }]
         }, {
-          value: 'xifeng',
+          value: '酒泉市',
           label: '酒泉市',
           children: [{
-            value: 'chengdu',
+            value: '肃州区',
             label: '肃州区'
           }, {
-            value: 'zigong',
+            value: '金塔县',
             label: '金塔县'
           }, {
-            value: 'panzhihua',
+            value: '瓜州县',
             label: '瓜州县'
           }, {
-            value: 'luzhou',
+            value: '肃北县',
             label: '肃北县'
           }, {
-            value: 'deyang',
+            value: '阿克塞县',
             label: '阿克塞县'
           }, {
-            value: 'mianyang',
+            value: '玉门市',
             label: '玉门市'
           }, {
-            value: 'guangyuan',
+            value: '敦煌市',
             label: '敦煌市'
           }]
         }, {
-          value: 'linxia',
+          value: '庆阳市',
           label: '庆阳市',
           children: [{
-            value: 'chengdu',
+            value: '西峰区',
             label: '西峰区'
           }, {
-            value: 'zigong',
+            value: '庆城县',
             label: '庆城县'
           }, {
-            value: 'panzhihua',
+            value: '环县',
             label: '环县'
           }, {
-            value: 'luzhou',
+            value: '华池县',
             label: '华池县'
           }, {
-            value: 'deyang',
+            value: '合水县',
             label: '合水县'
           }, {
-            value: 'mianyang',
+            value: '正宁县',
             label: '正宁县'
           }, {
-            value: 'guangyuan',
+            value: '宁县',
             label: '宁县'
           }, {
-            value: 'suining',
+            value: '镇原县',
             label: '镇原县'
           }]
         }, {
-          value: 'hezuo',
+          value: '定西市',
           label: '定西市',
           children: [{
-            value: 'chengdu',
+            value: '安定区',
             label: '安定区'
           }, {
-            value: 'zigong',
+            value: '通渭县',
             label: '通渭县'
           }, {
-            value: 'panzhihua',
+            value: '陇西县',
             label: '陇西县'
           }, {
-            value: 'luzhou',
+            value: '渭源县',
             label: '渭源县'
           }, {
-            value: 'deyang',
+            value: '临洮县',
             label: '临洮县'
           }, {
-            value: 'mianyang',
+            value: '漳县',
             label: '漳县'
           }, {
-            value: 'guangyuan',
+            value: '岷县',
             label: '岷县'
           }]
         }, {
-          value: 'hezuo',
+          value: '陇南市',
           label: '陇南市',
           children: [{
-            value: 'chengdu',
+            value: '武都区',
             label: '武都区'
           }, {
-            value: 'zigong',
+            value: '成县',
             label: '成县'
           }, {
-            value: 'panzhihua',
+            value: '文县',
             label: '文县'
           }, {
-            value: 'luzhou',
+            value: '宕昌县',
             label: '宕昌县'
           }, {
-            value: 'deyang',
+            value: '康县',
             label: '康县'
           }, {
-            value: 'mianyang',
+            value: '西和县',
             label: '西和县'
           }, {
-            value: 'guangyuan',
+            value: '礼县',
             label: '礼县'
           }, {
-            value: 'suining',
+            value: '徽县',
             label: '徽县'
           }, {
-            value: 'neijiang',
+            value: '两当县',
             label: '两当县'
           }]
         }, {
-          value: 'hezuo',
+          value: '临夏州',
           label: '临夏州',
           children: [{
-            value: 'chengdu',
+            value: '临夏市',
             label: '临夏市'
           }, {
-            value: 'zigong',
+            value: '临夏县',
             label: '临夏县'
           }, {
-            value: 'panzhihua',
+            value: '康乐县',
             label: '康乐县'
           }, {
-            value: 'luzhou',
+            value: '永靖县',
             label: '永靖县'
           }, {
-            value: 'deyang',
+            value: '广河县',
             label: '广河县'
           }, {
-            value: 'mianyang',
+            value: '和政县',
             label: '和政县'
           }, {
-            value: 'guangyuan',
+            value: '东乡族自治县',
             label: '东乡族自治县'
           }, {
-            value: 'suining',
+            value: '积石山县',
             label: '积石山县'
           }]
         }, {
-          value: 'hezuo',
+          value: '甘南州',
           label: '甘南州',
           children: [{
-            value: 'chengdu',
+            value: '合作市',
             label: '合作市'
           }, {
-            value: 'zigong',
+            value: '临潭县',
             label: '临潭县'
           }, {
-            value: 'panzhihua',
+            value: '卓尼县',
             label: '卓尼县'
           }, {
-            value: 'luzhou',
+            value: '舟曲县',
             label: '舟曲县'
           }, {
-            value: 'deyang',
+            value: '迭部县',
             label: '迭部县'
           }, {
-            value: 'mianyang',
+            value: '玛曲县',
             label: '玛曲县'
           }, {
-            value: 'guangyuan',
+            value: '碌曲县',
             label: '碌曲县'
           }, {
-            value: 'suining',
+            value: '夏河县',
             label: '夏河县'
           }]
         }]
       }, {
-        value: 'qinghai',
+        value: '青海省',
         label: '青海省',
         children: [{
-          value: 'xining',
+          value: '西宁市',
           label: '西宁市',
           children: [{
-            value: 'chengdu',
+            value: '城东区',
             label: '城东区'
           }, {
-            value: 'zigong',
+            value: '城中区',
             label: '城中区'
           }, {
-            value: 'panzhihua',
+            value: '城西区',
             label: '城西区'
           }, {
-            value: 'luzhou',
+            value: '城北区',
             label: '城北区'
           }, {
-            value: 'deyang',
+            value: '大通县',
             label: '大通县'
           }, {
-            value: 'mianyang',
+            value: '湟中县',
             label: '湟中县'
           }, {
-            value: 'guangyuan',
+            value: '湟源县',
             label: '湟源县'
           }]
         }, {
-          value: 'geermu',
+          value: '海东市',
           label: '海东市',
           children: [{
-            value: 'chengdu',
+            value: '乐都区',
             label: '乐都区'
           }, {
-            value: 'zigong',
+            value: '平安区',
             label: '平安区'
           }, {
-            value: 'panzhihua',
+            value: '民和县',
             label: '民和县'
           }, {
-            value: 'luzhou',
+            value: '互助县',
             label: '互助县'
           }, {
-            value: 'deyang',
+            value: '化隆回族自治县',
             label: '化隆回族自治县'
           }, {
-            value: 'mianyang',
+            value: '循化撒拉族自治县',
             label: '循化撒拉族自治县'
           }]
         }, {
-          value: 'delingha',
+          value: '海北州',
           label: '海北州',
           children: [{
-            value: 'chengdu',
+            value: '门源回族自治县',
             label: '门源回族自治县'
           }, {
-            value: 'zigong',
+            value: '祁连县',
             label: '祁连县'
           }, {
-            value: 'panzhihua',
+            value: '海晏县',
             label: '海晏县'
           }, {
-            value: 'luzhou',
+            value: '刚察县',
             label: '刚察县'
           }]
         }, {
-          value: 'delingha',
+          value: '黄南州',
           label: '黄南州',
           children: [{
-            value: 'chengdu',
+            value: '同仁市',
             label: '同仁市'
           }, {
-            value: 'zigong',
+            value: '尖扎县',
             label: '尖扎县'
           }, {
-            value: 'panzhihua',
+            value: '泽库县',
             label: '泽库县'
           }, {
-            value: 'luzhou',
+            value: '河南蒙古族自治县',
             label: '河南蒙古族自治县'
           }]
         }, {
-          value: 'delingha',
+          value: '海南州',
           label: '海南州',
           children: [{
-            value: 'chengdu',
+            value: '共和县',
             label: '共和县'
           }, {
-            value: 'zigong',
+            value: '同德县',
             label: '同德县'
           }, {
-            value: 'panzhihua',
+            value: '贵德县',
             label: '贵德县'
           }, {
-            value: 'luzhou',
+            value: '兴海县',
             label: '兴海县'
           }, {
-            value: 'deyang',
+            value: '贵南县',
             label: '贵南县'
           }]
         }, {
-          value: 'delingha',
+          value: '果洛州',
           label: '果洛州',
           children: [{
-            value: 'chengdu',
+            value: '玛沁县',
             label: '玛沁县'
           }, {
-            value: 'zigong',
+            value: '班玛县',
             label: '班玛县'
           }, {
-            value: 'panzhihua',
+            value: '甘德县',
             label: '甘德县'
           }, {
-            value: 'luzhou',
+            value: '达日县',
             label: '达日县'
           }, {
-            value: 'deyang',
+            value: '久治县',
             label: '久治县'
           }, {
-            value: 'mianyang',
+            value: '玛多县',
             label: '玛多县'
           }]
         }, {
-          value: 'delingha',
+          value: '玉树州',
           label: '玉树州',
           children: [{
-            value: 'chengdu',
+            value: '玉树市',
             label: '玉树市'
           }, {
-            value: 'zigong',
+            value: '杂多县',
             label: '杂多县'
           }, {
-            value: 'panzhihua',
+            value: '称多县',
             label: '称多县'
           }, {
-            value: 'luzhou',
+            value: '治多县',
             label: '治多县'
           }, {
-            value: 'deyang',
+            value: '囊谦县',
             label: '囊谦县'
           }, {
-            value: 'mianyang',
+            value: '曲麻莱县',
             label: '曲麻莱县'
           }]
         }, {
-          value: 'delingha',
+          value: '海西州',
           label: '海西州',
           children: [{
-            value: 'chengdu',
+            value: '格尔木市',
             label: '格尔木市'
           }, {
-            value: 'zigong',
+            value: '德令哈市',
             label: '德令哈市'
           }, {
-            value: 'panzhihua',
+            value: '茫崖市',
             label: '茫崖市'
           }, {
-            value: 'luzhou',
+            value: '乌兰县',
             label: '乌兰县'
           }, {
-            value: 'deyang',
+            value: '都兰县',
             label: '都兰县'
           }, {
-            value: 'mianyang',
+            value: '天峻县',
             label: '天峻县'
           }, {
-            value: 'guangyuan',
+            value: '大柴旦行委',
             label: '大柴旦行委'
           }]
         }]
       }, {
-        value: 'ningxia',
+        value: '宁夏',
         label: '宁夏',
         children: [{
-          value: 'yinchuan',
+          value: '银川市',
           label: '银川市',
           children: [{
-            value: 'chengdu',
+            value: '兴庆区',
             label: '兴庆区'
           }, {
-            value: 'zigong',
+            value: '西夏区',
             label: '西夏区'
           }, {
-            value: 'panzhihua',
+            value: '金凤区',
             label: '金凤区'
           }, {
-            value: 'luzhou',
+            value: '永宁县',
             label: '永宁县'
           }, {
-            value: 'deyang',
+            value: '贺兰县',
             label: '贺兰县'
           }, {
-            value: 'mianyang',
+            value: '灵武市',
             label: '灵武市'
           }]
         }, {
-          value: 'zuishan',
+          value: '石嘴山市',
           label: '石嘴山市',
           children: [{
-            value: 'chengdu',
+            value: '大武口区',
             label: '大武口区'
           }, {
-            value: 'zigong',
+            value: '惠农区',
             label: '惠农区'
           }, {
-            value: 'panzhihua',
+            value: '平罗县',
             label: '平罗县'
           }]
         }, {
-          value: 'qingtongxia',
+          value: '吴忠市',
           label: '吴忠市',
           children: [{
-            value: 'chengdu',
+            value: '利通区',
             label: '利通区'
           }, {
-            value: 'zigong',
+            value: '红寺堡区',
             label: '红寺堡区'
           }, {
-            value: 'panzhihua',
+            value: '盐池县',
             label: '盐池县'
           }, {
-            value: 'luzhou',
+            value: '同心县',
             label: '同心县'
           }, {
-            value: 'deyang',
+            value: '青铜峡市',
             label: '青铜峡市'
           }]
         }, {
-          value: 'lingwushi',
+          value: '固原市',
           label: '固原市',
           children: [{
-            value: 'chengdu',
+            value: '原州区',
             label: '原州区'
           }, {
-            value: 'zigong',
+            value: '西吉县',
             label: '西吉县'
           }, {
-            value: 'panzhihua',
+            value: '隆德县',
             label: '隆德县'
           }, {
-            value: 'luzhou',
+            value: '泾源县',
             label: '泾源县'
           }, {
-            value: 'deyang',
+            value: '彭阳县',
             label: '彭阳县'
           }]
         }, {
-          value: 'lingwushi',
+          value: '中卫市',
           label: '中卫市',
           children: [{
-            value: 'chengdu',
+            value: '沙坡头区',
             label: '沙坡头区'
           }, {
-            value: 'zigong',
+            value: '中宁县',
             label: '中宁县'
           }, {
-            value: 'panzhihua',
+            value: '海原县',
             label: '海原县'
           }]
         }]
       }, {
-        value: 'xinjiang',
+        value: '新疆',
         label: '新疆',
         children: [{
-          value: 'wulumuqi',
+          value: '乌鲁木齐市',
           label: '乌鲁木齐市',
           children: [{
-            value: 'chengdu',
+            value: '天山区',
             label: '天山区'
           }, {
-            value: 'zigong',
+            value: '沙依巴克区',
             label: '沙依巴克区'
           }, {
-            value: 'panzhihua',
+            value: '高新区（新市区）',
             label: '高新区（新市区）'
           }, {
-            value: 'luzhou',
+            value: '水磨沟区',
             label: '水磨沟区'
           }, {
-            value: 'deyang',
+            value: '经济开发区（头屯河区）',
             label: '经济开发区（头屯河区）'
           }, {
-            value: 'mianyang',
+            value: '达坂城区',
             label: '达坂城区'
           }, {
-            value: 'mianyang',
+            value: '米东区',
             label: '米东区'
           }, {
-            value: 'mianyang',
+            value: '乌鲁木齐县',
             label: '乌鲁木齐县'
           }]
         }, {
-          value: 'kelamayi',
+          value: '克拉玛依市',
           label: '克拉玛依市',
           children: [{
-            value: 'chengdu',
+            value: '独山子区',
             label: '独山子区'
           }, {
-            value: 'zigong',
+            value: '克拉玛依区',
             label: '克拉玛依区'
           }, {
-            value: 'panzhihua',
+            value: '白碱滩区',
             label: '白碱滩区'
           }, {
-            value: 'luzhou',
+            value: '乌尔禾区',
             label: '乌尔禾区'
           }]
         }, {
-          value: 'tulufan',
+          value: '吐鲁番市',
           label: '吐鲁番市',
           children: [{
-            value: 'chengdu',
+            value: '高昌区',
             label: '高昌区'
           }, {
-            value: 'zigong',
+            value: '鄯善县',
             label: '鄯善县'
           }, {
-            value: 'panzhihua',
+            value: '托克逊县',
             label: '托克逊县'
           }]
         }, {
-          value: 'hami',
+          value: '哈密市',
           label: '哈密市',
           children: [{
-            value: 'chengdu',
+            value: '伊州区',
             label: '伊州区'
           }, {
-            value: 'zigong',
+            value: '巴里坤县',
             label: '巴里坤县'
           }, {
-            value: 'panzhihua',
+            value: '伊吾县',
             label: '伊吾县'
           }]
         }, {
-          value: 'changji',
+          value: '昌吉州',
           label: '昌吉州',
           children: [{
-            value: 'chengdu',
+            value: '昌吉市',
             label: '昌吉市'
           }, {
-            value: 'zigong',
+            value: '阜康市',
             label: '阜康市'
           }, {
-            value: 'panzhihua',
+            value: '呼图壁县',
             label: '呼图壁县'
           }, {
-            value: 'luzhou',
+            value: '玛纳斯县',
             label: '玛纳斯县'
           }, {
-            value: 'deyang',
+            value: '奇台县',
             label: '奇台县'
           }, {
-            value: 'mianyang',
+            value: '吉木萨尔县',
             label: '吉木萨尔县'
           }, {
-            value: 'mianyang',
+            value: '木垒哈萨克自治县',
             label: '木垒哈萨克自治县'
           }]
         }, {
-          value: 'fukang',
+          value: '博尔塔拉州',
           label: '博尔塔拉州',
           children: [{
-            value: 'chengdu',
+            value: '博乐市',
             label: '博乐市'
           }, {
-            value: 'zigong',
+            value: '阿拉山口市',
             label: '阿拉山口市'
           }, {
-            value: 'panzhihua',
+            value: '精河县',
             label: '精河县'
           }, {
-            value: 'luzhou',
+            value: '温泉县',
             label: '温泉县'
           }]
         }, {
-          value: 'miquan',
+          value: '巴音郭楞州',
           label: '巴音郭楞州',
           children: [{
-            value: 'chengdu',
+            value: '库尔勒市',
             label: '库尔勒市'
           }, {
-            value: 'zigong',
+            value: '轮台县',
             label: '轮台县'
           }, {
-            value: 'panzhihua',
+            value: '尉犁县',
             label: '尉犁县'
           }, {
-            value: 'luzhou',
+            value: '若羌县',
             label: '若羌县'
           }, {
-            value: 'deyang',
+            value: '且末县',
             label: '且末县'
           }, {
-            value: 'mianyang',
+            value: '焉耆回族自治县',
             label: '焉耆回族自治县'
           }, {
-            value: 'mianyang',
+            value: '和静县',
             label: '和静县'
           }, {
-            value: 'mianyang',
+            value: '和硕县',
             label: '和硕县'
           }, {
-            value: 'mianyang',
+            value: '博湖县',
             label: '博湖县'
           }]
         }, {
-          value: 'bole',
+          value: '阿克苏地区',
           label: '阿克苏地区',
           children: [{
-            value: 'chengdu',
+            value: '阿克苏市',
             label: '阿克苏市'
           }, {
-            value: 'zigong',
+            value: '温宿县',
             label: '温宿县'
           }, {
-            value: 'panzhihua',
+            value: '库车县',
             label: '库车县'
           }, {
-            value: 'luzhou',
+            value: '沙雅县',
             label: '沙雅县'
           }, {
-            value: 'deyang',
+            value: '新和县',
             label: '新和县'
           }, {
-            value: 'mianyang',
+            value: '拜城县',
             label: '拜城县'
           }, {
-            value: 'mianyang',
+            value: '乌什县',
             label: '乌什县'
           }, {
-            value: 'mianyang',
+            value: '阿瓦提县',
             label: '阿瓦提县'
           }, {
-            value: 'mianyang',
+            value: '柯坪县',
             label: '柯坪县'
           }]
         }, {
-          value: 'kuerle',
+          value: '克孜勒苏州',
           label: '克孜勒苏州',
           children: [{
-            value: 'chengdu',
+            value: '阿图什市',
             label: '阿图什市'
           }, {
-            value: 'zigong',
+            value: '阿克陶县',
             label: '阿克陶县'
           }, {
-            value: 'panzhihua',
+            value: '阿合奇县',
             label: '阿合奇县'
           }, {
-            value: 'luzhou',
+            value: '乌恰县',
             label: '乌恰县'
           }]
         }, {
-          value: 'akesu',
+          value: '喀什地区',
           label: '喀什地区',
           children: [{
-            value: 'chengdu',
+            value: '喀什市',
             label: '喀什市'
           }, {
-            value: 'zigong',
+            value: '疏附县',
             label: '疏附县'
           }, {
-            value: 'panzhihua',
+            value: '疏勒县',
             label: '疏勒县'
           }, {
-            value: 'luzhou',
+            value: '英吉沙县',
             label: '英吉沙县'
           }, {
-            value: 'deyang',
+            value: '泽普县',
             label: '泽普县'
           }, {
-            value: 'mianyang',
+            value: '莎车县',
             label: '莎车县'
           }, {
-            value: 'mianyang',
+            value: '叶城县',
             label: '叶城县'
           }, {
-            value: 'mianyang',
+            value: '麦盖提县',
             label: '麦盖提县'
           }, {
-            value: 'mianyang',
+            value: '岳普湖县',
             label: '岳普湖县'
           }, {
-            value: 'mianyang',
+            value: '伽师县',
             label: '伽师县'
           }, {
-            value: 'mianyang',
+            value: '巴楚县',
             label: '巴楚县'
           }, {
-            value: 'mianyang',
+            value: '塔什库尔干塔吉克县',
             label: '塔什库尔干塔吉克县'
           }]
         }, {
-          value: 'atushi',
+          value: '和田地区',
           label: '和田地区',
           children: [{
-            value: 'chengdu',
+            value: '和田市',
             label: '和田市'
           }, {
-            value: 'zigong',
+            value: '和田县',
             label: '和田县'
           }, {
-            value: 'panzhihua',
+            value: '墨玉县',
             label: '墨玉县'
           }, {
-            value: 'luzhou',
+            value: '皮山县',
             label: '皮山县'
           }, {
-            value: 'deyang',
+            value: '洛浦县',
             label: '洛浦县'
           }, {
-            value: 'mianyang',
+            value: '策勒县',
             label: '策勒县'
           }, {
-            value: 'mianyang',
+            value: '于田县',
             label: '于田县'
           }, {
-            value: 'mianyang',
+            value: '民丰县',
             label: '民丰县'
           }]
         }, {
-          value: 'keshi',
+          value: '伊犁州',
           label: '伊犁州',
           children: [{
-            value: 'chengdu',
+            value: '伊宁市',
             label: '伊宁市'
           }, {
-            value: 'zigong',
+            value: '奎屯市',
             label: '奎屯市'
           }, {
-            value: 'panzhihua',
+            value: '霍尔果斯市',
             label: '霍尔果斯市'
           }, {
-            value: 'luzhou',
+            value: '伊宁县',
             label: '伊宁县'
           }, {
-            value: 'deyang',
+            value: '察布县',
             label: '察布县'
           }, {
-            value: 'mianyang',
+            value: '霍城县',
             label: '霍城县'
           }, {
-            value: 'mianyang',
+            value: '巩留县',
             label: '巩留县'
           }, {
-            value: 'mianyang',
+            value: '新源县',
             label: '新源县'
           }, {
-            value: 'mianyang',
+            value: '昭苏县',
             label: '昭苏县'
           }, {
-            value: 'mianyang',
+            value: '特克斯县',
             label: '特克斯县'
           }, {
-            value: 'mianyang',
+            value: '尼勒克县',
             label: '尼勒克县'
           }]
         }, {
-          value: 'hetian',
+          value: '塔城地区',
           label: '塔城地区',
           children: [{
-            value: 'chengdu',
+            value: '塔城市',
             label: '塔城市'
           }, {
-            value: 'zigong',
+            value: '乌苏市',
             label: '乌苏市'
           }, {
-            value: 'panzhihua',
+            value: '额敏县',
             label: '额敏县'
           }, {
-            value: 'luzhou',
+            value: '沙湾县',
             label: '沙湾县'
           }, {
-            value: 'deyang',
+            value: '托里县',
             label: '托里县'
           }, {
-            value: 'mianyang',
+            value: '裕民县',
             label: '裕民县'
           }, {
-            value: 'mianyang',
+            value: '和布克赛尔县',
             label: '和布克赛尔县'
           }]
         }, {
-          value: 'kuitun',
+          value: '阿勒泰地区',
           label: '阿勒泰地区',
           children: [{
-            value: 'chengdu',
+            value: '阿勒泰市',
             label: '阿勒泰市'
           }, {
-            value: 'zigong',
+            value: '布尔津县',
             label: '布尔津县'
           }, {
-            value: 'panzhihua',
+            value: '富蕴县',
             label: '富蕴县'
           }, {
-            value: 'luzhou',
+            value: '福海县',
             label: '福海县'
           }, {
-            value: 'deyang',
+            value: '哈巴河县',
             label: '哈巴河县'
           }, {
-            value: 'mianyang',
+            value: '青河县',
             label: '青河县'
           }, {
-            value: 'mianyang',
+            value: '吉木乃县',
             label: '吉木乃县'
           }]
         }, {
-          value: 'yining',
+          value: '石河子市',
           label: '石河子市',
           children: [{
-            value: 'chengdu',
+            value: '新城街道',
             label: '新城街道'
           }, {
-            value: 'zigong',
+            value: '向阳街道',
             label: '向阳街道'
           }, {
-            value: 'panzhihua',
+            value: '红山街道',
             label: '红山街道'
           }, {
-            value: 'luzhou',
+            value: '老街街道',
             label: '老街街道'
           }, {
-            value: 'deyang',
+            value: '东城街道',
             label: '东城街道'
           }, {
-            value: 'mianyang',
+            value: '北泉镇',
             label: '北泉镇'
           }, {
-            value: 'mianyang',
+            value: '石河子镇',
             label: '石河子镇'
           }, {
-            value: 'mianyang',
+            value: '兵团一五二团',
             label: '兵团一五二团'
           }]
         }, {
-          value: 'tacheng',
+          value: '阿拉尔市',
           label: '阿拉尔市',
           children: [{
-            value: 'chengdu',
+            value: '金银川路街道',
             label: '金银川路街道'
           }, {
-            value: 'zigong',
+            value: '幸福路街道',
             label: '幸福路街道'
           }, {
-            value: 'panzhihua',
+            value: '青松路街道',
             label: '青松路街道'
           }, {
-            value: 'luzhou',
+            value: '南口街道',
             label: '南口街道'
           }, {
-            value: 'deyang',
+            value: '沙河镇',
             label: '沙河镇'
           }, {
-            value: 'mianyang',
+            value: '托喀依乡',
             label: '托喀依乡'
           }, {
-            value: 'mianyang',
+            value: '兵团七团',
             label: '兵团七团'
           }, {
-            value: 'mianyang',
+            value: '兵团八团',
             label: '兵团八团'
           }]
         }, {
-          value: 'wusu',
+          value: '图木舒克市',
           label: '图木舒克市',
           children: [{
-            value: 'chengdu',
+            value: '齐干却勒街道',
             label: '齐干却勒街道'
           }, {
-            value: 'zigong',
+            value: '前海街道',
             label: '前海街道'
           }, {
-            value: 'panzhihua',
+            value: '永安坝街道',
             label: '永安坝街道'
           }, {
-            value: 'luzhou',
+            value: '兵团四十四团',
             label: '兵团四十四团'
           }, {
-            value: 'deyang',
+            value: '兵团四十九团',
             label: '兵团四十九团'
           }, {
-            value: 'mianyang',
+            value: '兵团五十团',
             label: '兵团五十团'
           }, {
-            value: 'mianyang',
+            value: '兵团五十一团',
             label: '兵团五十一团'
           }, {
-            value: 'mianyang',
+            value: '兵团五十三团',
             label: '兵团五十三团'
           }, {
-            value: 'mianyang',
+            value: '草湖镇',
             label: '草湖镇'
           }, {
-            value: 'mianyang',
+            value: '喀拉拜勒镇',
             label: '喀拉拜勒镇'
           }]
         }, {
-          value: 'aletai',
+          value: '五家渠市',
           label: '五家渠市',
           children: [{
-            value: 'chengdu',
+            value: '军垦路街道',
             label: '军垦路街道'
           }, {
-            value: 'zigong',
+            value: '青湖路街道',
             label: '青湖路街道'
           }, {
-            value: 'panzhihua',
+            value: '人民路街道',
             label: '人民路街道'
           }, {
-            value: 'luzhou',
+            value: '梧桐镇',
             label: '梧桐镇'
           }, {
-            value: 'deyang',
+            value: '蔡家湖镇',
             label: '蔡家湖镇'
           }, {
-            value: 'mianyang',
+            value: '兵团一零一团',
             label: '兵团一零一团'
           }, {
-            value: 'mianyang',
+            value: '兵团一零二团',
             label: '兵团一零二团'
           }, {
-            value: 'mianyang',
+            value: '兵团一零三团',
             label: '兵团一零三团'
           }]
         }, {
-          value: 'aletai',
+          value: '北屯市',
           label: '北屯市'
         }, {
-          value: 'aletai',
+          value: '铁门关市',
           label: '铁门关市',
           children: [{
-            value: 'chengdu',
+            value: '博古其镇',
             label: '博古其镇'
           }, {
-            value: 'zigong',
+            value: '双丰镇',
             label: '双丰镇'
           }]
         }, {
-          value: 'aletai',
+          value: '双河市',
           label: '双河市'
         }, {
-          value: 'aletai',
+          value: '可克达拉市',
           label: '可克达拉市'
         }, {
-          value: 'aletai',
+          value: '昆玉市',
           label: '昆玉市'
         }]
       }]
